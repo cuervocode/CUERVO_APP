@@ -1,0 +1,33 @@
+name: Compilar para Mac OS - Cuervo Edition
+
+on: 
+  push:
+    branches: [ "main" ] # OJO: Si tu rama se llama 'principal', cámbialo aquí.
+
+jobs:
+  construir:
+    runs-on: macos-latest
+
+    steps:
+    - name: Descargando código del repo
+      uses: actions/checkout@v4
+
+    - name: Configurando Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Instalando librerías necesarias
+      run: |
+        pip install customtkinter pillow pyinstaller
+
+    - name: Creando el ejecutable (.app)
+      run: |
+        # Usando el nombre exacto corregido: CUERVO_QUIZES.py
+        pyinstaller --noconsole --onefile --windowed --icon=CUERVO_APP.icns --add-data "CUERVO_APP.icns:." --add-data "*.json:." CUERVO_QUIZES.py
+
+    - name: Guardando el resultado (Artefacto)
+      uses: actions/upload-artifact@v4
+      with:
+        name: App-Naval-Mac-Cuervo
+        path: dist/*.app
