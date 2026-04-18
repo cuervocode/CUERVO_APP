@@ -1,0 +1,502 @@
+[
+    {
+        "pregunta": "¿Qué leyes establecen como mandato para la Armada de México el empleo del poder naval de la Federación en la defensa de la soberanía nacional y la seguridad interior?",
+        "opciones": ["La Ley de Seguridad Nacional y el Manual de Operaciones Navales.", "La Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Armada de México y la Ley de la Administración Pública Federal.", "El Plan Nacional de Desarrollo y la Ley Federal de Armas de Fuego y Explosivos."],
+        "respuesta_correcta": "La Constitución Política de los Estados Unidos Mexicanos, la Ley Orgánica de la Armada de México y la Ley de la Administración Pública Federal."
+    },
+    {
+        "pregunta": "¿En qué grupos quedan agrupadas las atribuciones de la Armada de México como fundamento de las operaciones?",
+        "opciones": ["Operaciones de guerra y operaciones diferentes a las de guerra.", "Defensa marítima del territorio nacional y de ejercicio de las funciones del estado en la mar.", "Seguridad interior y defensa exterior de la nación."],
+        "respuesta_correcta": "Defensa marítima del territorio nacional y de ejercicio de las funciones del estado en la mar."
+    },
+    {
+        "pregunta": "¿De qué depende el éxito de la misión según la firme voluntad de actuar con rapidez por parte del Comandante?",
+        "opciones": ["De la reevaluación constante de la situación.", "Del conocimiento de la diversidad de equipos y sistemas.", "De la neutralización de la amenaza."],
+        "respuesta_correcta": "De la reevaluación constante de la situación."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del manual DAM 1.3.3 según el prefacio?",
+        "opciones": ["Establecer las Tácticas, Técnicas y Procedimientos de combate.", "Normar las actividades operativas de las unidades de Infantería de Marina de la Armada, tanto de guerra como aquellas diferentes a las de guerra.", "Definir la misión y visión del Cuartel General de la Infantería de Marina."],
+        "respuesta_correcta": "Normar las actividades operativas de las unidades de Infantería de Marina de la Armada, tanto de guerra como aquellas diferentes a las de guerra."
+    },
+    {
+        "pregunta": "¿Cuál es la visión de la Infantería de Marina respecto a su constitución orgánica?",
+        "opciones": ["Una Brigada Anfibia en cada litoral y un Batallón de Asalto Anfibio.", "Un Cuartel General, una división en el litoral del Pacífico, una división en el litoral del Golfo de México y Mar Caribe, así como una Brigada central.", "Un Cuerpo de Infantería de Marina con tres Regiones Navales y una Fuerza de Tarea Aeroterrestre."],
+        "respuesta_correcta": "Un Cuartel General, una división en el litoral del Pacífico, una división en el litoral del Golfo de México y Mar Caribe, así como una Brigada central."
+    },
+    {
+        "pregunta": "¿De qué publicación se deriva el DAM 1.3.3?",
+        "opciones": ["DAM 1.3.4 Doctrina de Operaciones Anfibias.", "DAM 1.3 Operaciones Navales.", "DAM 5.1.4 Manual de Términos y Símbolos Operacionales."],
+        "respuesta_correcta": "DAM 1.3 Operaciones Navales."
+    },
+    {
+        "pregunta": "¿Cuál es el origen de los Infantes de Marina Mexicanos, según sus raíces históricas?",
+        "opciones": ["El Batallón de Infantería de Marina de Veracruz de 1822.", "El Imperio Azteca, en la elite militar donde los guerreros eran seleccionados para integrar la elite \"Cipactli\".", "El \"Trozo de desembarco\" del buque General Guerrero de 1916."],
+        "respuesta_correcta": "El Imperio Azteca, en la elite militar donde los guerreros eran seleccionados para integrar la elite \"Cipactli\"."
+    },
+    {
+        "pregunta": "¿En qué año y bajo qué ley adquiere su nombre oficial como \"Cuerpo de Infantería de Marina\"?",
+        "opciones": ["1823, en el pie veterano del cuerpo.", "1914, en la ley orgánica de ese año.", "1916, al formarse el \"Trozo de desembarco\"."],
+        "respuesta_correcta": "1914, en la ley orgánica de ese año."
+    },
+    {
+        "pregunta": "¿Cómo participa la Armada de México en la política militar del Estado?",
+        "opciones": ["Formando parte esencial del poder marítimo nacional.", "Al constituirse en la fuerza responsable de la defensa marítima del territorio.", "Mediante el ejercicio del poder naval sobre la superficie del mar."],
+        "respuesta_correcta": "Al constituirse en la fuerza responsable de la defensa marítima del territorio."
+    },
+    {
+        "pregunta": "¿Qué representa el poder naval que ejerce la Armada de México?",
+        "opciones": ["El poder militar que se tiene sobre la superficie del mar, en la franja costera y en el espacio aéreo correspondiente.", "La capacidad de conducir operaciones de guerra y ONDG simultáneamente.", "El control total de las costas e islas nacionales mediante el potencial anfibio."],
+        "respuesta_correcta": "El poder militar que se tiene sobre la superficie del mar, en la franja costera y en el espacio aéreo correspondiente."
+    },
+    {
+        "pregunta": "¿Cuáles son las dos misiones generales consideradas para el ejercicio del poder naval?",
+        "opciones": ["Defensa exterior y mantenimiento de la paz.", "Defensa Marítima del Territorio Nacional y coadyuvar con la Seguridad Interior.", "Operaciones de guerra y operaciones navales diferentes a las de guerra."],
+        "respuesta_correcta": "Defensa Marítima del Territorio Nacional y coadyuvar con la Seguridad Interior."
+    },
+    {
+        "pregunta": "¿Cómo se define conceptualmente al Cuerpo de Infantería de Marina?",
+        "opciones": ["Como la unidad mínima administrativa y el elemento básico de combate o de servicio.", "Como la gran unidad superior de la Armada de México, compuesta de dos o más grandes unidades elementales de Infantería de Marina más reservas del servicio militar nacional.", "Como la unidad táctica básica de maniobra o de apoyo de una Brigada de Infantería de Marina."],
+        "respuesta_correcta": "Como la gran unidad superior de la Armada de México, compuesta de dos o más grandes unidades elementales de Infantería de Marina más reservas del servicio militar nacional."
+    },
+    {
+        "pregunta": "¿Qué tipo de organización administrativa tienen las unidades de Infantería de Marina?",
+        "opciones": ["Organización binaria (dos elementos de maniobra).", "Organización tripartita (tres elementos de maniobra a cargo de un comandante).", "Organización por agrupamientos de armas combinadas."],
+        "respuesta_correcta": "Organización tripartita (tres elementos de maniobra a cargo de un comandante)."
+    },
+    {
+        "pregunta": "¿Cuál es la unidad mínima e indivisible de combate en la Infantería de Marina?",
+        "opciones": ["El Pelotón.", "La Escuadra.", "La Sección."],
+        "respuesta_correcta": "La Escuadra."
+    },
+    {
+        "pregunta": "¿Cómo se define al Pelotón?",
+        "opciones": ["Unidad mínima de maniobra táctica.", "Unidad mínima de instrucción y combate compuesto por dos o tres escuadras.", "Unidad mínima administrativa y elemento básico de combate."],
+        "respuesta_correcta": "Unidad mínima de instrucción y combate compuesto por dos o tres escuadras."
+    },
+    {
+        "pregunta": "¿Qué unidad constituye el elemento de maniobra o fuego de la compañía/batería?",
+        "opciones": ["El Pelotón.", "La Sección.", "El Batallón."],
+        "respuesta_correcta": "La Sección."
+    },
+    {
+        "pregunta": "¿Cómo se define a la Compañía o Batería?",
+        "opciones": ["Unidad táctica básica de maniobra.", "Unidad mínima administrativa y el elemento básico de combate o de servicio.", "Pequeña Unidad Regimental de nivel Brigada."],
+        "respuesta_correcta": "Unidad mínima administrativa y el elemento básico de combate o de servicio."
+    },
+    {
+        "pregunta": "¿Qué unidad es considerada la unidad fundamental del campo de batalla?",
+        "opciones": ["La Compañía.", "El Batallón.", "La Brigada."],
+        "respuesta_correcta": "El Batallón."
+    },
+    {
+        "pregunta": "¿De qué se compone un Batallón de Infantería de Marina?",
+        "opciones": ["Cuartel General, dos Compañías de fusileros y una de Armas de Apoyo.", "Cuartel General, tres Compañías de fusileros de Infantería de Marina, una Compañía de Armas de Apoyo y una Compañía de Cuartel General y Servicios.", "Mando, Grupo de Comando y tres Secciones de maniobra."],
+        "respuesta_correcta": "Cuartel General, tres Compañías de fusileros de Infantería de Marina, una Compañía de Armas de Apoyo y una Compañía de Cuartel General y Servicios."
+    },
+    {
+        "pregunta": "¿Qué diferencia a una Brigada de Infantería de Marina (BRIGIM) de una Brigada Anfibia de Infantería de Marina (BRIGAIM)?",
+        "opciones": ["La BRIGIM es una gran unidad elemental y la BRIGAIM es una pequeña unidad regimental.", "La BRIGIM es una Pequeña Unidad Regimental de nivel \"Brigada Divisionaria\", mientras que la BRIGAIM es una Gran Unidad Elemental de tipo Brigada Independiente.", "La BRIGIM cuenta con Batallones de Asalto Anfibio y la BRIGAIM solo con Batallones de Infantería."],
+        "respuesta_correcta": "La BRIGIM es una Pequeña Unidad Regimental de nivel \"Brigada Divisionaria\", mientras que la BRIGAIM es una Gran Unidad Elemental de tipo Brigada Independiente."
+    },
+    {
+        "pregunta": "¿Qué unidad agrupa a un núcleo de dos o más Brigadas de Infantería de Marina bajo un mismo Cuartel General?",
+        "opciones": ["El Cuerpo de IM.", "La División de IM.", "La Fuerza de Tarea Aeroterrestre Superior."],
+        "respuesta_correcta": "La División de IM."
+    },
+    {
+        "pregunta": "¿Cuál es el modelo de organización que emplea la Armada de México para llevar a cabo operaciones de combate?",
+        "opciones": ["El Sistema de Mando y Control Centralizado.", "Las Fuerzas de Tarea.", "Las Regiones y Zonas Navales."],
+        "respuesta_correcta": "Las Fuerzas de Tarea."
+    },
+    {
+        "pregunta": "En una Fuerza de Tarea Anfibia (FTA), ¿cómo se denomina al componente de combate terrestre?",
+        "opciones": ["Grupo de Tarea Terrestre (GTT).", "Fuerza de Desembarco (FD).", "Unidad de Tarea Independiente (UTI)."],
+        "respuesta_correcta": "Fuerza de Desembarco (FD)."
+    },
+    {
+        "pregunta": "¿Qué organización temporal se emplea para conducir operaciones terrestres tierra adentro cuando el espacio de batalla es bidimensional?",
+        "opciones": ["Fuerza de Tarea Anfibia (FTA).", "Fuerza de Tarea Aeroterrestre (FTAT).", "Fuerza de Tarea Aeromarítima (FTAM)."],
+        "respuesta_correcta": "Fuerza de Tarea Aeroterrestre (FTAT)."
+    },
+    {
+        "pregunta": "¿Cuáles son los cuatro componentes básicos de una Fuerza de Tarea Anfibia (FTA)?",
+        "opciones": ["Mando, Inteligencia, Operaciones y Logística.", "Mando y Estado Mayor, la Fuerza de Superficie (FS), la Fuerza de Desembarco (FD) y la Fuerza de Aviación Naval (FAN).", "Grupo de Tarea Terrestre, Grupo de Tarea Aéreo y Grupo de Tarea de Superficie."],
+        "respuesta_correcta": "Mando y Estado Mayor, la Fuerza de Superficie (FS), la Fuerza de Desembarco (FD) y la Fuerza de Aviación Naval (FAN)."
+    },
+    {
+        "pregunta": "¿Qué tipo de organización se designa para operaciones que no involucran acciones de combate, como desfiles o ayuda humanitaria?",
+        "opciones": ["Unidad de Tarea Independiente (UTI).", "Fuerza de Tarea Especial (FTE).", "Grupo de Tarea Logístico."],
+        "respuesta_correcta": "Fuerza de Tarea Especial (FTE)."
+    },
+    {
+        "pregunta": "¿Cuáles son los 4 elementos básicos que componen un sistema de Mando y Control?",
+        "opciones": ["Mando, Estado Mayor, Tropas y Equipo.", "Personal, Administración de información, Equipo e instalaciones (computadoras/comunicaciones) y Procedimientos.", "Planificación, Ejecución, Supervisión y Evaluación."],
+        "respuesta_correcta": "Personal, Administración de información, Equipo e instalaciones (computadoras/comunicaciones) y Procedimientos."
+    },
+    {
+        "pregunta": "¿Quién es el responsable de la coordinación y control de las operaciones terrestres en una FTAT?",
+        "opciones": ["El Coordinador de Fuegos de Apoyo (CFA).", "El Centro de Operaciones de Combate (COC) a cargo del Jefe de la Sección de Operaciones del GTT.", "El Centro de Comando Aéreo Táctico (CCAT)."],
+        "respuesta_correcta": "El Centro de Operaciones de Combate (COC) a cargo del Jefe de la Sección de Operaciones del GTT."
+    },
+    {
+        "pregunta": "¿A partir de qué nivel de unidad se designa un Centro Coordinador de Fuegos de Apoyo (CCFA)?",
+        "opciones": ["Compañía y superiores.", "Batallón y superiores.", "Brigada y superiores."],
+        "respuesta_correcta": "Batallón y superiores."
+    },
+    {
+        "pregunta": "¿Qué organismo es el máximo centro de mando y control del Grupo de Tarea Aéreo (GTA) en una FTAT?",
+        "opciones": ["El Centro de Dirección de Apoyo Aéreo (CDAA).", "El Centro Comando Aéreo Táctico (CCAT).", "El Centro de Operaciones Aéreas Tácticas (COAT)."],
+        "respuesta_correcta": "El Centro Comando Aéreo Táctico (CCAT)."
+    },
+    {
+        "pregunta": "¿Cuál es el imperativo funcional de las Fuerzas Armadas según la doctrina?",
+        "opciones": ["Mantener el Estado de Derecho en tiempo de paz.", "Luchar y ganar las guerras en que se vea involucrado el país al que representan.", "Proteger las instalaciones estratégicas de la nación."],
+        "respuesta_correcta": "Luchar y ganar las guerras en que se vea involucrado el país al que representan."
+    },
+    {
+        "pregunta": "¿En qué zonas se divide el territorio nacional en una organización militar de tiempo de guerra?",
+        "opciones": ["Zona Norte y Zona Sur.", "Zona del Interior (ZI) y Zona de Operaciones (ZO).", "Regiones Navales y Teatros de Operaciones."],
+        "respuesta_correcta": "Zona del Interior (ZI) y Zona de Operaciones (ZO)."
+    },
+    {
+        "pregunta": "¿Qué es un Teatro de Operaciones (TO)?",
+        "opciones": ["El área geográfica donde se lleva a cabo una campaña e incluye territorio, mares y el espacio aéreo necesario.", "La división política del país para efectos de administración militar.", "El área asignada a una Brigada para la conducción de tácticas particulares."],
+        "respuesta_correcta": "El área geográfica donde se lleva a cabo una campaña e incluye territorio, mares y el espacio aéreo necesario."
+    },
+    {
+        "pregunta": "¿Cuántos principios de la guerra reconoce la Armada de México?",
+        "opciones": ["6 principios.", "9 principios.", "12 principios."],
+        "respuesta_correcta": "9 principios."
+    },
+    {
+        "pregunta": "¿Cuál es el principio que sirve de fundamento para la aplicación de todos los demás?",
+        "opciones": ["Unidad de Mando.", "Unidad de objetivo y continuidad en la acción.", "Acción ofensiva."],
+        "respuesta_correcta": "Unidad de objetivo y continuidad en la acción."
+    },
+    {
+        "pregunta": "¿En qué consiste el principio de \"Acción Ofensiva\"?",
+        "opciones": ["En concentrar el poder de combate en el momento decisivo.", "En arrebatar, retener y explotar la iniciativa.", "En proteger la integridad de la fuerza propia."],
+        "respuesta_correcta": "En arrebatar, retener y explotar la iniciativa."
+    },
+    {
+        "pregunta": "¿Qué principio significa concentrar los efectos del poder de combate en el lugar y momento decisivos?",
+        "opciones": ["Maniobra.", "Concentración y economía de fuerzas.", "Masa."],
+        "respuesta_correcta": "Concentración y economía de fuerzas."
+    },
+    {
+        "pregunta": "¿Cómo se define el principio de \"Sencillez\"?",
+        "opciones": ["En evitar el uso de tecnología compleja en el campo de batalla.", "En que los planes militares y las órdenes para ejecutarlos deberán ser concisos, directos, claros, definidos y fáciles de comprender.", "En emplear el mínimo de fuerzas para objetivos secundarios."],
+        "respuesta_correcta": "En que los planes militares y las órdenes para ejecutarlos deberán ser concisos, directos, claros, definidos y fáciles de comprender."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de la acción ofensiva?",
+        "opciones": ["Retener terreno clave y ganar tiempo.", "Destruir al enemigo y su deseo de luchar, para ganar, mantener y explotar la iniciativa.", "Engañar al enemigo sobre nuestras intenciones defensivas."],
+        "respuesta_correcta": "Destruir al enemigo y su deseo de luchar, para ganar, mantener y explotar la iniciativa."
+    },
+    {
+        "pregunta": "¿Cuáles son los cuatro tipos generales de operaciones terrestres ofensivas?",
+        "opciones": ["Incursión, Finta, Demostración y Reconocimiento.", "Movimiento al contacto, ataque, explotación y persecución.", "Ataque frontal, flanqueo, penetración y envolvimiento."],
+        "respuesta_correcta": "Movimiento al contacto, ataque, explotación y persecución."
+    },
+    {
+        "pregunta": "¿Qué es el \"Punto Culminante\" en un ataque?",
+        "opciones": ["El momento en que se captura el objetivo final.", "Aquel donde el atacante ya no es superior en poder de combate al defensor.", "La fase inicial de la explotación del éxito."],
+        "respuesta_correcta": "Aquel donde el atacante ya no es superior en poder de combate al defensor."
+    },
+    {
+        "pregunta": "¿Qué tipo de ataque se caracteriza por ser de objetivo limitado y realizarse en un lugar distinto del esfuerzo principal para distraer al enemigo?",
+        "opciones": ["Demostración.", "Finta.", "Incursión."],
+        "respuesta_correcta": "Finta."
+    },
+    {
+        "pregunta": "¿Qué diferencia a una \"Demostración\" de una \"Finta\"?",
+        "opciones": ["La demostración es de mayor escala.", "En la demostración no se hace contacto con el enemigo.", "La finta es un ataque deliberado y la demostración es improvisada."],
+        "respuesta_correcta": "En la demostración no se hace contacto con el enemigo."
+    },
+    {
+        "pregunta": "¿Qué es una \"Incursión o Raid\"?",
+        "opciones": ["Un ataque para capturar y retener terreno clave permanentemente.", "Un ataque sorpresivo de pequeña escala con un propósito específico que termina con una retirada planeada.", "Una maniobra para fijar al enemigo mientras el cuerpo principal rodea la posición."],
+        "respuesta_correcta": "Un ataque sorpresivo de pequeña escala con un propósito específico que termina con una retirada planeada."
+    },
+    {
+        "pregunta": "¿Cuántas formas de maniobra ofensiva básica existen?",
+        "opciones": ["Cuatro formas.", "Seis formas.", "Ocho formas."],
+        "respuesta_correcta": "Seis formas."
+    },
+    {
+        "pregunta": "¿Cuál es la forma de maniobra ofensiva menos preferida por golpear al enemigo en su línea más fuerte?",
+        "opciones": ["Penetración.", "Ataque frontal.", "Envolvimiento simple."],
+        "respuesta_correcta": "Ataque frontal."
+    },
+    {
+        "pregunta": "¿En qué consiste el \"Ataque de Flanco\"?",
+        "opciones": ["En pasar alrededor o sobre la posición enemiga para atacar la retaguardia.", "En buscar golpear al enemigo desde una dirección inesperada, evitando la orientación principal de sus armas.", "En quebrar la defensa enemiga en un frente angosto."],
+        "respuesta_correcta": "En buscar golpear al enemigo desde una dirección inesperada, evitando la orientación principal de sus armas."
+    },
+    {
+        "pregunta": "¿Qué maniobra busca quebrantar la defensa enemiga en un frente angosto para romper el sistema defensivo?",
+        "opciones": ["Ataque frontal.", "Penetración.", "Infiltración."],
+        "respuesta_correcta": "Penetración."
+    },
+    {
+        "pregunta": "¿Cuáles son las tres etapas de una penetración?",
+        "opciones": ["Planeamiento, Movimiento y Acción.", "Ruptura de la posición (romper), ensanchamiento del hueco (abrir) y captura del objetivo (fijar).", "Localización, Fijación y Destrucción."],
+        "respuesta_correcta": "Ruptura de la posición (romper), ensanchamiento del hueco (abrir) y captura del objetivo (fijar)."
+    },
+    {
+        "pregunta": "¿En qué se diferencia el \"Movimiento de Rodeo\" del \"Envolvimiento\"?",
+        "opciones": ["En que el rodeo se realiza solo por aire.", "En que en el movimiento de rodeo la fuerza envolvente opera a tal distancia de la fuerza fijante que el apoyo mutuo no es posible.", "El envolvimiento es una táctica defensiva y el rodeo es ofensiva."],
+        "respuesta_correcta": "En que en el movimiento de rodeo la fuerza envolvente opera a tal distancia de la fuerza fijante que el apoyo mutuo no es posible."
+    },
+    {
+        "pregunta": "¿En qué tres grandes áreas se organiza el espacio de batalla ofensivo?",
+        "opciones": ["Seguridad, Batalla y Retaguardia.", "Lo profundo, lo cercano y la retaguardia.", "Vanguardia, Cuerpo Principal y Trenes."],
+        "respuesta_correcta": "Lo profundo, lo cercano y la retaguardia."
+    },
+    {
+        "pregunta": "¿Cuáles son los cuatro tipos de fuerzas que actúan en las operaciones ofensivas?",
+        "opciones": ["Ataque, Apoyo, Reserva y Logística.", "Fuerzas de seguridad, cuerpo principal, reserva y fuerzas de sostenimiento.", "Vanguardia, Flancos, Retaguardia y Mando."],
+        "respuesta_correcta": "Fuerzas de seguridad, cuerpo principal, reserva y fuerzas de sostenimiento."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo inicial de poseer una ventaja táctica en las operaciones terrestres defensivas?",
+        "opciones": ["Mantener el terreno indefinidamente.", "El pasar a la ofensiva.", "Desgastar al enemigo hasta su rendición."],
+        "respuesta_correcta": "El pasar a la ofensiva."
+    },
+    {
+        "pregunta": "¿Cuáles son los dos tipos de defensa que reconoce la doctrina terrestre de la Armada?",
+        "opciones": ["Defensa estática y defensa elástica.", "La Defensa de Posición (de área) y La Defensa Móvil.", "Defensa de punto y defensa de línea."],
+        "respuesta_correcta": "La Defensa de Posición (de área) y La Defensa Móvil."
+    },
+    {
+        "pregunta": "¿Qué tipo de defensa solo puede ser llevada a cabo por unidades de talla de división de IM y mayores?",
+        "opciones": ["Defensa de punto fortificado.", "La defensa móvil.", "Defensa de sector."],
+        "respuesta_correcta": "La defensa móvil."
+    },
+    {
+        "pregunta": "¿Cómo se organiza el espacio de batalla en la defensiva?",
+        "opciones": ["Área de Vigilancia, Área de Choque y Área de Reserva.", "Área de Seguridad (En lo profundo), Área de Batalla Principal (En lo cercano) y Área de Retaguardia.", "LADT, LDAB y LPAB."],
+        "respuesta_correcta": "Área de Seguridad (En lo profundo), Área de Batalla Principal (En lo cercano) y Área de Retaguardia."
+    },
+    {
+        "pregunta": "¿Qué es una \"Operación Retrógada\"?",
+        "opciones": ["Un contraataque para recuperar terreno perdido.", "Un movimiento hacia retaguardia o lejos del enemigo.", "Una infiltración en la retaguardia enemiga."],
+        "respuesta_correcta": "Un movimiento hacia retaguardia o lejos del enemigo."
+    },
+    {
+        "pregunta": "¿Cuáles son los tres tipos de operaciones retrógadas?",
+        "opciones": ["Fuga, Evasión y Escape.", "La Retirada, el Repliegue y la Acción Retardatriz.", "Ruptura, Paso de líneas y Relevo."],
+        "respuesta_correcta": "La Retirada, el Repliegue y la Acción Retardatriz."
+    },
+    {
+        "pregunta": "¿En qué consiste la \"Acción Retardatriz\"?",
+        "opciones": ["En romper el contacto sin que el enemigo lo sepa.", "En ceder espacio para ganar tiempo, disminuyendo el momento del ataque enemigo e infringiendo el máximo daño sin comprometerse decisivamente.", "En alejarse del enemigo cuando no se está en contacto."],
+        "respuesta_correcta": "En ceder espacio para ganar tiempo, disminuyendo el momento del ataque enemigo e infringiendo el máximo daño sin comprometerse decisivamente."
+    },
+    {
+        "pregunta": "¿Cómo se denomina a las fuerzas involucradas en una operación de \"Paso de Líneas\"?",
+        "opciones": ["Fuerza de Ataque y Fuerza de Cobertura.", "Fuerza Móvil y Fuerza Estacionaria.", "Fuerza de Asalto y Fuerza de Apoyo."],
+        "respuesta_correcta": "Fuerza Móvil y Fuerza Estacionaria."
+    },
+    {
+        "pregunta": "¿Qué es el \"Brecheo\"?",
+        "opciones": ["La construcción de obstáculos para detener al enemigo.", "Una operación táctica donde una unidad especializada realiza tareas para romper a través de obstáculos, campos minados o fortificaciones enemigas.", "El cruce de un río mediante medios de paso improvisados."],
+        "respuesta_correcta": "Una operación táctica donde una unidad especializada realiza tareas para romper a través de obstáculos, campos minados o fortificaciones enemigas."
+    },
+    {
+        "pregunta": "¿Qué situación táctica crítica se materializa en la pérdida de libertad de maniobra por el control enemigo de todas las rutas de egreso?",
+        "opciones": ["Emboscada.", "Cerco.", "Interdicción."],
+        "respuesta_correcta": "Cerco."
+    },
+    {
+        "pregunta": "¿Cuáles son las dos modalidades de las operaciones aerotransportadas?",
+        "opciones": ["Infiltración y Exfiltración.", "Lanzamiento de unidades de paracaidistas (Aerotropas) y despliegue aéreo mediante transporte aéreo estratégico.", "Helitransportadas y de ala fija."],
+        "respuesta_correcta": "Lanzamiento de unidades de paracaidistas (Aerotropas) y despliegue aéreo mediante transporte aéreo estratégico."
+    },
+    {
+        "pregunta": "¿Cómo se define el Apoyo Aéreo Cercano (FAAC)?",
+        "opciones": ["Cualquier ataque aéreo contra objetivos enemigos en el campo de batalla.", "Acción aérea contra blancos hostiles que, por su proximidad con fuerzas amigas, requieren integración detallada con el fuego y maniobra de dichas fuerzas.", "El transporte de tropas de reserva hacia el frente de combate."],
+        "respuesta_correcta": "Acción aérea contra blancos hostiles que, por su proximidad con fuerzas amigas, requieren integración detallada con el fuego y maniobra de dichas fuerzas."
+    },
+    {
+        "pregunta": "¿Qué tipos de FAAC pueden proporcionar las unidades aéreas?",
+        "opciones": ["Estratégico y Táctico.", "El pre-planeado (programado o a solicitud) y el inmediato.", "Ofensivo y Defensivo."],
+        "respuesta_correcta": "El pre-planeado (programado o a solicitud) y el inmediato."
+    },
+    {
+        "pregunta": "¿Quién es responsable de la captura, neutralización o aseguramiento de los objetivos que definen el propósito de una operación anfibia?",
+        "opciones": ["La Fuerza de Superficie (FS).", "La Fuerza de Desembarco (FD).", "La Fuerza de Aviación Naval (FAN)."],
+        "respuesta_correcta": "La Fuerza de Desembarco (FD)."
+    },
+    {
+        "pregunta": "¿Qué son las \"Operaciones Especiales\"?",
+        "opciones": ["Aquellas que requieren armamento no convencional o nuclear.", "Aquellas conducidas por unidades especialmente organizadas, entrenadas y equipadas para obtener éxito en objetivos militares, políticos o económicos por medios militares especiales.", "Operaciones que solo se realizan en tiempo de paz."],
+        "respuesta_correcta": "Aquellas conducidas por unidades especialmente organizadas, entrenadas y equipadas para obtener éxito en objetivos militares, políticos o económicos por medios militares especiales."
+    },
+    {
+        "pregunta": "¿Qué tipo de operación especial consiste en ataques de corta duración para destruir, capturar o recuperar personal o material?",
+        "opciones": ["Reconocimiento Especial.", "Acción Directa.", "Guerra Psicológica."],
+        "respuesta_correcta": "Acción Directa."
+    },
+    {
+        "pregunta": "¿Qué incluyen las \"Operaciones de Recuperación\" dentro de la Acción Directa?",
+        "opciones": ["Emboscadas e incursiones profundas.", "Evacuación de No-combatientes, recuperación de pilotos (TRAP), de plataformas (GOPLAT) y abordaje de buques (BVSS).", "Marcación de playas y espoteo de fuego naval."],
+        "respuesta_correcta": "Evacuación de No-combatientes, recuperación de pilotos (TRAP), de plataformas (GOPLAT) y abordaje de buques (BVSS)."
+    },
+    {
+        "pregunta": "¿Qué propósito tienen las Operaciones de Interdicción Marítima (OIM)?",
+        "opciones": ["Proporcionar escolta a buques mercantes amigos.", "Capturar, destruir, neutralizar o afectar el potencial militar enemigo antes de que alcance sus objetivos.", "Realizar el levantamiento hidrográfico de las playas de desembarco."],
+        "respuesta_correcta": "Capturar, destruir, neutralizar o afectar el potencial militar enemigo antes de que alcance sus objetivos."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo del \"Reconocimiento Especial\"?",
+        "opciones": ["Destruir los nodos de comando y control enemigos.", "Obtener, confirmar o validar información concerniente al área de operaciones y al enemigo.", "Realizar sabotajes en instalaciones logísticas profundas."],
+        "respuesta_correcta": "Obtener, confirmar o validar información concerniente al área de operaciones y al enemigo."
+    },
+    {
+        "pregunta": "¿Qué técnica se emplea en las operaciones contra el terrorismo (CT)?",
+        "opciones": ["Bombardeo de precisión de largo alcance.", "Intervención y Combate Cercano en Interiores (CCI).", "Bloqueo naval y terrestre de áreas urbanas."],
+        "respuesta_correcta": "Intervención y Combate Cercano en Interiores (CCI)."
+    },
+    {
+        "pregunta": "¿Cómo se clasifican los planes operacionales?",
+        "opciones": ["Estratégicos y Tácticos.", "Plan de Campaña y Plan de Operaciones.", "Órdenes de Operaciones y Planes de Contingencia."],
+        "respuesta_correcta": "Plan de Campaña y Plan de Operaciones."
+    },
+    {
+        "pregunta": "¿Qué diferencia a un plan de una orden de operaciones?",
+        "opciones": ["El plan es escrito y la orden es verbal.", "Las órdenes tienen definida la fecha de ejecución y en los planes esta se mantiene abierta.", "El plan es de nivel estratégico y la orden es de nivel táctico."],
+        "respuesta_correcta": "Las órdenes tienen definida la fecha de ejecución y en los planes esta se mantiene abierta."
+    },
+    {
+        "pregunta": "¿Cuáles son las seis funciones del combate?",
+        "opciones": ["Mando, Control, Comunicaciones, Computación, Inteligencia y Reconocimiento.", "Mando y control, Inteligencia, Maniobra, Fuegos, Logística y Protección de la fuerza.", "Ofensiva, Defensiva, Estabilización, Apoyo, Logística y Seguridad."],
+        "respuesta_correcta": "Mando y control, Inteligencia, Maniobra, Fuegos, Logística y Protección de la fuerza."
+    },
+    {
+        "pregunta": "¿Qué caracteriza a las ONDG en comparación con las de tiempo de guerra?",
+        "opciones": ["El uso de armamento pesado y gran escala de fuerzas.", "Su tipo y la forma en que son conducidas.", "La ausencia total de riesgos físicos para el personal."],
+        "respuesta_correcta": "Su tipo y la forma en que son conducidas."
+    },
+    {
+        "pregunta": "¿A qué principios deben dar particular atención las unidades de IM en las ONDG?",
+        "opciones": ["Sorpresa y Masa.", "Restricción y Legitimidad.", "Security y Ofensiva."],
+        "respuesta_correcta": "Restricción y Legitimidad."
+    },
+    {
+        "pregunta": "¿Cómo se organiza el territorio nacional en tiempo de paz?",
+        "opciones": ["Zonas de Operaciones y Teatros de Guerra.", "Cuartel General del Alto Mando, Regiones, Zonas y Sectores Navales (Mandos Navales).", "Áreas Tácticas de Responsabilidad y Sectores de Defensa."],
+        "respuesta_correcta": "Cuartel General del Alto Mando, Regiones, Zonas y Sectores Navales (Mandos Navales)."
+    },
+    {
+        "pregunta": "¿Qué tarea general tienen las dos Fuerzas Navales en tiempo de paz?",
+        "opciones": ["Combatir a la delincuencia organizada en las ciudades.", "Prepararse para materializar en tiempo de guerra la Defensa Marítima del Territorio Nacional.", "Realizar desfiles y ceremonias cívicas exclusivamente."],
+        "respuesta_correcta": "Prepararse para materializar en tiempo de guerra la Defensa Marítima del Territorio Nacional."
+    },
+    {
+        "pregunta": "¿Cuántos principios rigen las ONDG en la Armada de México?",
+        "opciones": ["3 principios.", "6 principios.", "9 principios."],
+        "respuesta_correcta": "9 principios."
+    },
+    {
+        "pregunta": "¿Qué principio de las ONDG significa aplicar de manera prudente la capacidad militar apropiada?",
+        "opciones": ["Legitimidad.", "Restricción.", "Perseverancia."],
+        "respuesta_correcta": "Restricción."
+    },
+    {
+        "pregunta": "¿Qué principio de las ONDG implica que las fuerzas deben tener carácter legal en las operaciones que realizan?",
+        "opciones": ["Objetivo.", "Legitimidad.", "Unidad de esfuerzo."],
+        "respuesta_correcta": "Legitimidad."
+    },
+    {
+        "pregunta": "¿Qué principio de las ONDG permite la aplicación de la capacidad militar en forma mesurada y prolongada?",
+        "opciones": ["Seguridad.", "Perseverancia.", "Restricción."],
+        "respuesta_correcta": "Perseverancia."
+    },
+    {
+        "pregunta": "¿Cuáles son las operaciones destinadas al coadyuvar con el orden interno en apoyo a autoridades civiles?",
+        "opciones": ["Operaciones de Guerra Irregular.", "Operaciones para el mantenimiento del Estado de Derecho.", "Operaciones de Restauración de la Democracia."],
+        "respuesta_correcta": "Operaciones para el mantenimiento del Estado de Derecho."
+    },
+    {
+        "pregunta": "¿Cómo se logran las operaciones contra el tráfico ilegal de estupefacientes?",
+        "opciones": ["Mediante el bombardeo de laboratorios clandestinos.", "Por medio de intenso patrullaje, puestos de control y operaciones de inteligencia.", "A través del bloqueo total de los puertos nacionales."],
+        "respuesta_correcta": "Por medio de intenso patrullaje, puestos de control y operaciones de inteligencia."
+    },
+    {
+        "pregunta": "¿En apoyo de qué institución se realizan las operaciones contra el tráfico ilegal de personas?",
+        "opciones": ["Secretaría de la Defensa Nacional.", "Secretaría de Gobernación (Instituto Nacional de Migración).", "Secretaría de Relaciones Exteriores."],
+        "respuesta_correcta": "Secretaría de Gobernación (Instituto Nacional de Migración)."
+    },
+    {
+        "pregunta": "¿En aplicación de qué ley se realizan las operaciones contra el contrabando de armas?",
+        "opciones": ["Ley Orgánica de la Armada.", "Ley Federal de Armas de Fuego y Explosivos y su reglamento.", "Ley de Seguridad Interior."],
+        "respuesta_correcta": "Ley Federal de Armas de Fuego y Explosivos y su reglamento."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de las operaciones contra la delincuencia organizada?",
+        "opciones": ["Sustituir a las policías municipales de forma permanente.", "Interdecir actividades ilícitas y capturar delincuentes para recuperar espacios públicos.", "Vigilar únicamente las fronteras terrestres."],
+        "respuesta_correcta": "Interdecir actividades ilícitas y capturar delincuentes para recuperar espacios públicos."
+    },
+    {
+        "pregunta": "¿Qué operaciones se incluyen dentro de las operaciones tácticas de restauración del orden?",
+        "opciones": ["Operaciones de asalto anfibio de gran escala.", "Aquellas basadas en los principios de empleo aplicados en tácticas de contraguerrilla.", "Operaciones de defensa de costa y negación de área."],
+        "respuesta_correcta": "Aquellas basadas en los principios de empleo aplicados en tácticas de contraguerrilla."
+    },
+    {
+        "pregunta": "¿Cómo participan las unidades de IM en las operaciones contra la piratería en el mar?",
+        "opciones": ["Como comandantes de las unidades de superficie.", "Como Fuerza de Reacción Embarcada (F.R.E) en las unidades de superficie.", "Realizando únicamente patrullajes aéreos."],
+        "respuesta_correcta": "Como Fuerza de Reacción Embarcada (F.R.E) en las unidades de superficie."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de las operaciones de escolta?",
+        "opciones": ["Realizar honores a mandos superiores.", "La protección de personal, material o equipo para prevenir daño o captura.", "Vigilar las carreteras federales durante periodos vacacionales."],
+        "respuesta_correcta": "La protección de personal, material o equipo para prevenir daño o captura."
+    },
+    {
+        "pregunta": "¿Cómo se logra la seguridad a instalaciones estratégicas?",
+        "opciones": ["Mediante el uso de satélites y drones únicamente.", "Por medio de seguridad interna, seguridad perimetral y seguridad exterior.", "Instalando campos minados defensivos alrededor de las plantas."],
+        "respuesta_correcta": "Por medio de seguridad interna, seguridad perimetral y seguridad exterior."
+    },
+    {
+        "pregunta": "¿Qué tareas básicas se realizan en las operaciones de ayuda humanitaria?",
+        "opciones": ["Inteligencia y reconocimiento armado.", "Búsqueda y rescate, evacuación, apoyo médico, alimentación, albergue y control.", "Vigilancia de fronteras y combate a incendios forestales."],
+        "respuesta_correcta": "Búsqueda y rescate, evacuación, apoyo médico, alimentación, albergue y control."
+    },
+    {
+        "pregunta": "¿Quién debe aprobar la participación de la Armada en Operaciones de Paz en el extranjero?",
+        "opciones": ["El Secretario de Marina.", "El Congreso de la Unión.", "El Consejo de Seguridad de la ONU directamente."],
+        "respuesta_correcta": "El Congreso de la Unión."
+    },
+    {
+        "pregunta": "¿Cuántos niveles se clasifica el adiestramiento en la Armada de México?",
+        "opciones": ["3 niveles.", "5 niveles.", "7 niveles."],
+        "respuesta_correcta": "5 niveles."
+    },
+    {
+        "pregunta": "¿A qué se refiere el nivel V de adiestramiento?",
+        "opciones": ["Adiestramiento individual especializado.", "Adiestramiento de conjunto.", "Adiestramiento básico de unidad."],
+        "respuesta_correcta": "Adiestramiento de conjunto."
+    },
+    {
+        "pregunta": "¿Qué atribución de la Armada se cumple mediante las operaciones SAR?",
+        "opciones": ["La defensa de la soberanía.", "La salvaguarda de la vida humana en la mar.", "El control de la contaminación marina."],
+        "respuesta_correcta": "La salvaguarda de la vida humana en la mar."
+    },
+    {
+        "pregunta": "¿Qué diferencia a las medidas antiterroristas de las de contraterrorismo?",
+        "opciones": ["Las antiterroristas son en el extranjero y las otras nacionales.", "Las antiterroristas son defensivas y las de contraterrorismo son ofensivas.", "Las antiterroristas son policiales y las otras militares."],
+        "respuesta_correcta": "Las antiterroristas son defensivas y las de contraterrorismo son ofensivas."
+    },
+    {
+        "pregunta": "¿Qué acrónimo corresponde a la \"Fuerza de Tarea Aeromarítima\"?",
+        "opciones": ["FTAM.", "FTAT.", "FTAS."],
+        "respuesta_correcta": "FTAM."
+    },
+    {
+        "pregunta": "¿Qué representa el acrónimo \"ONDG\" en la doctrina naval?",
+        "opciones": ["Operaciones Navales de Defensa de Guerra.", "Operaciones Navales Diferentes a las de Guerra.", "Organización Naval de Despliegue Global."],
+        "respuesta_correcta": "Operaciones Navales Diferentes a las de Guerra."
+    }
+]

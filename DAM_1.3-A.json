@@ -1,0 +1,1128 @@
+[
+    {
+        "pregunta": "Es el conjunto de normas jurídicas, reglas, órdenes, protocolos y disposiciones que deben seguir las y los militares en la planeación, preparación y conducción de Operaciones de Guerra y Diferentes a la Guerra.",
+        "opciones": ["Derecho de la Haya o Derecho de Guerra", "Derecho Operacional", "Derecho Internacional Humanitario"],
+        "respuesta_correcta": "Derecho Operacional"
+    },
+    {
+        "pregunta": "¿Quién es el profesional del derecho que brinda conocimiento especializado y asesora en el planeamiento, ejecución y evaluación de las Operaciones Militares, con el fin de contribuir a la legitimidad de las Fuerzas Militares?",
+        "opciones": ["Asesor Jurídico de la Defensa Nacional", "Comandante de Operaciones Conjuntas", "Asesor Jurídico Operacional (ASJOPER)"],
+        "respuesta_correcta": "Asesor Jurídico Operacional (ASJOPER)"
+    },
+    {
+        "pregunta": "Según el Artículo 16 constitucional, ¿en qué momento los militares podrán exigir alojamiento, bagajes, alimentos y otras prestaciones?",
+        "opciones": ["En tiempo de paz", "En tiempo de guerra", "En casos de desastre natural"],
+        "respuesta_correcta": "En tiempo de guerra"
+    },
+    {
+        "pregunta": "¿Qué instrumento internacional pretende garantizar el mantenimiento de la paz mundial y suprimir todo acto de agresión entre los Estados que la integran?",
+        "opciones": ["Estatuto de Roma", "Protocolos Adicionales a los Convenios de Ginebra", "Carta de las Naciones Unidas"],
+        "respuesta_correcta": "Carta de las Naciones Unidas"
+    },
+    {
+        "pregunta": "El II Convenio de Ginebra de 1949 tiene como finalidad principal aliviar la suerte que corren:",
+        "opciones": ["Los prisioneros de guerra", "Los heridos, los enfermos y los náufragos de las Fuerzas Armadas en el mar", "Las personas civiles en tiempo de guerra"],
+        "respuesta_correcta": "Los heridos, los enfermos y los náuaugos de las Fuerzas Armadas en el mar"
+    },
+    {
+        "pregunta": "¿Cómo se define la Defensa Nacional para las Fuerzas Armadas Mexicanas?",
+        "opciones": ["Condición necesaria que proporciona el Estado para garantizar la prevalencia de su integridad territorial", "Función permanente del Estado Mexicano que conlleva un conjunto de acciones, recursos y medios que adopta y dispone para garantizar su integridad, independencia y soberanía", "Las acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado Mexicano"],
+        "respuesta_correcta": "Función permanente del Estado Mexicano que conlleva un conjunto de acciones, recursos y medios que adopta y dispone para garantizar su integridad, independencia y soberanía"
+    },
+    {
+        "pregunta": "Es el conjunto de acciones, recursos y medios que adopta y dispone el Estado Mexicano, destinados a anular o reducir cualquier acción hostil a fin de garantizar la soberanía del espacio aéreo.",
+        "opciones": ["Defensa Terrestre", "Defensa Aérea", "Defensa Marítima"],
+        "respuesta_correcta": "Defensa Aérea"
+    },
+    {
+        "pregunta": "¿Qué plan se elabora a nivel de Estado Mayor de Operaciones Conjuntas (EMOC) para preparar a las FF.AA. para responder contra amenazas tradicionales y emergentes?",
+        "opciones": ["Plan General de Defensa Nacional", "Plan General de Guerra", "Plan Militar de Defensa Nacional Conjunto"],
+        "respuesta_correcta": "Plan Militar de Defensa Nacional Conjunto"
+    },
+    {
+        "pregunta": "¿Cómo se interpreta la Defensa Estratégica según la Política Nacional de Defensa?",
+        "opciones": ["Acción ininterrumpida del Estado Mexicano para emplear su Poder Nacional en donde las FF.AA. actúen en el ámbito externo e interno", "Capacidad de un Estado para alcanzar y/o preservar los Objetivos Nacionales", "La aplicación flexible de potencia de combate para la consecución de un objetivo"],
+        "respuesta_correcta": "La aplicación flexible de potencia de combate para la consecución de un objetivo"
+    },
+    {
+        "pregunta": "¿Cuáles son las cinco líneas de acción estratégicas militares definidas para las Fuerzas Armadas Mexicanas?",
+        "opciones": ["Mando, Inteligencia, Fuegos, Maniobra y Logística", "Disuasión, Cooperación, Prevención, Maniobra y Respuesta Militar", "Análisis, Desarrollo, Generación, Despliegue y Ejecución"],
+        "respuesta_correcta": "Disuasión, Cooperación, Prevención, Maniobra y Respuesta Militar"
+    },
+    {
+        "pregunta": "¿Cuál es la misión principal de las Armas del Ejército Mexicano según el Artículo 55 de su Ley Orgánica?",
+        "opciones": ["El apoyo administrativo y logístico", "La defensa del Espacio Aéreo Nacional", "El combate"],
+        "respuesta_correcta": "El combate"
+    },
+    {
+        "pregunta": "Nivel de planeamiento y conducción en el que se articulan las actividades militares de las FF.AA. de tierra, mar y aire dentro de un área operacional para alcanzar objetivos estratégicos.",
+        "opciones": ["Nivel Estratégico", "Nivel Operacional", "Nivel Táctico"],
+        "respuesta_correcta": "Nivel Operacional"
+    },
+    {
+        "pregunta": "¿Qué tipo de operaciones llevan a cabo grupos dispersos de civiles armados o pequeñas fracciones militares contra una fuerza enemiga de gran superioridad?",
+        "opciones": ["Operaciones Regulares", "Operaciones Especiales", "Operaciones Irregulares"],
+        "respuesta_correcta": "Operaciones Irregulares"
+    },
+    {
+        "pregunta": "Según la Ley Orgánica de la Armada de México, una de sus misiones es coadyuvar en la seguridad interior del país en los términos que establece:",
+        "opciones": ["El Manual de Operaciones Navales", "La Constitución Política de los Estados Unidos Mexicanos", "El Plan General de Guerra"],
+        "respuesta_correcta": "La Constitución Política de los Estados Unidos Mexicanos"
+    },
+    {
+        "pregunta": "¿Cómo se denomina a la condición de las FF.AA. en la que el estado no es completamente de guerra o de paz?",
+        "opciones": ["Conflicto de Multidominio", "Zona Gris", "Operaciones Híbridas"],
+        "respuesta_correcta": "Zona Gris"
+    },
+    {
+        "pregunta": "¿Qué principio de las Operaciones Conjuntas consiste en aplicar el máximo de la fuerza combativa disponible en el punto crítico y en el momento decisivo de la acción?",
+        "opciones": ["Unidad de Mando", "Maniobra", "Concentración y economía de fuerzas"],
+        "respuesta_correcta": "Concentración y economía de fuerzas"
+    },
+    {
+        "pregunta": "Según el manual, las Operaciones Conjuntas son acciones militares realizadas por una Fuerza Conjunta (JF) dentro de:",
+        "opciones": ["Un Teatro de Operaciones (TO)", "Un Teatro de Guerra (WT)", "Un Área de Apoyo Conjunto (JSA)"],
+        "respuesta_correcta": "Un Teatro de Guerra (WT)"
+    },
+    {
+        "pregunta": "¿Qué factor de control de mando misión consiste en el bienestar y confianza de los individuos y grupos, influenciada por el liderazgo efectivo y la disciplina?",
+        "opciones": ["Mantener la moral", "Construir relaciones", "Carácter del comandante"],
+        "respuesta_correcta": "Mantener la moral"
+    },
+    {
+        "pregunta": "Es el proceso mediante el cual el control operacional del teatro de operaciones pasa del gobierno civil al establecimiento del gobierno militar.",
+        "opciones": ["Despliegue Estratégico", "Transferencia de Autoridad", "Integración de la Fuerza"],
+        "respuesta_correcta": "Transferencia de Autoridad"
+    },
+    {
+        "pregunta": "¿Qué tipo de operaciones de la doctrina OTAN pueden ser necesarias en la defensa directa contra un agresor?",
+        "opciones": ["Respuesta a crisis", "Operaciones de Combate", "Operaciones de Estabilización"],
+        "respuesta_correcta": "Operaciones de Combate"
+    },
+    {
+        "pregunta": "¿Quién es la autoridad responsable de concebir, preparar y conducir en el nivel Estratégico Militar las operaciones ante una amenaza tradicional?",
+        "opciones": ["Comandante de la Fuerza Conjunta (JFC)", "Comandante de Operaciones Conjuntas (COC)", "Jefe de Estado Mayor Conjunto (JCS)"],
+        "respuesta_correcta": "Comandante de Operaciones Conjuntas (COC)"
+    },
+    {
+        "pregunta": "¿Qué documento contiene los objetivos estratégicos militares, la distribución geográfica de esfuerzos y la definición del Teatro de Operaciones?",
+        "opciones": ["Plan Militar de Guerra Conjunto", "Directiva Inicial de Planeamiento Conjunto", "Plan General de Defensa Nacional"],
+        "respuesta_correcta": "Plan General de Defensa Nacional"
+    },
+    {
+        "pregunta": "El límite entre la Zona del Interior y la Zona de Operaciones se conoce como:",
+        "opciones": ["Área de Operaciones Conjuntas", "Teatro de Guerra", "Línea de Demarcación"],
+        "respuesta_correcta": "Línea de Demarcación"
+    },
+    {
+        "pregunta": "Es el órgano principal de asesoría militar del COC, responsable de la articulación de capacidades y del desarrollo de la planeación estratégico-operacional.",
+        "opciones": ["Estado Mayor Conjunto (JS)", "Estado Mayor de Operaciones Conjuntas (EMOC)", "Consejo de Seguridad Nacional (CSN)"],
+        "respuesta_correcta": "Estado Mayor de Operaciones Conjuntas (EMOC)"
+    },
+    {
+        "pregunta": "¿Cuál es la faja del territorio nacional que comprende el área donde se llevarán a cabo las operaciones militares?",
+        "opciones": ["Zona Estratégica", "Zona de Operaciones", "Corazón Estratégico"],
+        "respuesta_correcta": "Zona de Operaciones"
+    },
+    {
+        "pregunta": "¿Cómo se define el alcance operacional según el manual?",
+        "opciones": ["El ritmo relativo de actividad en relación con la actividad del oponente", "La distancia y duración a través de las cuales una JF puede emplear con éxito sus capacidades militares", "La combinación de esfuerzos en tiempo y espacio para colocar al enemigo en desventaja"],
+        "respuesta_correcta": "La distancia y duración a través de las cuales una JF puede emplear con éxito sus capacidades militares"
+    },
+    {
+        "pregunta": "¿Qué método de organización de la fuerza es especialmente adecuado cuando el escenario geográfico no es una limitante para el empleo de fuerzas de características afines bajo un solo mando?",
+        "opciones": ["Método por Órganos de Maniobra", "Método de Mando Mixto", "Método de Mando por Componentes"],
+        "respuesta_correcta": "Método de Mando por Componentes"
+    },
+    {
+        "pregunta": "La acción de dos o más causas cuyo efecto es superior a la suma de los efectos individuales se denomina:",
+        "opciones": ["Sincronización", "Sinergia", "Apalancamiento"],
+        "respuesta_correcta": "Sinergia"
+    },
+    {
+        "pregunta": "¿Qué función operacional conjunta abarca el ejercicio de autoridad y dirección sobre las fuerzas asignadas para cumplir la misión?",
+        "opciones": ["Inteligencia", "Mando y Control (C2)", "Protección"],
+        "respuesta_correcta": "Mando y Control (C2)"
+    },
+    {
+        "pregunta": "El proceso de selección y priorización de blancos, asignando una respuesta adecuada a ellos, se conoce como:",
+        "opciones": ["Interdicción", "Ataque Estratégico", "Análisis de blancos (Targeting)"],
+        "respuesta_correcta": "Análisis de blancos (Targeting)"
+    },
+    {
+        "pregunta": "¿Qué área de superficie específica facilita la protección de los organismos de apoyo y abarca líneas de comunicaciones y puntos de concentración de fuerza?",
+        "opciones": ["Área Operacional (OA)", "Área de Apoyo Conjunto (JSA)", "Área de Operaciones Anfibias (AOA)"],
+        "respuesta_correcta": "Área de Apoyo Conjunto (JSA)"
+    },
+    {
+        "pregunta": "¿Qué componente de la Fuerza Conjunta tiene como misión principal anular la capacidad de combate enemiga y controlar el entorno operativo en tierra?",
+        "opciones": ["Componente Especial", "Componente Naval", "Componente Terrestre"],
+        "respuesta_correcta": "Componente Terrestre"
+    },
+    {
+        "pregunta": "Son elementos de información que el JFC identifica como críticos para la toma oportuna de decisiones y pertenecen únicamente a él.",
+        "opciones": ["Requerimientos de Inteligencia Prioritarios (PIR)", "Requerimientos Críticos de Información del Comandante (CCIR)", "Temas Estratégicos"],
+        "respuesta_correcta": "Requerimientos Críticos de Información del Comandante (CCIR)"
+    },
+    {
+        "pregunta": "La historia corta utilizada para sustentar operaciones y proporcionar contexto, creada por el Mando Supremo o el JCS, se denomina:",
+        "opciones": ["Mensaje", "Tema", "Narrativa"],
+        "respuesta_correcta": "Narrativa"
+    },
+    {
+        "pregunta": "¿Cuál es el fin último de todos los esfuerzos de sincronización?",
+        "opciones": ["La Sinergia", "La Profundidad", "La Simultaneidad"],
+        "respuesta_correcta": "La Sinergia"
+    },
+    {
+        "pregunta": "Según el Artículo 29 constitucional, ¿quién es el único facultado para restringir o suspender en todo el país o en lugar determinado el ejercicio de los derechos y las garantías?",
+        "opciones": ["El Secretario de la Defensa Nacional con aprobación del Mando Supremo.", "El Presidente de los Estados Unidos Mexicanos, con la aprobación del Congreso de la Unión o de la Comisión Permanente.", "El Comandante de Operaciones Conjuntas en coordinación con el Poder Legislativo."],
+        "respuesta_correcta": "El Presidente de los Estados Unidos Mexicanos, con la aprobación del Congreso de la Unión o de la Comisión Permanente."
+    },
+    {
+        "pregunta": "De acuerdo con el Artículo 29, ¿qué derecho NO podrá restringirse ni suspenderse en los decretos que se expidan?",
+        "opciones": ["El derecho a la propiedad privada y posesión de armas.", "El derecho a la libre reunión y manifestación de ideas.", "El derecho al nombre y a la nacionalidad."],
+        "respuesta_correcta": "El derecho al nombre y a la nacionalidad."
+    },
+    {
+        "pregunta": "El Artículo 42 constitucional establece que el territorio nacional comprende, entre otros:",
+        "opciones": ["El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.", "Las zonas de identificación de defensa aérea definidas por la Comandancia de la Fuerza Aérea.", "La zona económica exclusiva y la plataforma continental en su totalidad."],
+        "respuesta_correcta": "El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional."
+    },
+    {
+        "pregunta": "¿Qué autoridad tiene la facultad constitucional para declarar la guerra, en vista de los datos que le presente el Ejecutivo?",
+        "opciones": ["El Mando Supremo de las Fuerzas Armadas.", "El Congreso de la Unión.", "El Consejo de Seguridad Nacional."],
+        "respuesta_correcta": "El Congreso de la Unión."
+    },
+    {
+        "pregunta": "Según el Artículo 89 constitucional, es facultad y obligación del Presidente preservar la Seguridad Nacional y disponer de la totalidad de la:",
+        "opciones": ["Fuerza Conjunta para la defensa exterior.", "Fuerza Armada permanente.", "Guardia Nacional para la seguridad pública."],
+        "respuesta_correcta": "Fuerza Armada permanente."
+    },
+    {
+        "pregunta": "Según el Artículo 118 constitucional, ¿en qué casos los Estados de la Federación pueden hacer la guerra por sí a alguna potencia extranjera?",
+        "opciones": ["En casos de invasión y de peligro tan inminente, que no admita demora.", "Ante la alteración grave del orden y la paz interior.", "Cuando se declare formalmente el estado de sitio por el Congreso."],
+        "respuesta_correcta": "En casos de invasión y de peligro tan inminente, que no admita demora."
+    },
+    {
+        "pregunta": "De acuerdo con la Ley Orgánica de la Administración Pública Federal, ¿qué dependencia tiene a su cargo organizar, administrar y preparar al Ejército y la Fuerza Aérea?",
+        "opciones": ["El Estado Mayor Conjunto de la Defensa Nacional.", "La Secretaría de la Defensa Nacional.", "La Comandancia del Ejército Mexicano."],
+        "respuesta_correcta": "La Secretaría de la Defensa Nacional."
+    },
+    {
+        "pregunta": "Es una de las misiones generales establecidas en el Artículo 1/o de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos:",
+        "opciones": ["Mantener el estado de derecho en las zonas marinas mexicanas.", "Defender la integridad, la independencia y la soberanía de la Nación.", "Proteger los intereses marítimos nacionales."],
+        "respuesta_correcta": "Defender la integridad, la independencia y la soberanía de la Nación."
+    },
+    {
+        "pregunta": "Según el Artículo 11 de la referida Ley, ¿cómo se le denominará al Presidente de la República durante su mandato en relación con las Fuerzas Armadas?",
+        "opciones": ["Mando Supremo del Ejército y Fuerza Aérea.", "Comandante Supremo de las Fuerzas Armadas.", "Jefe de Operaciones Conjuntas."],
+        "respuesta_correcta": "Comandante Supremo de las Fuerzas Armadas."
+    },
+    {
+        "pregunta": "Conforme al Artículo 54 de la misma Ley, el Ejército Mexicano se compone de Unidades organizadas y adiestradas para las Operaciones Militares terrestres y está constituido por:",
+        "opciones": ["Comandancia del Ejército, Estado Mayor del Ejército, Unidades de Armas y Unidades de Servicios.", "Componente Terrestre, Componente de Operaciones Especiales y Órganos de Maniobra.", "Zona del Interior, Zona de Operaciones y Trenes de Campaña."],
+        "respuesta_correcta": "Comandancia del Ejército, Estado Mayor del Ejército, Unidades de Armas y Unidades de Servicios."
+    },
+    {
+        "pregunta": "Según el Artículo 55, ¿qué componentes del Ejército Mexicano tienen como misión principal el combate?",
+        "opciones": ["Los Servicios.", "Las Armas.", "Las Reservas."],
+        "respuesta_correcta": "Las Armas."
+    },
+    {
+        "pregunta": "¿Cuáles son las Armas del Ejército Mexicano enunciadas en el Artículo 56?",
+        "opciones": ["Infantería, Caballería, Artillería, Blindada e Ingenieros.", "Fusileros Paracaidistas, Fuerzas Especiales y Policía Militar.", "Aerotropas, Tropas de Asalto y Unidades de Vuelo."],
+        "respuesta_correcta": "Infantería, Caballería, Artillería, Blindada e Ingenieros."
+    },
+    {
+        "pregunta": "Según el Artículo 59, la Fuerza Aérea Mexicana está constituida por:",
+        "opciones": ["Comandancia de la Fuerza Aérea, Estado Mayor de la Fuerza Aérea, Unidades de Vuelo, Pilotos Aviadores, Tropas Terrestres de la Fuerza Aérea y Servicios.", "Unidades de Caza, Unidades de Transporte y Unidades de Reconocimiento.", "Escuadrones Aéreos, Grupos de Comando y Servicios Técnicos."],
+        "respuesta_correcta": "Comandancia de la Fuerza Aérea, Estado Mayor de la Fuerza Aérea, Unidades de Vuelo, Pilotos Aviadores, Tropas Terrestres de la Fuerza Aérea y Servicios."
+    },
+    {
+        "pregunta": "De acuerdo con el Artículo 59 Bis, una de las acciones a cargo de la Fuerza Aérea es:",
+        "opciones": ["El control de las líneas de comunicación marítima.", "La defensa del Espacio Aéreo Nacional.", "El ejercicio de la autoridad marítima nacional."],
+        "respuesta_correcta": "La defensa del Espacio Aéreo Nacional."
+    },
+    {
+        "pregunta": "Según el Artículo 63, son los componentes de la Fuerza Aérea cuya misión principal es el combate Aéreo, así como la ejecución de Operaciones Aéreas Militares:",
+        "opciones": ["Las Tropas Terrestres de la Fuerza Aérea.", "Las Unidades de Vuelo.", "Los Servicios Técnicos de Fuerza Aérea."],
+        "respuesta_correcta": "Las Unidades de Vuelo."
+    },
+    {
+        "pregunta": "Conforme al Artículo 67, ¿cuál es la misión principal de los Servicios en el Ejército y Fuerza Aérea?",
+        "opciones": ["El combate directo en el punto crítico de la acción.", "Satisfacer necesidades de vida y operación, por medio del apoyo administrativo y logístico.", "La vigilancia y protección del espacio aireo nacional."],
+        "respuesta_correcta": "Satisfacer necesidades de vida y operación, por medio del apoyo administrativo y logístico."
+    },
+    {
+        "pregunta": "Según el Artículo 179 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, las reservas son:",
+        "opciones": ["Reserva Estratégica y Reserva Táctica.", "Primera reserva y Segunda reserva.", "Reserva Activa y Reserva en Disponibilidad."],
+        "respuesta_correcta": "Primera reserva y Segunda reserva."
+    },
+    {
+        "pregunta": "Según el Artículo 180, ¿quiénes integran la primera reserva, entre otros?",
+        "opciones": ["Los Cabos y Soldados del Servicio Militar Voluntario que cumplan su tiempo de enganche, hasta los 36 años.", "Todos los mexicanos mayores de 45 años aptos para el servicio.", "Exclusivamente los Generales y Jefes en situación de retiro."],
+        "respuesta_correcta": "Los Cabos y Soldados del Servicio Militar Voluntario que cumplan su tiempo de enganche, hasta los 36 años."
+    },
+    {
+        "pregunta": "De acuerdo con el Artículo 183, ¿en qué casos puede ser movilizada la primera reserva?",
+        "opciones": ["Guerra internacional, alteración del orden y la paz interior, y práctica de grandes maniobras.", "Únicamente en caso de desastres naturales de gran magnitud.", "Para la práctica de pequeñas maniobras y ejercicios de comprobación."],
+        "respuesta_correcta": "Guerra internacional, alteración del orden y la paz interior, y práctica de grandes maniobras."
+    },
+    {
+        "pregunta": "Según la Ley para Conservar la Neutralidad del País, ¿qué tipo de naves de potencias beligerantes NO serán admitidas en puertos mexicanos?",
+        "opciones": ["Los buques mercantes con carga humanitaria.", "Los submarinos equipados para usos de guerra.", "Las embarcaciones menores de escolta diplomática."],
+        "respuesta_correcta": "Los submarinos equipados para usos de guerra."
+    },
+    {
+        "pregunta": "Conforme al Artículo Tercero de la misma ley, ¿qué NO será admitido sobre territorio mexicano de un país beligerante?",
+        "opciones": ["Ningún observador militar extranjero.", "Ningún aeroplano o nave airea militares.", "Ninguna señal de radio de baja frecuencia."],
+        "respuesta_correcta": "Ningún aeroplano o nave airea militares."
+    },
+    {
+        "pregunta": "Según el Artículo 3 de la Ley de Seguridad Nacional, ¿qué se entiende por Seguridad Nacional?",
+        "opciones": ["El mantenimiento del orden público y la prevención de delitos comunes.", "Las acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado Mexicano.", "La protección de las fronteras contra la migración ilegal y el contrabando."],
+        "respuesta_correcta": "Las acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado Mexicano."
+    },
+    {
+        "pregunta": "De acuerdo con el Artículo 5 de la Ley de Seguridad Nacional, es considerada una amenaza a la misma:",
+        "opciones": ["El incumplimiento de las leyes de tránsito federal.", "Actos tendentes a consumar espionaje, sabotaje, terrorismo, rebelión, traición a la patria o genocidio.", "La protesta social pacífica y la disidencia política institucional."],
+        "respuesta_correcta": "Actos tendentes a consumar espionaje, sabotaje, terrorismo, rebelión, traición a la patria o genocidio."
+    },
+    {
+        "pregunta": "Según la Ley de Protección del Espacio Aireo Mexicano, ¿qué se entiende por este espacio?",
+        "opciones": ["El situado sobre territorio nacional, con la extensión y modalidades que establece el Derecho Internacional.", "La faja de cielo comprendida entre las fronteras terrestres y el límite del mar territorial.", "El área controlada exclusivamente por los servicios de navegación civil."],
+        "respuesta_correcta": "El situado sobre territorio nacional, con la extensión y modalidades que establece el Derecho Internacional."
+    },
+    {
+        "pregunta": "Según el Artículo 71 de la Ley Federal de Armas de Fuego y Explosivos, ¿bajo la dirección de qué dependencia quedarán las fábricas de armas en caso de guerra?",
+        "opciones": ["Secretaría de Economía.", "Secretaría de la Defensa Nacional.", "Secretaría de Marina."],
+        "respuesta_correcta": "Secretaría de la Defensa Nacional."
+    },
+    {
+        "pregunta": "La Ley de Expropiación considera causa de utilidad pública:",
+        "opciones": ["La satisfacción de necesidades colectivas en caso de guerra o trastornos interiores y los medios empleados para la defensa nacional.", "La construcción de centros comerciales en zonas de conflicto.", "La recuperación de terrenos baldíos para el adiestramiento táctico."],
+        "respuesta_correcta": "La satisfacción de necesidades colectivas en caso de guerra o trastornos interiores y los medios empleados para la defensa nacional."
+    },
+    {
+        "pregunta": "Según el Artículo 83 de la Ley de Aviación Civil, el Gobierno Federal podrá hacer la requisa de aeronaves en caso de:",
+        "opciones": ["Retrasos excesivos en los vuelos comerciales.", "Guerra, grave alteración del orden público o peligro inminente para la Seguridad Nacional.", "Necesidad de transporte para funcionarios de nivel medio."],
+        "respuesta_correcta": "Guerra, grave alteración del orden público o peligro inminente para la Seguridad Nacional."
+    },
+    {
+        "pregunta": "¿Cuál de los siguientes es un delito contra la Seguridad de la Nación según el Código Penal Federal?",
+        "opciones": ["Abuso de autoridad.", "Traición a la patria.", "Insubordinación."],
+        "respuesta_correcta": "Traición a la patria."
+    },
+    {
+        "pregunta": "Según el Artículo 57 del Código de Justicia Militar, son delitos contra la disciplina militar, entre otros:",
+        "opciones": ["Los especificados en el Libro Segundo de este Código, con las excepciones en él establecidas.", "Las faltas administrativas leves cometidas en tiempo de paz.", "Cualquier conducta que el comandante considere inapropiada."],
+        "respuesta_correcta": "Los especificados en el Libro Segundo de este Código, con las excepciones en él establecidas."
+    },
+    {
+        "pregunta": "¿Cómo se define al Asesor Jurídico Operacional (ASJOPER)?",
+        "opciones": ["Un civil experto en leyes que audita los gastos de la campaña.", "Un profesional del derecho que brinda conocimiento especializado y asesora en el planeamiento, ejecución y evaluación de las Operaciones Militares.", "El magistrado encargado de juzgar los delitos cometidos en el frente."],
+        "respuesta_correcta": "Un profesional del derecho que brinda conocimiento especializado y asesora en el planeamiento, ejecución y evaluación de las Operaciones Militares."
+    },
+    {
+        "pregunta": "Es el conjunto de normas jurídicas, reglas, órdenes, protocolos y disposiciones que deben seguir las y los militares en la planeación, preparación y conducción de Operaciones de Guerra y Diferentes a la Guerra.",
+        "opciones": ["Derecho Constitucional.", "Derecho Operacional.", "Derecho Administrativo Militar."],
+        "respuesta_correcta": "Derecho Operacional"
+    },
+    {
+        "pregunta": "¿Qué contempla el Derecho Internacional Humanitario (DIH) o ius in bello?",
+        "opciones": ["El derecho de los Estados a iniciar hostilidades en defensa de su honor.", "Lineamientos para humanizar los conflictos armados y limitar sus efectos a lo estrictamente necesario.", "La prohibición absoluta de toda forma de violencia en las relaciones internacionales."],
+        "respuesta_correcta": "Lineamientos para humanizar los conflictos armados y limitar sus efectos a lo estrictamente necesario."
+    },
+    {
+        "pregunta": "¿Cuál es la pretensión principal de la Carta de las Naciones Unidas?",
+        "opciones": ["Establecer una moneda única para el comercio mundial.", "Garantizar el mantenimiento de la paz mundial y suprimir todo acto de agresión entre los Estados.", "Regular la navegación en aguas internacionales y el espacio exterior."],
+        "respuesta_correcta": "Garantizar el mantenimiento de la paz mundial y suprimir todo acto de agresión entre los Estados."
+    },
+    {
+        "pregunta": "¿Qué establece el Artículo 3 de la Declaración Universal de los Derechos Humanos?",
+        "opciones": ["Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.", "Nadie estará sometido a esclavitud ni a servidumbre.", "Todo ser humano tiene derecho al reconocimiento de su personalidad jurídica."],
+        "respuesta_correcta": "Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona."
+    },
+    {
+        "pregunta": "¿Cuál es la finalidad del I Convenio de Ginebra de 1949?",
+        "opciones": ["Proteger a las personas civiles en tiempo de guerra.", "Aliviar la suerte que corren los heridos y los enfermos de las Fuerzas Armadas en campaña.", "Regular el trato debido a los prisioneros de guerra."],
+        "respuesta_correcta": "Aliviar la suerte que corren los heridos y los enfermos de las Fuerzas Armadas en campaña."
+    },
+    {
+        "pregunta": "¿A quién se le atribuye el inicio de la inclusión del término \"Seguridad Nacional\" en la doctrina militar mexicana a través de su obra redactada en 1943?",
+        "opciones": ["General Luis Alamillo Flores, en su libro \"Doctrina Mexicana de Guerra\".", "Al Estado Mayor Conjunto de la Defensa Nacional, en el \"Manual de Operaciones Militares\".", "Al Almirante Hilario Rodríguez Malpica, en el \"Tratado de Estrategia Naval\"."],
+        "respuesta_correcta": "General Luis Alamillo Flores, en su libro \"Doctrina Mexicana de Guerra\"."
+    },
+    {
+        "pregunta": "Según el Artículo 3 de la Ley de Seguridad Nacional, ¿qué se entiende por este concepto?",
+        "opciones": ["La condición de paz y orden público que permite el desarrollo de las actividades productivas de la nación.", "Las acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado Mexicano.", "La protección de las fronteras contra la migración ilegal y el contrabando."],
+        "respuesta_correcta": "Las acciones destinadas de manera inmediata y directa a mantener la integridad, estabilidad y permanencia del Estado Mexicano."
+    },
+    {
+        "pregunta": "El Glosario de términos homologados de CODENAL y CESNAV define a la Seguridad Nacional como la condición necesaria que proporciona el Estado para garantizar la prevalencia de su:",
+        "opciones": ["Capacidad económica, desarrollo tecnológico y bienestar social equilibrado.", "Integridad territorial, independencia, soberanía, estado de derecho, estabilidad política, social y económica y la consecución de sus Objetivos Nacionales.", "Hegemonía regional y el control absoluto de sus zonas de influencia geoestratégica."],
+        "respuesta_correcta": "Integridad territorial, independencia, soberanía, estado de derecho, estabilidad política, social y económica y la consecución de sus Objetivos Nacionales."
+    },
+    {
+        "pregunta": "¿Cuál es la finalidad primordial del Consejo de Seguridad Nacional (CSN)?",
+        "opciones": ["Comandar las fuerzas de tarea conjuntas en el nivel operacional.", "Establecer y articular las acciones políticas en materia de Seguridad y Defensa Nacional.", "Validar los planes de campaña elaborados por el Estado Mayor de Operaciones Conjuntas."],
+        "respuesta_correcta": "Establecer y articular las acciones políticas en materia de Seguridad y Defensa Nacional."
+    },
+    {
+        "pregunta": "¿Cómo se definen los antagonismos u óbices para el Estado Mexicano?",
+        "opciones": ["Aquellas amenazas directas provenientes exclusivamente de potencias extranjeras beligerantes.", "Todo tipo de obstáculos y/o interferencias a la seguridad nacional, que pueden ser patrocinados por otro poder nacional o por agentes no estatales, o bien ser de origen natural o antropogénicos.", "Las acciones de grupos subversivos internos que buscan derrocar al gobierno legalmente constituido."],
+        "respuesta_correcta": "Todo tipo de obstáculos y/o interferencias a la seguridad nacional, que pueden ser patrocinados por otro poder nacional o por agentes no estatales, o bien ser de origen natural o antropogénicos."
+    },
+    {
+        "pregunta": "Para las Fuerzas Armadas Mexicanas, ¿cuál es la definición de Defensa Nacional?",
+        "opciones": ["Función permanente del Estado Mexicano que conlleva un conjunto de acciones, recursos y medios que adopta y dispone para garantizar su integridad, independencia y soberanía.", "Conjunto de operaciones militares de guerra destinadas a repeler una invasión extranjera en el territorio nacional.", "Las acciones que el Mando Supremo ordena para mantener el orden constitucional ante una perturbación grave de la paz."],
+        "respuesta_correcta": "Función permanente del Estado Mexicano que conlleva un conjunto de acciones, recursos y medios que adopta y dispone para garantizar su integridad, independencia y soberanía"
+    },
+    {
+        "pregunta": "Es el conjunto de acciones, recursos y medios que adopta y dispone el Estado Mexicano en el territorio nacional, destinados a preservar la soberanía, independencia e integridad territorial.",
+        "opciones": ["Defensa Nacional.", "Defensa Terrestre.", "Seguridad Interior."],
+        "respuesta_correcta": "Defensa Terrestre"
+    },
+    {
+        "pregunta": "Se define como el conjunto de acciones, recursos y medios destinados a proteger sus intereses marítimos y preservar la soberanía, independencia e integridad de las zonas marinas y territorio nacional.",
+        "opciones": ["Defensa Marítima.", "Seguridad Marítima Nacional.", "Control del Mar Estratégico."],
+        "respuesta_correcta": "Defensa Marítima"
+    },
+    {
+        "pregunta": "¿Qué ámbito de acción tiene como fin anular o reducir cualquier acción hostil a fin de garantizar la soberanía del espacio aireo y preservar las áreas vitales del país?",
+        "opciones": ["Seguridad Aérea Nacional.", "Defensa Aérea.", "Vigilancia y Control Atmosférico."],
+        "respuesta_correcta": "Defensa Aérea"
+    },
+    {
+        "pregunta": "Es la capacidad de un Estado-Nación traducida en acciones, recursos y mecanismos para prevenir, identificar y neutralizar ciberamenazas o ciberataques contra instalaciones estratégicas.",
+        "opciones": ["Seguridad de la Información Estratégica.", "Ciberdefensa.", "Operaciones en el Ciberespacio."],
+        "respuesta_correcta": "Ciberdefensa"
+    },
+    {
+        "pregunta": "¿Qué planes se elaboran a nivel de organismo de Seguridad Nacional, a través de un comité especializado?",
+        "opciones": ["Plan Militar de Defensa Nacional Conjunto y Plan Militar de Guerra Conjunto.", "Plan General de Defensa Nacional y Plan General de Guerra.", "Plan de Movilización Militar y Plan de Operaciones Navales."],
+        "respuesta_correcta": "Plan General de Defensa Nacional y Plan General de Guerra."
+    },
+    {
+        "pregunta": "¿Qué documento prepara a las Fuerzas Armadas para responder de manera conjunta contra amenazas tanto tradicionales como emergentes, riesgos y desafíos?",
+        "opciones": ["Plan Militar de Guerra Conjunto.", "Plan Militar de Defensa Nacional Conjunto.", "Directiva Inicial de Planeamiento Conjunto."],
+        "respuesta_correcta": "Plan Militar de Defensa Nacional Conjunto."
+    },
+    {
+        "pregunta": "Es el conjunto de factores, sistemas de mando y control, armamento, equipo, adiestramiento, edificios, personal y medios de apoyo logístico para lograr objetivos militares.",
+        "opciones": ["Poder Nacional.", "Potencial de Guerra.", "Capacidad militar, naval y aérea."],
+        "respuesta_correcta": "Capacidad militar, naval y aérea."
+    },
+    {
+        "pregunta": "Según la Política Nacional de Defensa, ¿cómo se interpreta la Defensa Estratégica?",
+        "opciones": ["Como la acción ininterrumpida del Estado Mexicano para emplear su Poder Nacional en donde las FF.AA. actúen en el ámbito externo e interno.", "Como el planeamiento detallado de las operaciones de guerra en un teatro de operaciones específico.", "Como la capacidad de disuadir a un adversario mediante la ostentación de la fuerza."],
+        "respuesta_correcta": "Como la acción ininterrumpida del Estado Mexicano para emplear su Poder Nacional en donde las FF.AA. actúen en el ámbito externo e interno."
+    },
+    {
+        "pregunta": "¿A través de qué proceso los Altos Mandos de las FF.AA., en tiempo de paz, formulan hipótesis sobre antagonismos para diseñar proyectos que generen capacidades?",
+        "opciones": ["Proceso de Planeamiento Operacional (OPP).", "Desarrollo de la Capacidad Estratégica Requerida.", "Diseño Operacional de la Defensa."],
+        "respuesta_correcta": "Desarrollo de la Capacidad Estratégica Requerida."
+    },
+    {
+        "pregunta": "¿En qué artículos de la Constitución Política de los Estados Unidos Mexicanos fundamentan su existencia y disposición las Fuerzas Armadas Mexicanas?",
+        "opciones": ["Artículos 29 y 42.", "Artículos 73 fracción XIV y 89 fracción VI.", "Artículos 16 y 118."],
+        "respuesta_correcta": "Artículos 73 fracción XIV y 89 fracción VI."
+    },
+    {
+        "pregunta": "Según la síntesis del Capítulo III, ¿cuál es una misión general del Ejército y Fuerza Aérea Mexicanos?",
+        "opciones": ["Proteger la soberanía de la nación y garantizar la seguridad interior.", "Mantener el estado de derecho en las zonas marinas mexicanas.", "Ejercer la autoridad marítima nacional en aguas interiores."],
+        "respuesta_correcta": "Proteger la soberanía de la nación y garantizar la seguridad interior"
+    },
+    {
+        "pregunta": "Conforme a la Ley Orgánica de la Armada de México, su misión incluye emplear el Poder Naval de la Federación para la defensa exterior y:",
+        "opciones": ["Mantener el orden constitucional en todo el territorio nacional.", "Proteger la soberanía de la Nación y mantener el estado de derecho en las zonas marinas mexicanas.", "Coordinar la movilización civil en caso de desastres naturales."],
+        "respuesta_correcta": "Proteger la soberanía de la Nación y mantener el estado de derecho en las zonas marinas mexicanas."
+    },
+    {
+        "pregunta": "Son las actividades que desarrollan las Fuerzas Armadas de tierra, mar y aire en cumplimiento de sus misiones generales.",
+        "opciones": ["Operaciones Conjuntas.", "Operaciones Militares y Navales.", "Funciones Operacionales."],
+        "respuesta_correcta": "Operaciones Militares y Navales"
+    },
+    {
+        "pregunta": "Según el manual, las Operaciones Militares y Navales de Guerra pueden revestir la forma de:",
+        "opciones": ["Operaciones de paz o de ayuda humanitaria.", "Operaciones regulares u operaciones irregulares.", "Operaciones defensivas u operaciones de estabilización."],
+        "respuesta_correcta": "Operaciones regulares u operaciones irregulares"
+    },
+    {
+        "pregunta": "¿Qué nivel de planeamiento y conducción da sentido a las operaciones al vincularlas con la consecución de objetivos estratégicos y articular las acciones tácticas?",
+        "opciones": ["Nivel Estratégico.", "Nivel Operacional.", "Nivel de Tarea."],
+        "respuesta_correcta": "Nivel Operacional"
+    },
+    {
+        "pregunta": "¿A qué se refiere la \"Zona Gris\" en el ámbito de las operaciones militares?",
+        "opciones": ["A la faja de territorio entre la zona de operaciones y la zona del interior.", "Al área donde el estado no es completamente de guerra o de paz.", "Al espacio cibernético donde no existe legislación internacional clara."],
+        "respuesta_correcta": "Al área donde el estado no es completamente de guerra o de paz."
+    },
+    {
+        "pregunta": "¿Qué concepto se refiere a la integración y sincronización de todas las capacidades disponibles de las FF.AA., dirigidas por un solo mando en el nivel operacional?",
+        "opciones": ["Operación Unilateral.", "Operación Conjunta.", "Operación Interagencial."],
+        "respuesta_correcta": "Operación Conjunta"
+    },
+    {
+        "pregunta": "¿Quién cuenta con la facultad constitucional de conjuntar las Fuerzas Armadas bajo un solo mando y nombrar a un Comandante de Operaciones Conjuntas (COC)?",
+        "opciones": ["El Secretario de la Defensa Nacional.", "El Jefe del Estado Mayor Conjunto.", "La o el Presidente de la República en su calidad de Mando Supremo."],
+        "respuesta_correcta": "La o el Presidente de la República en su calidad de Mando Supremo."
+    },
+    {
+        "pregunta": "Las Operaciones Conjuntas son las acciones militares realizadas por una Fuerza Conjunta (JF) dentro de un:",
+        "opciones": ["Teatro de Operaciones (TO) para fines tácticos.", "Teatro de Guerra (WT) para el logro de un objetivo conjunto de repercusión estratégica.", "Área de Operaciones Conjunta (JOA) de manera temporal."],
+        "respuesta_correcta": "Teatro de Guerra (WT) para el logro de un objetivo conjunto de repercusión estratégica."
+    },
+    {
+        "pregunta": "¿En qué consiste la \"Acción Conjunta\"?",
+        "opciones": ["En la suma de esfuerzos individuales de cada fuerza armada bajo objetivos distintos.", "En el empleo coordinado y sincronizado de las capacidades provistas por los componentes terrestres, marítimos y aéreos bajo un mando único.", "En la realización de ejercicios combinados con fuerzas armadas extranjeras."],
+        "respuesta_correcta": "En el empleo coordinado y sincronizado de las capacidades provistas por los componentes terrestres, marítimos y aéreos bajo un mando único."
+    },
+    {
+        "pregunta": "Este principio de las operaciones conjuntas consiste en asegurar la unidad de esfuerzo bajo una o un Comandante responsable para cada objetivo.",
+        "opciones": ["Unidad de Mando.", "Coordinación y cooperación.", "Sencillez."],
+        "respuesta_correcta": "Unidad de Mando"
+    },
+    {
+        "pregunta": "¿Qué principio establece que toda fuerza empleada debe contar con un objetivo factible y decisivo, y que debe crearse la posibilidad de llevar la acción hasta su fin?",
+        "opciones": ["Acción Ofensiva.", "Unidad de Objetivo y continuidad en la acción.", "Perseverancia."],
+        "respuesta_correcta": "Unidad de Objetivo y continuidad en la acción"
+    },
+    {
+        "pregunta": "Principio que permite tomar la iniciativa, imponer la voluntad sobre el personal adversario y obtener decisiones favorables.",
+        "opciones": ["Maniobra.", "Acción Ofensiva.", "Sorpresa."],
+        "respuesta_correcta": "Acción Ofensiva"
+    },
+    {
+        "pregunta": "¿En qué consiste el principio de \"Concentración y economía de fuerzas\"?",
+        "opciones": ["En evitar el uso de la fuerza en zonas pobladas para proteger la legitimidad.", "En aplicar el máximo de la fuerza combativa disponible en el punto crítico y en el momento decisivo, dosificando adecuadamente las fuerzas.", "En dispersar las unidades para evitar ser un blanco fácil del fuego enemigo."],
+        "respuesta_correcta": "En aplicar el máximo de la fuerza combativa disponible en el punto crítico y en el momento decisivo, dosificando adecuadamente las fuerzas."
+    },
+    {
+        "pregunta": "Se define como la combinación de esfuerzos en tiempo y espacio para colocar al personal enemigo en una posición desventajosa mediante la aplicación flexible de potencia de combate.",
+        "opciones": ["Seguridad.", "Maniobra.", "Ritmo de Combate (Tempo)."],
+        "previo_id": 101,
+        "respuesta_correcta": "Maniobra"
+    },
+    {
+        "pregunta": "¿Qué principio protege a los mandos y unidades de que el personal enemigo intervenga amenazando su libertad de acción o integridad física?",
+        "opciones": ["Protección.", "Seguridad.", "Restricción."],
+        "respuesta_correcta": "Seguridad"
+    },
+    {
+        "pregunta": "Principio que consiste en actuar contra el personal enemigo en un lugar y tiempo o de una manera para la cual no esté preparado.",
+        "opciones": ["Sencillez.", "Sorpresa.", "Flexibilidad."],
+        "respuesta_correcta": "Sorpresa"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del principio de \"Sencillez\" en las operaciones conjuntas?",
+        "opciones": ["Minimizar el número de componentes que integran la Fuerza Conjunta.", "Preparar planes y órdenes claras y concisas para asegurar una comprensión completa y minimizar la confusión.", "Realizar operaciones con el mínimo de recursos tecnológicos posibles."],
+        "respuesta_correcta": "Preparar planes y órdenes claras y concisas para asegurar una comprensión completa y minimizar la confusión."
+    },
+    {
+        "pregunta": "Este principio se basa en el reconocimiento mutuo de las capacidades de los mandos, componentes e instituciones para lograr la unidad de esfuerzo.",
+        "opciones": ["Unidad de Mando.", "Coordinación y cooperación.", "Legitimidad."],
+        "respuesta_correcta": "Coordinación y cooperación"
+    },
+    {
+        "pregunta": "Principio que permite a la o el Comandante de la Fuerza Conjunta (JFC) ajustar sus planes a las circunstancias cambiantes y a las acciones del adversario.",
+        "opciones": ["Flexibilidad.", "Maniobra.", "Sincronización."],
+        "respuesta_correcta": "Flexibilidad"
+    },
+    {
+        "pregunta": "¿Qué principio pretende limitar el daño colateral y prevenir el uso innecesario de la fuerza mediante el conocimiento de las reglas de enfrentamiento?",
+        "opciones": ["Perseverancia.", "Restricción.", "Legitimidad."],
+        "respuesta_correcta": "Restricción"
+    },
+    {
+        "pregunta": "¿Qué implica el principio de \"Perseverancia\" en las operaciones conjuntas?",
+        "opciones": ["Atacar constantemente los centros de gravedad enemigos sin descanso.", "La preparación para operaciones militares prolongadas y medidas en la búsqueda de los objetivos nacionales.", "No modificar el plan original bajo ninguna circunstancia externa."],
+        "respuesta_correcta": "La preparación para operaciones militares prolongadas y medidas en la búsqueda de los objetivos nacionales."
+    },
+    {
+        "pregunta": "Principio que busca mantener la autoridad moral y legal en la conducción de las operaciones, distinguiendo entre medios hostiles y normas del DIH.",
+        "opciones": ["Seguridad.", "Legitimidad.", "Ética Militar."],
+        "respuesta_correcta": "Legitimidad"
+    },
+    {
+        "pregunta": "Según la clasificación de la OTAN que contempla el manual, ¿cuáles son los tipos de operaciones interrelacionadas según los objetivos fijados?",
+        "opciones": ["Operaciones Regulares e Irregulares.", "Combate y Respuesta a crisis.", "Operaciones de Guerra y Diferentes a la Guerra."],
+        "respuesta_correcta": "Combate y Respuesta a crisis"
+    },
+    {
+        "pregunta": "Según el manual, las operaciones de combate tienden a caracterizarse por una serie de batallas y enfrentamientos principales, y por lo tanto implican:",
+        "opciones": ["Una reducción de las medidas de control y un enfoque en la ayuda humanitaria.", "Una actividad intensa y un alto consumo logístico.", "El empleo exclusivo de fuerzas especiales para misiones de corto alcance."],
+        "respuesta_correcta": "Una actividad intensa y un alto consumo logístico"
+    },
+    {
+        "pregunta": "¿Qué tipo de operaciones se llevan a cabo para responder a incidentes que pueden poner en peligro la paz o la seguridad, y no pueden ser resueltos con medios diplomáticos solo?",
+        "opciones": ["Operaciones de Estabilización.", "Respuesta a crisis.", "Operaciones de Multidominio."],
+        "respuesta_correcta": "Respuesta a crisis"
+    },
+    {
+        "pregunta": "En el proceso de integración de la Fuerza de Tarea Conjunta, ¿cuándo se logra una integración óptima de los componentes?",
+        "opciones": ["Cuando cada Mando de Componente comprende las intenciones y capacidades de los otros componentes y el impacto de sus acciones.", "Cuando el Comandante de la Fuerza Conjunta centraliza todas las decisiones tácticas en su Cuartel General.", "Cuando se asignan áreas geográficas separadas a cada Fuerza Armada para evitar interferencias."],
+        "respuesta_correcta": "Cuando cada Mando de Componente comprende las intenciones y capacidades de los otros componentes y el impacto de sus acciones."
+    },
+    {
+        "pregunta": "¿Qué mando de componente puede establecerse yuxtapuesto al Cuartel General de la Fuerza Conjunta (JFHQ) debido a que opera en todo el Teatro de Operaciones?",
+        "opciones": ["El Mando del Componente Terrestre (JFLCC).", "El Mando del Componente Aireo de las Fuerzas Conjuntas (JFACC).", "El Mando del Componente Naval (JFMCC)."],
+        "respuesta_correcta": "El Mando del Componente Aireo de las Fuerzas Conjuntas (JFACC)"
+    },
+    {
+        "pregunta": "Es la base del diseño de las operaciones y consiste en una declaración escrita concisa de cómo el comandante visualiza que las fuerzas a su mando realicen la operación.",
+        "opciones": ["La Directiva Inicial de Planeamiento.", "La Intención del Comandante.", "El Concepto de Operaciones (CONOPS)."],
+        "respuesta_correcta": "La Intención del Comandante"
+    },
+    {
+        "pregunta": "Dentro de los factores de mando y control, ¿qué factor es clave para el bienestar y confianza de los individuos y grupos, influenciada por el liderazgo efectivo y la experiencia compartida?",
+        "opciones": ["Mantener la moral.", "Extender la influencia personal.", "Construir y mantener relaciones."],
+        "respuesta_correcta": "Mantener la moral"
+    },
+    {
+        "pregunta": "¿Cómo se define el Manejo de la Información (IM) en las operaciones conjuntas?",
+        "opciones": ["El proceso de censura de noticias para evitar la filtración de planes operativos al enemigo.", "Un proceso fundamental para obtener comprensión y apoyar todas las fases de planificación, toma de decisiones y ejecución.", "La infraestructura física de cables y satélites necesaria para las comunicaciones."],
+        "respuesta_correcta": "Un proceso fundamental para obtener comprensión y apoyar todas las fases de planificación, toma de decisiones y ejecución."
+    },
+    {
+        "pregunta": "En el ciclo de la información, ¿qué etapa consiste en el análisis e interpretación de los datos recopilados para transformarlos en información útil?",
+        "opciones": ["Recolección de información.", "Procesamiento de información.", "Distribución de información."],
+        "respuesta_correcta": "Procesamiento de información"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de la Evaluación en las operaciones militares?",
+        "opciones": ["Castigar las fallas cometidas por los mandos subordinados durante la ejecución.", "Determinar el progreso hacia la creación de condiciones y el logro de objetivos.", "Justificar el gasto de recursos económicos ante la Secretaría de Hacienda."],
+        "respuesta_correcta": "Determinar el progreso hacia la creación de condiciones y el logro de objetivos"
+    },
+    {
+        "pregunta": "¿Qué actividad posterior a la culminación de las operaciones implica la transferencia de poder ordenada y legítima del gobierno militar al gobierno civil?",
+        "opciones": ["Operaciones de Estabilización.", "Trascender del gobierno militar al gobierno civil.", "Reestablecimiento del estado de derecho."],
+        "respuesta_correcta": "Trascender del gobierno militar al gobierno civil"
+    },
+    {
+        "pregunta": "En el Nivel Estratégico Militar, ¿quién nombrará a propuesta de los Altos Mandos de las FF.AA. a quien desempeñe el cargo de Comandante de Operaciones Conjuntas (COC)?",
+        "opciones": ["El Jefe de Estado Mayor Conjunto de la Defensa Nacional.", "La o el titular del Poder Ejecutivo Federal (Mando Supremo).", "El Secretario de Marina."],
+        "respuesta_correcta": "La o el titular del Poder Ejecutivo Federal (Mando Supremo)."
+    },
+    {
+        "pregunta": "¿En qué consiste la conducción estratégica militar conjunta?",
+        "opciones": ["En la dirección táctica de los batallones en el frente de batalla.", "En la articulación de las operaciones militares de una o varias campañas coordinándolas entre sí, en forma integral, con otras acciones civiles y militares.", "En el diseño de las armas y equipo tecnológico para el combate futuro."],
+        "respuesta_correcta": "En la articulación de las operaciones militares de una o varias campañas coordinándolas entre sí, en forma integral, con otras acciones civiles y militares."
+    },
+    {
+        "pregunta": "¿Qué documento elaborado por el COC contiene las acciones destinadas a preparar a las FF.AA. para responder contra amenazas tradicionales y emergentes con el fin de preservar la integridad y soberanía?",
+        "opciones": ["Plan Militar de Guerra Conjunto.", "Plan Militar de Defensa Nacional Conjunto.", "Directiva Inicial de Planeamiento Conjunto."],
+        "respuesta_correcta": "Plan Militar de Defensa Nacional Conjunto."
+    },
+    {
+        "pregunta": "Se deriva del Plan General de Guerra y establece el empleo de las Fuerzas Armadas, así como los criterios de coordinación y líneas de acción para alcanzar objetivos militares.",
+        "opciones": ["Plan Militar de Defensa Nacional Conjunto.", "Plan Militar de Guerra Conjunto.", "Plan de Movilización Nacional."],
+        "respuesta_correcta": "Plan Militar de Guerra Conjunto"
+    },
+    {
+        "pregunta": "¿Qué información NO se incluye típicamente en la Directiva Inicial de Planeamiento Conjunto?",
+        "opciones": ["Los objetivos estratégicos militares y la distribución geográfica de esfuerzos.", "Las raciones exactas de alimentos para el personal de las unidades tácticas.", "La definición del Teatro de Operaciones (TOs) y la estructura de mandos."],
+        "respuesta_correcta": "Las raciones exactas de alimentos para el personal de las unidades tácticas."
+    },
+    {
+        "pregunta": "El Estado Mayor de Operaciones Conjuntas (EMOC) constituye el órgano principal de asesoría militar de la o el:",
+        "opciones": ["Jefe de Estado Mayor Conjunto.", "Comandante de Operaciones Conjuntas (COC).", "Secretario de la Defensa Nacional."],
+        "respuesta_correcta": "Comandante de Operaciones Conjuntas (COC)"
+    },
+    {
+        "pregunta": "Es una función del EMOC relacionada con la inteligencia:",
+        "opciones": ["Realizar espionaje político interno.", "Proporcionar adecuada y oportuna inteligencia para su empleo por las o los JFCs.", "Comandar las unidades de fuerzas especiales en el terreno."],
+        "respuesta_correcta": "Proporcionar adecuada y oportuna inteligencia para su empleo por las o los JFCs."
+    },
+    {
+        "pregunta": "¿Qué área del territorio nacional se define como el área geográfica de superficie, espacio aireo y marítimo necesaria para la conducción de las operaciones militares para el logro de un objetivo estratégico?",
+        "opciones": ["Teatro de Guerra (WT).", "Teatro de Operaciones (TO).", "Área de Apoyo Conjunto (JSA)."],
+        "respuesta_correcta": "Teatro de Operaciones (TO)"
+    },
+    {
+        "pregunta": "El área de tierra, mar y aire necesaria para llevar a cabo operaciones militares, navales y aéreas de guerra se denomina:",
+        "opciones": ["Zona de Operaciones.", "Teatro de Guerra (WT).", "Zona del Interior."],
+        "respuesta_correcta": "Teatro de Guerra (WT)"
+    },
+    {
+        "pregunta": "Es el órgano que establece el concepto estratégico militar de defensa bajo el cual el COC realiza la conducción estratégica.",
+        "opciones": ["El Estado Mayor Conjunto.", "El Consejo de Seguridad Nacional (CSN).", "La Comandancia de la Fuerza Conjunta."],
+        "respuesta_correcta": "El Consejo de Seguridad Nacional (CSN)"
+    },
+    {
+        "pregunta": "¿De qué se ocupa exclusivamente el nivel operacional conjunto?",
+        "opciones": ["De la política exterior del Estado Mexicano.", "De los aspectos prácticos de la conducción de la Fuerza Conjunta (JF) a través de la campaña en un Teatro de Operaciones (TO).", "De la organización administrativa de las zonas navales en tiempo de paz."],
+        "respuesta_correcta": "De los aspectos prácticos de la conducción de la Fuerza Conjunta (JF) a través de la campaña en un Teatro de Operaciones (TO)."
+    },
+    {
+        "pregunta": "¿Cómo define John A. Warden III al nivel operacional de la guerra?",
+        "opciones": ["El nivel superior donde se toman las decisiones políticas fundamentales.", "El que sigue al nivel estratégico y se refiere a cómo lograr los fines estratégicos con las fuerzas asignadas.", "El nivel donde las unidades de nivel sección y compañía combaten directamente."],
+        "respuesta_correcta": "El que sigue al nivel estratégico y se refiere a cómo lograr los fines estratégicos con las fuerzas asignadas."
+    },
+    {
+        "pregunta": "Es la condición esencial para el logro del esfuerzo conjunto, a fin de alcanzar el Estado Final Militar Deseado.",
+        "opciones": ["La Masa.", "La Sinergia.", "La Velocidad."],
+        "respuesta_correcta": "La Sinergia"
+    },
+    {
+        "pregunta": "¿Quién es el principal actor y conductor en el Teatro de Operaciones (TO) que ejerce la acción conjunta de las fuerzas?",
+        "opciones": ["El Jefe de Estado Mayor de Operaciones Conjuntas.", "El Comandante de la Fuerza Conjunta (JFC).", "El Comandante del Componente Terrestre."],
+        "respuesta_correcta": "El Comandante de la Fuerza Conjunta (JFC)"
+    },
+    {
+        "pregunta": "¿Cuál es la primera etapa que normalmente comprende una operación conjunta según el manual?",
+        "opciones": ["Desarrollo del Plan de Operaciones (OPLAN).", "Análisis (Entorno Operacional, problema y enfoque operacional).", "Generación y preparación de la fuerza."],
+        "respuesta_correcta": "Análisis (Entorno Operacional, problema y enfoque operacional)"
+    },
+    {
+        "pregunta": "¿Qué tipo de control ejerce la o el JFC sobre los componentes para el cumplimiento de las misiones encomendadas?",
+        "opciones": ["Control Administrativo (ADCON).", "Control Operacional (OPCON).", "Mando Orgánico."],
+        "respuesta_correcta": "Control Operacional (OPCON)"
+    },
+    {
+        "pregunta": "En qué consiste la \"Acción Conjunta\"?",
+        "opciones": ["En la suma de planes individuales de cada fuerza armada sin coordinación central.", "En el empleo coordinado y sincronizado de las capacidades provistas por los componentes terrestres, marítimos y aéreos bajo un mando único.", "En la realización de ceremonias militares conmemorativas con las tres fuerzas armadas."],
+        "respuesta_correcta": "En el empleo coordinado y sincronizado de las capacidades provistas por los componentes terrestres, marítimos y aéreos bajo un mando único."
+    },
+    {
+        "pregunta": "Al decidir qué componente usará, la o el JFC debe considerar el siguiente criterio:",
+        "opciones": ["Que todas las fuerzas disponibles deben participar en igual forma siempre.", "Que todas las fuerzas no deben hacer lo mismo al mismo tiempo.", "Que la Armada siempre debe tener la prioridad absoluta en las costas."],
+        "respuesta_correcta": "Que todas las fuerzas no deben hacer lo mismo al mismo tiempo."
+    },
+    {
+        "pregunta": "Es la reunión organizada de personal de las diferentes FF.AA. que auxilia al JFC en la función de concebir, preparar y conducir Operaciones Conjuntas.",
+        "opciones": ["El Grupo de Inteligencia Conjunta.", "El Estado Mayor Conjunto (JS).", "El Centro de Operaciones Especiales."],
+        "respuesta_correcta": "El Estado Mayor Conjunto (JS)"
+    },
+    {
+        "pregunta": "¿Cuál es el principal medio por el cual la o el JFC comunica al personal subordinado su visión y cómo pretende emplear las fuerzas?",
+        "opciones": ["El Boletín Informativo Semanal.", "Los planes.", "El Diario de Campaña."],
+        "respuesta_correcta": "Los planes"
+    },
+    {
+        "pregunta": "En el planeamiento operacional, ¿cuáles son los factores operacionales que se deben tomar en cuenta en todo momento?",
+        "opciones": ["Terreno, clima y población civil.", "Tiempo, espacio, fuerza y la esfera de la información.", "Dinero, armamento y transporte."],
+        "respuesta_correcta": "Tiempo, espacio, fuerza y la esfera de la información."
+    },
+    {
+        "pregunta": "¿A qué se refiere la \"Simultaneidad\" en las operaciones de una JF?",
+        "opciones": ["A realizar una sola acción a la vez para evitar la fatiga de las tropas.", "A la aplicación concurrente del poder militar, naval y no militar contra las capacidades clave del adversario.", "A la coordinación de los desfiles militares en diferentes ciudades."],
+        "respuesta_correcta": "A la aplicación concurrente del poder militar, naval y no militar contra las capacidades clave del adversario."
+    },
+    {
+        "pregunta": "¿Qué concepto busca desgastar al adversario en toda el área de operaciones para interrumpir su ciclo de decisión?",
+        "opciones": ["Sincronización.", "Profundidad.", "Apalancamiento."],
+        "respuesta_correcta": "Profundidad"
+    },
+    {
+        "pregunta": "Se define como la disposición de las acciones y sus resultados en tiempo, espacio y propósito para lograr la máxima ventaja.",
+        "opciones": ["Logística.", "Sincronización.", "Inteligencia."],
+        "respuesta_correcta": "Sincronización"
+    },
+    {
+        "pregunta": "¿Cuál es el fin último de todos los esfuerzos de sincronización?",
+        "opciones": ["El Orden.", "La Sinergia.", "La Disciplina."],
+        "respuesta_correcta": "La Sinergia"
+    },
+    {
+        "pregunta": "Se logra cuando el impacto resultante de una acción es más que proporcional que el esfuerzo aplicado.",
+        "opciones": ["Masa.", "Apalancamiento/Multiplicador de fuerza (Leverage).", "Sorpresa."],
+        "respuesta_correcta": "Apalancamiento/Multiplicador de fuerza (Leverage)"
+    },
+    {
+        "pregunta": "Este método de organización es adecuado cuando el escenario geográfico no es una limitante para agrupar medios de naturaleza afín bajo un solo mando.",
+        "opciones": ["Método de Mando Mixto.", "Método de Mando por Componentes.", "Método por Órganos de Maniobra."],
+        "respuesta_correcta": "Método de Mando por Componentes"
+    },
+    {
+        "pregunta": "¿En qué consiste el \"Método por Órganos de Maniobra\"?",
+        "opciones": ["En delegar toda la autoridad a los mandos de componentes funcionales.", "En que la o el JFC opta por el mando directo de las fuerzas asignadas con la asesoría de su Estado Mayor Conjunto.", "En el empleo de fuerzas civiles coordinadas por el ejército."],
+        "respuesta_correcta": "En que la o el JFC opta por el mando directo de las fuerzas asignadas con la asesoría de su Estado Mayor Conjunto."
+    },
+    {
+        "pregunta": "Es la confianza de una Fuerza Armada en las capacidades de otra para maximizar efectos complementarios.",
+        "opciones": ["Interoperabilidad.", "Interdependencia conjunta.", "Acción Unificada."],
+        "respuesta_correcta": "Interdependencia conjunta"
+    },
+    {
+        "pregunta": "¿Qué componente de la Fuerza Conjunta puede ser totalmente adecuado si la campaña es contra un poderío insular que puede ser aislado?",
+        "opciones": ["El componente aireo.", "El componente naval.", "El componente terrestre."],
+        "respuesta_correcta": "El componente naval"
+    },
+    {
+        "pregunta": "¿En qué situación el componente terrestre debe ser el principal según el manual?",
+        "opciones": ["Cuando el tiempo no tiene ninguna importancia significativa.", "Cuando la ocupación a corto plazo de partes limitadas del territorio pondrá fin a la guerra.", "Cuando se busca únicamente atacar centros de producción económica distantes."],
+        "respuesta_correcta": "Cuando la ocupación a corto plazo de partes limitadas del territorio pondrá fin a la guerra."
+    },
+    {
+        "pregunta": "Según el manual, ¿qué es imposible hacer sin disfrutar de la superioridad aérea?",
+        "opciones": ["Realizar misiones de paz internacionales.", "Ganar una guerra.", "Transportar personal administrativo entre bases terrestres."],
+        "respuesta_correcta": "Ganar una guerra"
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal de las acciones del componente terrestre en operaciones de combate?",
+        "opciones": ["Proporcionar asistencia médica a la población civil únicamente.", "Anular la capacidad de combate de las fuerzas enemigas y controlar el entorno operativo.", "Construir carreteras y puentes para el desarrollo nacional."],
+        "respuesta_correcta": "Anular la capacidad de combate de las fuerzas enemigas y controlar el entorno operativo."
+    },
+    {
+        "pregunta": "El componente terrestre puede realizar la maniobra operacional en diversas formas, una de ellas es:",
+        "opciones": ["Maniobra de distracción administrativa.", "Maniobra por líneas interiores.", "Maniobra de repliegue político."],
+        "respuesta_correcta": "Maniobra por líneas interiores"
+    },
+    {
+        "pregunta": "¿Qué concepto define la situación en la que ningún lado puede operar contra las áreas de retaguardia enemigas y la acción airea se confina al frente?",
+        "opciones": ["Caso I.", "Caso IV.", "Caso V."],
+        "respuesta_correcta": "Caso V"
+    },
+    {
+        "pregunta": "Se define como el grado de control del aire que permite la conducción de operaciones en un momento y lugar determinados sin interferencia prohibitiva.",
+        "opciones": ["Supremacía aérea.", "Superioridad aérea.", "Control del Espacio Aireo Nacional."],
+        "respuesta_correcta": "Superioridad aérea"
+    },
+    {
+        "pregunta": "Es el grado de control del aire en el que la fuerza opuesta es incapaz de interferir efectivamente utilizando amenazas de aire y misiles.",
+        "opciones": ["Superioridad aérea.", "Supremacía aérea.", "Cobertura aérea local."],
+        "respuesta_correcta": "Supremacía aérea"
+    },
+    {
+        "pregunta": "Las operaciones navales incluyen acciones de diversas fuerzas para la negación de espacios marítimos o para proyectar operaciones desde y hacia:",
+        "opciones": ["El espacio exterior.", "La mar.", "El ciberespacio."],
+        "respuesta_correcta": "La mar"
+    },
+    {
+        "pregunta": "Significa el tránsito seguro de las mercaderías y de las personas a través de las rutas marítimas y el paso de fuerzas militares.",
+        "opciones": ["Dominio absoluto del mar.", "Hacer uso del mar.", "Protección de la zona económica exclusiva."],
+        "respuesta_correcta": "Hacer uso del mar"
+    },
+    {
+        "pregunta": "¿Cuál es la contribución principal de las Fuerzas Navales para la o el JFC?",
+        "opciones": ["Proporcionar personal para la administración de las aduanas terrestres.", "Aportar unidades tecnológicamente avanzadas, interoperables, adiestradas y listas para intervenir.", "El mantenimiento de las escuelas de educación básica en el litoral."],
+        "respuesta_correcta": "Aportar unidades tecnológicamente avanzadas, interoperables, adiestradas y listas para intervenir."
+    },
+    {
+        "pregunta": "¿Qué tipo de misiones de las SOF implican ataques de corta duración para asegurar, destruir o capturar blancos en entornos hostiles?",
+        "opciones": ["Reconocimiento Especial (SR).", "Acción Directa (DA).", "Guerra no Convencional (UW)."],
+        "respuesta_correcta": "Acción Directa (DA)"
+    },
+    {
+        "pregunta": "¿Qué actividad de las SOF implica recolectar información de importancia estratégica de forma clandestina o encubierta?",
+        "opciones": ["Acción Directa (DA).", "Reconocimiento Especial (SR).", "Preparación del Entorno Operacional."],
+        "respuesta_correcta": "Reconocimiento Especial (SR)"
+    },
+    {
+        "pregunta": "Consiste en operaciones para permitir que un movimiento de resistencia coaccione, interrumpa y hostigue a la fuerza adversaria que invade.",
+        "opciones": ["Operaciones de Multidominio.", "Guerra no Convencional (UW).", "Respuesta a crisis."],
+        "respuesta_correcta": "Guerra no Convencional (UW)"
+    },
+    {
+        "pregunta": "¿Cómo se define al mando componente?",
+        "opciones": ["Aquél que depende directamente de la Secretaría de Hacienda.", "Aquél que está directamente subordinado a la o el Comandante de la Fuerza Conjunta (JFC).", "El mando encargado de la educación militar en el país."],
+        "respuesta_correcta": "Aquél que está directamente subordinado a la o el Comandante de la Fuerza Conjunta (JFC)."
+    },
+    {
+        "pregunta": "Son actividades agrupadas que apoyan al JFC para integrar, sincronizar y dirigir las Operaciones Conjuntas.",
+        "opciones": ["Tareas Tácticas Individuales.", "Funciones Operacionales Conjuntas.", "Procedimientos de Estado Mayor."],
+        "respuesta_correcta": "Funciones Operacionales Conjuntas"
+    },
+    {
+        "pregunta": "¿Cuáles de las siguientes funciones operacionales se aplican para todo tipo de operaciones?",
+        "opciones": ["Fuegos y Movimiento.", "Mando y Control e Inteligencia.", "Protección y Logística."],
+        "respuesta_correcta": "Mando y Control e Inteligencia"
+    },
+    {
+        "pregunta": "¿Qué función abarca el ejercicio de autoridad y dirección por parte del JFC sobre las fuerzas asignadas?",
+        "opciones": ["Inteligencia.", "Mando y Control (C2).", "Fuegos."],
+        "respuesta_correcta": "Mando y Control (C2)"
+    },
+    {
+        "pregunta": "Es la autoridad de mando intransferible, ejercida únicamente por la o el Jefe de Estado Mayor Conjunto (JCS).",
+        "opciones": ["Control Operacional (OPCON).", "Conducción Estratégica Militar Conjunta.", "Control Táctico (TACON)."],
+        "respuesta_correcta": "Conducción Estratégica Militar Conjunta"
+    },
+    {
+        "pregunta": "Es una autoridad de mando delegada ejercida por el JFC para organizar y emplear componentes y asignar tareas.",
+        "opciones": ["Mando Administrativo.", "Control Operacional (OPCON).", "Apoyo."],
+        "respuesta_correcta": "Control Operacional (OPCON)"
+    },
+    {
+        "pregunta": "Es la autoridad delegada a un mando para efectuar la conducción específica de los movimientos y maniobras de las unidades.",
+        "opciones": ["Control Operacional (OPCON).", "Control Táctico (TACON).", "Mando de Componente."],
+        "respuesta_correcta": "Control Táctico (TACON)"
+    },
+    {
+        "pregunta": "El Control Táctico (TACON) es inherente al OPCON y:",
+        "opciones": ["Incluye responsabilidad administrativa y logística total.", "No incluye responsabilidad administrativa ni logística.", "Solo se ejerce sobre las fuerzas de la propia institución."],
+        "respuesta_correcta": "No incluye responsabilidad administrativa ni logística"
+    },
+    {
+        "pregunta": "En las relaciones de mando, ¿qué opción es útil para la coordinación de operaciones en profundidad sin constituir una relación de mando como tal?",
+        "opciones": ["Orden de Operaciones.", "Apoyo (SUPPORT).", "Transferencia de autoridad."],
+        "respuesta_correcta": "Apoyo (SUPPORT)"
+    },
+    {
+        "pregunta": "Administrar y dirigir fuerzas y acciones de manera consecuente con la autoridad de mando se define como:",
+        "opciones": ["Planeamiento.", "Control.", "Inteligencia."],
+        "respuesta_correcta": "Control"
+    },
+    {
+        "pregunta": "¿Quién es normalmente el Comandante que apoya el esfuerzo general de interdicción airea del JFC?",
+        "opciones": ["El Comandante Terrestre (JFLCC).", "El Comandante del Componente Aireo (JFACC).", "El Comandante de la Armada."],
+        "respuesta_correcta": "El Comandante del Componente Aireo (JFACC)"
+    },
+    {
+        "pregunta": "¿Qué autoridad tiene la facultad para realizar el ataque electrónico en el OA?",
+        "opciones": ["Autoridad de Control de Misiles.", "Autoridad de Control de Guerra Electrónica (EWCA).", "Comandante del Ciberespacio."],
+        "respuesta_correcta": "Autoridad de Control de Guerra Electrónica (EWCA)"
+    },
+    {
+        "pregunta": "Son elementos de información que el JFC identifica como críticos para la toma oportuna de decisiones y pertenecen únicamente a él.",
+        "opciones": ["Temas Estratégicos.", "Requerimientos Críticos de Información del Comandante (CCIR).", "Órdenes Preparatorias."],
+        "respuesta_correcta": "Requerimientos Críticos de Información del Comandante (CCIR)"
+    },
+    {
+        "pregunta": "El ciclo de operaciones diarias de sesiones informativas, reuniones y requerimientos de informes del Cuartel General se denomina:",
+        "opciones": ["Calendario de Actividades.", "Ritmo de batalla.", "Horario de Combate."],
+        "respuesta_correcta": "Ritmo de batalla"
+    },
+    {
+        "pregunta": "¿Cuáles son los productos más importantes de la función de Mando y Control (C2)?",
+        "opciones": ["Los informes de gastos.", "Las decisiones.", "Los boletines de noticias."],
+        "respuesta_correcta": "Las decisiones"
+    },
+    {
+        "pregunta": "¿Qué proceso ayuda a las y los usuarios a evitar errores previos y adoptar las mejores prácticas comprobadas?",
+        "opciones": ["El proceso de reclutamiento.", "Las bases de datos de lecciones aprendidas.", "La justicia militar."],
+        "respuesta_correcta": "Las bases de datos de lecciones aprendidas"
+    },
+    {
+        "pregunta": "Consiste en esfuerzos enfocados para crear condiciones favorables mediante la comprensión y comunicación con audiencias clave.",
+        "opciones": ["Inteligencia Humana.", "Sincronización de Comunicaciones de la o el Comandante (CCS).", "Censura Militar."],
+        "respuesta_correcta": "Sincronización de Comunicaciones de la o el Comandante (CCS)"
+    },
+    {
+        "pregunta": "¿Cómo se denomina a la brecha entre acciones y palabras que el JFC debe abordar y mitigar?",
+        "opciones": ["Diferencia operacional.", "Brecha \"decir-hacer\".", "Error de comunicación."],
+        "respuesta_correcta": "Brecha \"decir-hacer\""
+    },
+    {
+        "pregunta": "Los productos de CCS deben incluir una historia corta para sustentar operaciones y proporcionar contexto, denominada:",
+        "opciones": ["Mensaje.", "Narrativa.", "Tema."],
+        "respuesta_correcta": "Narrativa"
+    },
+    {
+        "pregunta": "¿Qué función operacional consiste en usar armas y otros sistemas para crear un efecto específico en un objetivo?",
+        "opciones": ["Movimiento.", "Fuegos.", "Protección."],
+        "respuesta_correcta": "Fuegos"
+    },
+    {
+        "pregunta": "Es el proceso de selección y priorización de blancos, asignando una respuesta adecuada a ellos.",
+        "opciones": ["Interdicción.", "Análisis de blancos (Targeting).", "Ataque Estratégico."],
+        "respuesta_correcta": "Análisis de blancos (Targeting)"
+    },
+    {
+        "pregunta": "Operación que desvía, interrumpe o destruye las capacidades de superficie del adversario antes de ser usadas efectivamente.",
+        "opciones": ["Interdicción.", "Apoyo Aireo Cercano.", "Reconocimiento."],
+        "respuesta_correcta": "Interdicción"
+    },
+    {
+        "pregunta": "Acción ofensiva dirigida por el JFC contra objetivos seleccionados para lograr objetivos estratégicos nacionales o militares.",
+        "opciones": ["Asalto Anfibio.", "Ataque Estratégico.", "Incursión Especial."],
+        "respuesta_correcta": "Ataque Estratégico"
+    },
+    {
+        "pregunta": "¿Cómo se denomina a la distribución del esfuerzo aireo que forma parte del Targeting?",
+        "opciones": ["Plan de Vuelo Conjunto.", "Distribución del esfuerzo aireo.", "Orden de Tareas Aéreas."],
+        "respuesta_correcta": "Distribución del esfuerzo aireo"
+    },
+    {
+        "pregunta": "¿Qué elemento crítico del apoyo de fuegos conjunto requiere entrenamiento de grupo y apoyo de la Fuerza Aérea?",
+        "opciones": ["Fuegos de Artillería de Largo Alcance.", "Apoyo Aireo Cercano (CAS).", "Interdicción Marítima."],
+        "respuesta_correcta": "Apoyo Aireo Cercano (CAS)"
+    },
+    {
+        "pregunta": "Las operaciones de Contra Fuerza Aérea generalmente comienzan al inicio de una campaña para producir:",
+        "opciones": ["Un aumento en la moral del personal administrativo.", "El grado deseado de control del aire.", "El mapa detallado del terreno enemigo."],
+        "respuesta_correcta": "El grado deseado de control del aire"
+    },
+    {
+        "pregunta": "Esta función abarca la disposición de Fuerzas Conjuntas para asegurar ventajas posicionales y explotar el éxito táctico.",
+        "opciones": ["Protección.", "Movimiento y Maniobra.", "Logística."],
+        "respuesta_correcta": "Movimiento y Maniobra"
+    },
+    {
+        "pregunta": "Se define como la distancia y duración a través de las cuales una JF puede emplear con éxito sus capacidades militares.",
+        "opciones": ["Línea de Operaciones.", "Alcance operacional.", "Profundidad estratégica."],
+        "respuesta_correcta": "Alcance operacional"
+    },
+    {
+        "pregunta": "¿Cuál es el propósito principal de la maniobra?",
+        "opciones": ["Ahorrar combustible y municiones.", "Colocar al adversario en desventaja mediante la aplicación flexible del movimiento y fuegos.", "Realizar ejercicios de adiestramiento en tiempo de paz."],
+        "respuesta_correcta": "Colocar al adversario en desventaja mediante la aplicación flexible del movimiento y fuegos."
+    },
+    {
+        "pregunta": "¿Qué nivel de maniobra busca colocar fuerzas en posición para iniciar las fases de una campaña u operaciones mayores?",
+        "opciones": ["Nivel táctico.", "Nivel estratégico.", "Nivel administrativo."],
+        "respuesta_correcta": "Nivel estratégico"
+    },
+    {
+        "pregunta": "Es el medio por el cual el JFC establece los términos para la batalla, rechaza la batalla o explota situaciones existentes.",
+        "opciones": ["Maniobra táctica.", "Maniobra operacional.", "Movimiento administrativo."],
+        "respuesta_correcta": "Maniobra operacional"
+    },
+    {
+        "pregunta": "¿Quiénes proporcionan movilidad de la fuerza al abrir brechas entre los obstáculos?",
+        "opciones": ["Los servicios de sanidad.", "Las y los ingenieros de combate.", "Los asesores jurídicos operacionales."],
+        "respuesta_correcta": "Las y los ingenieros de combate"
+    },
+    {
+        "pregunta": "Esta función se centra en preservar el potencial de combate de la Fuerza Conjunta.",
+        "opciones": ["Fuegos.", "Protección.", "Movimiento."],
+        "respuesta_correcta": "Protección"
+    },
+    {
+        "pregunta": "El uso de medidas que dificultan la localización y destrucción de fuerzas sin la intención de tomar la iniciativa es una:",
+        "opciones": ["Medida defensiva activa.", "Medida defensiva pasiva.", "Acción ofensiva."],
+        "respuesta_correcta": "Medida defensiva pasiva"
+    },
+    {
+        "pregunta": "Las funciones de seguridad física incluyen, entre otras:",
+        "opciones": ["La planeación de la política económica regional.", "Seguridad de instalaciones y operaciones de patrullaje y guardia.", "El diseño de nuevos uniformes de gala."],
+        "respuesta_correcta": "Seguridad de instalaciones y operaciones de patrullaje y guardia."
+    },
+    {
+        "pregunta": "¿Qué incluye la defensa activa, airea y de misiles?",
+        "opciones": ["Camuflaje y ocultación únicamente.", "Acciones defensivas directas tomadas para destruir o anular amenazas hostiles aéreas.", "La reconstrucción de aeródromos dañados por el clima."],
+        "respuesta_correcta": "Acciones defensivas directas tomadas para destruir o anular amenazas hostiles aéreas."
+    },
+    {
+        "pregunta": "Medidas como camuflaje, ocultación, engaño y dispersión son ejemplos de:",
+        "opciones": ["Defensa activa.", "Defensa pasiva.", "Movimiento estratégico."],
+        "respuesta_correcta": "Defensa pasiva"
+    },
+    {
+        "pregunta": "Función que se encarga de prever y proveer el apoyo adecuado para mantener y prolongar las operaciones.",
+        "opciones": ["Inteligencia.", "Logística.", "Mando."],
+        "respuesta_correcta": "Logística"
+    },
+    {
+        "pregunta": "La logística determina la profundidad a la que la JF puede llevar a cabo operaciones decisivas, permitiendo al JFC:",
+        "opciones": ["Abandonar el área operacional prematuramente.", "Aprovechar, retener y explotar la iniciativa.", "Reducir el adiestramiento del personal."],
+        "respuesta_correcta": "Aprovechar, retener y explotar la iniciativa."
+    },
+    {
+        "pregunta": "¿Cuál de las siguientes es una tarea incluida en la función de Logística?",
+        "opciones": ["Análisis de blancos estratégicos.", "El mantenimiento y el transporte.", "Operaciones psicológicas ofensivas."],
+        "respuesta_correcta": "El mantenimiento y el transporte"
+    },
+    {
+        "pregunta": "¿Quién desarrolla un análisis permanente de las capacidades logísticas para apoyar a los JFCs?",
+        "opciones": ["El Comandante del Componente Terrestre.", "La o el Jefe de Estado Mayor Conjunto (JCS).", "El Director de Finanzas Navales."],
+        "respuesta_correcta": "La o el Jefe de Estado Mayor Conjunto (JCS)."
+    },
+    {
+        "pregunta": "El espacio en el cual pueden llevar a cabo Operaciones Conjuntas es la combinación de:",
+        "opciones": ["Edificios y armamento disponible únicamente.", "Condiciones y circunstancias e influencias que afectan el empleo de las capacidades.", "Límites estatales y fronteras municipales."],
+        "respuesta_correcta": "Condiciones y circunstancias e influencias que afectan el empleo de las capacidades"
+    },
+    {
+        "pregunta": "¿De qué dependerá la dimensión de las áreas operacionales y el tipo de fuerzas empleadas en ellas?",
+        "opciones": ["De la cantidad de combustible disponible el primer día.", "De la naturaleza y alcance de la campaña y/o la duración prevista.", "De la preferencia personal del jefe de logística."],
+        "respuesta_correcta": "De la naturaleza y alcance de la campaña y/o la duración prevista."
+    },
+    {
+        "pregunta": "Área de tierra, mar y espacio aireo asignada al Comandante del Componente de Operaciones Especiales.",
+        "opciones": ["Área de Operaciones Conjunta (JOA).", "Área Conjunta de Operaciones Especiales (JSOA).", "Teatro de Operaciones (TO)."],
+        "respuesta_correcta": "Área Conjunta de Operaciones Especiales (JSOA)"
+    },
+    {
+        "pregunta": "Área de superficie designada como crítica que facilita la protección de los organismos de apoyo a las operaciones conjuntas.",
+        "opciones": ["Área de Operaciones (AO).", "Área de Apoyo Conjunto (JSA).", "Área de Operaciones Anfibias (AOA)."],
+        "respuesta_correcta": "Área de Apoyo Conjunto (JSA)"
+    },
+    {
+        "pregunta": "Área geográfica dentro de la cual se localiza el o los objetivos de la fuerza anfibia.",
+        "opciones": ["Área de Seguridad Marítima.", "Área de Operaciones Anfibias (AOA).", "Zona del Interior."],
+        "respuesta_correcta": "Área de Operaciones Anfibias (AOA)"
+    },
+    {
+        "pregunta": "¿Qué debe asegurar la extensión del Área de Operaciones Anfibias (AOA)?",
+        "opciones": ["El atraque de todos los buques pesqueros de la zona.", "El cumplimiento de la misión de dicha fuerza y proporcionar el espacio para conducir operaciones terrestres, marítimas y aireas.", "La exclusión total de cualquier medio de comunicación civil."],
+        "respuesta_correcta": "El cumplimiento de la misión de dicha fuerza y proporcionar el espacio para conducir operaciones terrestres, marítimas y aireas."
+    },
+    {
+        "pregunta": "Según el manual, ¿cuál es el requerimiento de interoperabilidad?",
+        "opciones": ["Que cada fuerza opere con sistemas incompatibles para evitar el hackeo enemigo.", "Que permita que fuerzas del Ejército, de la Fuerza Aireas y de la Armada puedan actuar de manera conjunta y coordinada.", "Que las órdenes se transmitan únicamente de forma verbal."],
+        "respuesta_correcta": "Que permita que fuerzas del Ejército, de la Fuerza Aireas y de la Armada puedan actuar de manera conjunta y coordinada."
+    },
+    {
+        "pregunta": "¿Qué documento contiene las estrategias para articular, desarrollar y emplear las capacidades para la defensa de la soberanía?",
+        "opciones": ["Plan de Acción Inmediata.", "Plan Militar de Defensa Nacional Conjunto.", "Reglamento de Deberes Militares."],
+        "respuesta_correcta": "Plan Militar de Defensa Nacional Conjunto."
+    },
+    {
+        "pregunta": "El Plan Militar de Guerra Conjunto comprende el empleo de todos los recursos bélicos de la nación para responder a:",
+        "opciones": ["Un caso específico de guerra probable o inminente.", "Desastres naturales menores de carácter local.", "Problemas de seguridad pública urbana."],
+        "respuesta_correcta": "Un caso específico de guerra probable o inminente."
+    },
+    {
+        "pregunta": "¿Cuál es el enfoque del nivel operacional de la guerra según la doctrina citada?",
+        "opciones": ["La administración de los haberes y prestaciones del personal.", "La planeación y ejecución de operaciones usando el Arte Operacional.", "La compra de equipo médico para los hospitales navales."],
+        "respuesta_correcta": "La planeación y ejecución de operaciones usando el Arte Operacional."
+    },
+    {
+        "pregunta": "¿Existe una o un solo JFC por qué unidad geográfica?",
+        "opciones": ["Por cada Zona Naval.", "Por Teatro de Operaciones (TO).", "Por cada Estado de la Federación."],
+        "respuesta_correcta": "Por Teatro de Operaciones (TO)."
+    },
+    {
+        "pregunta": "Qué elementos PMESII interactúan con las acciones militares e influyen en el desarrollo de la campaña?",
+        "opciones": ["Personal, Material, Equipo, Sistemas, Infraestructura e Información.", "Político, Militar, Económico, Social, Infraestructura e Informacional.", "Prevención, Movilización, Ejecución, Seguridad, Inteligencia e Intervención."],
+        "respuesta_correcta": "Político, Militar, Económico, Social, Infraestructura e Informacional."
+    },
+    {
+        "pregunta": "El Control Operacional (OPCON) puede delegarse o transferirse dentro de la cadena de mando, pero NO incluye:",
+        "opciones": ["La autoridad para asignar tareas tácticas.", "Responsabilidad administrativa ni logística.", "La dirección de los entrenamientos conjuntos."],
+        "respuesta_correcta": "Responsabilidad administrativa ni logística"
+    },
+    {
+        "pregunta": "¿Cómo se denomina a la brecha que el JFC debe mitigar para no afectar negativamente las operaciones planificadas?",
+        "opciones": ["Brecha de comunicación estratégica.", "Brecha \"decir-hacer\".", "Diferencia de mando."],
+        "respuesta_correcta": "Brecha \"decir-hacer\""
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del sistema de comunicaciones conjuntas?",
+        "opciones": ["Facilitar las llamadas personales de las tropas con sus familias.", "Ayudar a la o el JFC en el Mando y Control (C2) de las operaciones militares.", "Publicar noticias sobre los éxitos de la campaña en redes sociales."],
+        "respuesta_correcta": "Ayudar a la o el JFC en el Mando y Control (C2) de las operaciones militares."
+    },
+    {
+        "pregunta": "El sistema de comunicaciones es el principal medio a través del cual fluye hacia el JFC:",
+        "opciones": ["El presupuesto aprobado por el Congreso.", "La inteligencia.", "El correo personal."],
+        "respuesta_correcta": "La inteligencia"
+    },
+    {
+        "pregunta": "¿Qué característica principal tienen los CCIR?",
+        "opciones": ["Son conocidos por todo el personal de la Fuerza Conjunta.", "Pertenecen únicamente a la o el JFC.", "Son estáticos y nunca cambian durante la campaña."],
+        "respuesta_correcta": "Pertenecen únicamente a la o el JFC."
+    },
+    {
+        "pregunta": "La Jefa o Jefe del Estado Mayor normalmente administra:",
+        "opciones": ["El almacén de víveres del Cuartel General.", "El ritmo de batalla del Cuartel General de la Fuerza Conjunta.", "Las misiones de combate en la primera línea."],
+        "respuesta_correcta": "El ritmo de batalla del Cuartel General de la Fuerza Conjunta."
+    },
+    {
+        "pregunta": "En el apoyo de fuego conjunto, ¿qué elemento se considera crítico y requiere planeamiento detallado y coordinado?",
+        "opciones": ["El uso de granadas de humo para señales.", "El Apoyo Aireo Cercano (CAS).", "El disparo de salvas de honor."],
+        "respuesta_correcta": "El Apoyo Aireo Cercano (CAS)"
+    },
+    {
+        "pregunta": "La superioridad airea es el grado de control que permite conducir operaciones en un momento y lugar determinados sin:",
+        "opciones": ["Necesidad de usar radares o satélites.", "Interferencia prohibitiva de amenazas de aire y misiles.", "La aprobación del mando superior estratégico."],
+        "respuesta_correcta": "Interferencia prohibitiva de amenazas de aire y misiles."
+    },
+    {
+        "pregunta": "¿Cuál es la misión principal del componente de operaciones especiales en apoyo al JFC?",
+        "opciones": ["La administración de los campos de prisioneros.", "Acción Directa (DA) y Reconocimiento Especial (SR).", "El patrullaje de las zonas urbanas para seguridad pública."],
+        "respuesta_correcta": "Acción Directa (DA) y Reconocimiento Especial (SR)"
+    }
+]

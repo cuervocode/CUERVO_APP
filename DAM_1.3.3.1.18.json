@@ -1,0 +1,1002 @@
+[
+    {
+        "pregunta": "¿Cuál es la misión de la Armada de México según el manual?",
+        "opciones": ["Organizar, adiestrar, alistar, equipar y operar a las Fuerzas que la constituyen para el cumplimiento de su misión y ejercicio de sus funciones.", "Emplear el poder Naval de la Federación para la defensa exterior y coadyuvar en la seguridad interior del país.", "Garantizar el mantenimiento de la integridad del territorio nacional y la defensa de su soberanía en el área jurisdiccional."],
+        "respuesta_correcta": "Emplear el poder Naval de la Federación para la defensa exterior y coadyuvar en la seguridad interior del país."
+    },
+    {
+        "pregunta": "¿Cómo se define la organización de la Secretaría de Marina-Armada de México?",
+        "opciones": ["Como de tipo político-administrativo y operativo-militar.", "Como de tipo administrativo-operativo, toda vez que combina dirección, administración, alistamiento y conducción en una sola orgánica.", "Como de tipo estratégico-táctico para el empleo del Poder Naval de la Federación."],
+        "respuesta_correcta": "Como de tipo administrativo-operativo, toda vez que combina dirección, administración, alistamiento y conducción en una sola orgánica."
+    },
+    {
+        "pregunta": "En la organización operativa de la Armada, ¿quiénes constituyen la primera línea de defensa para la defensa exterior?",
+        "opciones": ["Las Regiones Navales.", "Los Mandos Superiores en Jefe.", "Las Fuerzas Navales."],
+        "respuesta_correcta": "Las Fuerzas Navales."
+    },
+    {
+        "pregunta": "¿Cómo se define la Estrategia Marítima de la Institución?",
+        "opciones": ["Ejercer un eficaz control del mar en beneficio propio para negar al enemigo e infractores el uso de las aguas y el espacio aéreo de jurisdicción nacional.", "Resguardo de la soberanía e integridad territorial mediante el mantenimiento de un adecuado poder de disuasión.", "Evitar que Fuerzas enemigas usen libremente nuestra zona marítima y prevenir que capturen partes de nuestro territorio."],
+        "respuesta_correcta": "Ejercer un eficaz control del mar en beneficio propio para negar al enemigo e infractores el uso de las aguas y el espacio aéreo de jurisdicción nacional."
+    },
+    {
+        "pregunta": "¿Cuál es el nivel de conducción de la guerra que enfoca sus actividades directamente en objetivos de la política de la nación?",
+        "opciones": ["Conducción operacional.", "Conducción estratégica.", "Conducción táctica."],
+        "respuesta_correcta": "Conducción estratégica."
+    },
+    {
+        "pregunta": "¿Qué nivel de conducción militar responde al \"cómo\" de la pregunta estratégica que presupone la utilización de la Fuerza?",
+        "opciones": ["Conducción operacional.", "Conducción estratégica.", "Conducción táctica."],
+        "respuesta_correcta": "Conducción operacional."
+    },
+    {
+        "pregunta": "¿Qué es el Mando y Control (C2) según la doctrina naval?",
+        "opciones": ["El uso de los medios de acción (Fuerzas y armas) en el campo de batalla para alcanzar objetivos específicos.", "La habilidad o capacidad que posee una organización de Tarea constituida por unidades de superficie, aeronavales y terrestres integradas armónicamente.", "La autoridad y dirección que ejerce el Comandante sobre sus Fuerzas para el cumplimiento de una misión."],
+        "respuesta_correcta": "La autoridad y dirección que ejerce el Comandante sobre sus Fuerzas para el cumplimiento de una misión."
+    },
+    {
+        "pregunta": "¿Cómo se define la interoperabilidad en el manual?",
+        "opciones": ["El proceso continuo y cíclico a través del cual el Comandante toma decisiones y ejerce autoridad sobre los Comandantes Subordinados.", "La habilidad o capacidad que posee una organización de Tarea constituida por unidades de superficie, aeronavales y terrestres integradas armónicamente bajo una doctrina común.", "El uso de medios tecnológicos integrados para aplicar la Fuerza desde diferentes dimensiones y direcciones."],
+        "respuesta_correcta": "La habilidad o capacidad que posee una organización de Tarea constituida por unidades de superficie, aeronavales y terrestres integradas armónicamente bajo una doctrina común."
+    },
+    {
+        "pregunta": "De acuerdo a la organización de las unidades operativas, ¿cuáles son consideradas \"grandes unidades elementales\"?",
+        "opciones": ["Las Flotillas, Brigadas Divisionarias de Infantería de Marina y Escuadrones Aeronavales.", "Las Flotas, las Alas Aeronavales, las Brigadas Anfibias y las Divisiones de Infantería de Marina.", "Las Fuerzas Navales, el Cuerpo de Infantería de Marina y el Cuerpo de Aviación Naval."],
+        "respuesta_correcta": "Las Flotas, las Alas Aeronavales, las Brigadas Anfibias y las Divisiones de Infantería de Marina."
+    },
+    {
+        "pregunta": "¿Qué es la Fuerza de Tarea (FT)?",
+        "opciones": ["La organización permanente que la Armada de México emplea para llevar a cabo operaciones de defensa exterior.", "El componente de combate que tiene como función conducir operaciones en el escenario terrestre y anfibio.", "La organización temporal que la Armada de México emplea para llevar a cabo las operaciones de combate."],
+        "respuesta_correcta": "La organización temporal que la Armada de México emplea para llevar a cabo las operaciones de combate."
+    },
+    {
+        "pregunta": "¿Cuál es el componente de una FTAM que tiene como Tarea principal la captura, neutralización o destrucción de objetivos en tierra?",
+        "opciones": ["Grupo de Tarea de Superficie.", "Grupo de Tarea Terrestre.", "Grupo de Tarea Aéreo."],
+        "respuesta_correcta": "Grupo de Tarea Terrestre."
+    },
+    {
+        "pregunta": "En el Concepto Operacional de la IM, ¿cuál es un objetivo de las operaciones en la Defensiva?",
+        "opciones": ["Fracturar o desarticular las acciones o preparación enemigos.", "Incrementar la vulnerabilidad enemiga, forzándolo a incrementar sus Fuerzas.", "Privar al enemigo de recursos vitales."],
+        "respuesta_correcta": "Incrementar la vulnerabilidad enemiga, forzándolo a incrementar sus Fuerzas."
+    },
+    {
+        "pregunta": "¿Qué unidad de IM se utiliza para desembarcos que requieran la Fuerza básica y mínima para consolidar una cabeza de playa por corto tiempo?",
+        "opciones": ["Brigada de IM.", "Batallón de IM.", "Compañía de IM reforzada."],
+        "respuesta_correcta": "Batallón de IM."
+    },
+    {
+        "pregunta": "¿Cómo concibe México un estado de guerra?",
+        "opciones": ["Como una intervención armada en nuestro país considerada como peligro latente.", "Como una condición de confrontación armada entre países.", "Como un acto tendente a consumar el tráfico ilegal de materiales nucleares o armas químicas."],
+        "respuesta_correcta": "Como una condición de confrontación armada entre países."
+    },
+    {
+        "pregunta": "En tiempo de guerra, el Mando Supremo ordena que México se divida en dos grandes zonas, ¿cuáles son?",
+        "opciones": ["Zona de Defensa y Zona de Ataque.", "Zona del Interior (ZI) y la Zona de Operaciones (ZO).", "Teatro del Golfo de México y Teatro del Océano Pacífico."],
+        "respuesta_correcta": "Zona del Interior (ZI) y la Zona de Operaciones (ZO)."
+    },
+    {
+        "pregunta": "¿Cómo se llama el límite entre la Zona de Interior y la Zona de Operaciones?",
+        "opciones": ["Línea de Contacto.", "Línea de Demarcación (LD).", "Límite de Teatro."],
+        "respuesta_correcta": "Línea de Demarcación (LD)."
+    },
+    {
+        "pregunta": "¿Qué nivel de conducción de la guerra se define como \"El Arte y Ciencia de ganar campañas\"?",
+        "opciones": ["El Nivel Estratégico.", "El Nivel Operacional.", "El Nivel Táctico."],
+        "respuesta_correcta": "El Nivel Operacional."
+    },
+    {
+        "pregunta": "¿Qué tipo de control ejerce un mando de todas las unidades operativas tácticas de su área de responsabilidad para el desarrollo de operaciones?",
+        "opciones": ["Control Operacional (CONOP).", "Control Táctico (CONTAC).", "Control Administrativo (CONAD)."],
+        "respuesta_correcta": "Control Operacional (CONOP)."
+    },
+    {
+        "pregunta": "¿Cuál es la autoridad de mando sobre Fuerzas asignadas para la dirección y control de movimientos y maniobras para el logro de una Tarea o misión?",
+        "opciones": ["Control Operacional.", "Control Táctico.", "Control Administrativo."],
+        "respuesta_correcta": "Control Táctico."
+    },
+    {
+        "pregunta": "¿Qué organización temporal emplea la Armada para conducir operaciones terrestres tierra adentro cuando el espacio de batalla es bidimensional (terrestre y aéreo)?",
+        "opciones": ["Fuerza de Desembarco (FD).", "Fuerza de Tarea Aeroterrestre (FTAT).", "Grupo de Tarea Terrestre (GTT)."],
+        "respuesta_correcta": "Fuerza de Tarea Aeroterrestre (FTAT)."
+    },
+    {
+        "pregunta": "¿Cuáles son los cuatro tipos generales de operaciones terrestres ofensivas?",
+        "opciones": ["Ataque frontal, penetración, envolvimiento y rodeo.", "Movimiento al contacto, ataque, explotación y persecución.", "Reconocimiento, incursión, finta y demostración."],
+        "respuesta_correcta": "Movimiento al contacto, ataque, explotación y persecución."
+    },
+    {
+        "pregunta": "¿Cómo se clasifica un ataque que se caracteriza por un movimiento coordinado, apoyado por fuego, para derrotar o capturar al enemigo?",
+        "opciones": ["Operación de explotación.", "Ataque.", "Movimiento al contacto."],
+        "respuesta_correcta": "Ataque."
+    },
+    {
+        "pregunta": "¿Qué operación ofensiva diseñada para capturar o atajar a una Fuerza hostil intentando escapar actúa normalmente como \"yunque y martillo\"?",
+        "opciones": ["Persecución.", "Explotación.", "Infiltración."],
+        "respuesta_correcta": "Persecución."
+    },
+    {
+        "pregunta": "¿Cuáles son las tres áreas en que se organiza el espacio de batalla ofensivo?",
+        "opciones": ["Frente, flancos y retaguardia.", "Lo profundo, lo cercano y la retaguardia.", "Área de seguridad, área de batalla principal y área de retaguardia."],
+        "respuesta_correcta": "Lo profundo, lo cercano y la retaguardia."
+    },
+    {
+        "pregunta": "¿Qué tipo de defensa solo puede ser llevada a cabo por unidades de talla de División y mayores?",
+        "opciones": ["Defensa de Área (Posición).", "Defensa Móvil.", "Defensa de Punto Fortificado."],
+        "respuesta_correcta": "Defensa Móvil."
+    },
+    {
+        "pregunta": "¿Qué operación retrógrada es aquella en la cual una Fuerza bajo presión cede espacio para ganar tiempo?",
+        "opciones": ["Retirada.", "Retiro.", "Acción Retardatriz."],
+        "respuesta_correcta": "Acción Retardatriz."
+    },
+    {
+        "pregunta": "¿Qué tipo de operación anfibia tiene como propósito engañar al enemigo mediante una demostración de Fuerza para que decida un curso de acción desfavorable?",
+        "opciones": ["Incursión anfibia.", "Demostración anfibia.", "Retirada anfibia."],
+        "respuesta_correcta": "Demostración anfibia."
+    },
+    {
+        "pregunta": "¿Cómo se define el \"Desplazamiento Desde Detrás del Horizonte\" (DDH)?",
+        "opciones": ["Ejecución del movimiento a menos de 4 millas de la playa.", "Ejecución a más de 25 M.N., fuera del alcance de la visual del enemigo y radares basados en tierra.", "Introducción de la Fuerza de Desembarco mediante helicópteros a más de 12 M.N."],
+        "respuesta_correcta": "Ejecución a más de 25 M.N., fuera del alcance de la visual del enemigo y radares basados en tierra."
+    },
+    {
+        "pregunta": "¿Cuál es la composición orgánica de la Brigada Anfibia de Infantería de Marina (BRIGAIM)?",
+        "opciones": ["Comandancia, SM, dos Batallones de IM, un Batallón de Artillería y un Grupo Aeronaval.", "Comandancia, Estado Mayor, tres Batallones Anfibios, un Batallón de Artillería, un Batallón de Asalto Anfibio, un Batallón de Armas Especiales, un Grupo Aeronaval y un Agrupamiento de CG y Servicios.", "Comandancia, SM, tres Batallones de Infantería de Marina y unidades de apoyo logístico."],
+        "respuesta_correcta": "Comandancia, Estado Mayor, tres Batallones Anfibios, un Batallón de Artillería, un Batallón de Asalto Anfibio, un Batallón de Armas Especiales, un Grupo Aeronaval y un Agrupamiento de CG y Servicios."
+    },
+    {
+        "pregunta": "¿Qué tipo de planeamiento empieza cuando el comandante de la Fuerza de Desembarco se presenta ante el comandante de la Fuerza de Tarea Anfibia al inicio de la fase del planeamiento?",
+        "opciones": ["Planeamiento detallado.", "Planeamiento concurrente.", "Planeamiento paralelo."],
+        "respuesta_correcta": "Planeamiento paralelo."
+    },
+    {
+        "pregunta": "¿Qué es una \"Cabeza de Playa\" según el manual?",
+        "opciones": ["Un segmento continuo de litoral sobre el cual se pueden desembarcar tropas y equipo por medios de superficie.", "Un área designada sobre un litoral hostil que, una vez capturada y sostenida, garantiza el desembarco continuo de tropas y material.", "Aquella parte del área-objetivo dentro de la cual se llevan a cabo las operaciones de desembarco."],
+        "respuesta_correcta": "Un área designada sobre un litoral hostil que, una vez capturada y sostenida, garantiza el desembarco continuo de tropas y material."
+    },
+    {
+        "pregunta": "¿Quién selecciona las playas de desembarco específicas?",
+        "opciones": ["El Comandante de la Fuerza de Tarea Anfibia.", "El Comandante de la Fuerza de Desembarco.", "El Comandante del Grupo de Transporte."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Cuál es el factor básico que determina la pauta del asalto?",
+        "opciones": ["El plan de fuegos de apoyo naval y aéreo.", "El esquema de maniobra que haya escogido el comandante de la Fuerza de Desembarco.", "La disponibilidad de embarcaciones de desembarco y vehículos anfibios."],
+        "respuesta_correcta": "El esquema de maniobra que haya escogido el comandante de la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Cuándo comienza la fase del asalto?",
+        "opciones": ["Cuando se da la orden por el comandante de la Fuerza de Tarea Anfibia.", "Cuando los elementos de asalto del cuerpo principal de la FTA llegan a la posición asignada dentro del área-objetivo.", "Al iniciarse el movimiento buque-playa de la primera oleada programada."],
+        "respuesta_correcta": "Cuando los elementos de asalto del cuerpo principal de la FTA llegan a la posición asignada dentro del área-objetivo."
+    },
+    {
+        "pregunta": "¿Cuál es la organización básica de la Fuerza de Desembarco para el desplazamiento de buque a tierra?",
+        "opciones": ["El equipo de embarque.", "El equipo de desembarco del tamaño de batallón.", "La unidad de tarea de infantería de marina."],
+        "respuesta_correcta": "El equipo de desembarco del tamaño de batallón."
+    },
+    {
+        "pregunta": "¿Qué documento indica para cada oleada programada la hora de zarpe del área de reunión, hora de partida del frente y hora de arribo a la playa?",
+        "opciones": ["Programa-Horario del asalto.", "Horario de aproximación.", "Diagrama del desembarco."],
+        "respuesta_correcta": "Horario de aproximación."
+    },
+    {
+        "pregunta": "¿Qué es el \"Grupo TacLog\"?",
+        "opciones": ["Una unidad de servicios de apoyo al combate en la retaguardia.", "Un grupo táctico logístico organizado con personal de la Fuerza de Desembarco para informar requerimientos durante el desplazamiento buque a tierra.", "La organización responsable de la descarga general de los buques de asalto."],
+        "respuesta_correcta": "Un grupo táctico logístico organizado con personal de la Fuerza de Desembarco para informar requerimientos durante el desplazamiento buque a tierra."
+    },
+    {
+        "pregunta": "¿Qué método de carga de combate implica que una unidad se embarque en su totalidad en un solo buque junto con su equipo y abastecimientos esenciales?",
+        "opciones": ["Carga unitaria de combate.", "Carga organizativa de combate.", "Carga extendida de combate."],
+        "respuesta_correcta": "Carga unitaria de combate."
+    },
+    {
+        "pregunta": "¿Qué fase de la Operación Anfibia comprende la reunión ordenada de personal y material y su carga en los buques asignados?",
+        "opciones": ["Fase de Planeamiento.", "Fase de Embarque.", "Fase de Ensayo."],
+        "respuesta_correcta": "Fase de Embarque."
+    },
+    {
+        "pregunta": "¿Quién tiene la responsabilidad de la coordinación global de los fuegos de apoyo al inicio del asalto?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Coordinador de Armas de Apoyo (SACC)."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del planeamiento detallado en el asalto anfibio según la doctrina?",
+        "opciones": ["Facilitar la reunión de los comandantes del escalón inmediato inferior en una misma localidad.", "Incluir decisiones de mando que restrinjan el grado de libertad de acción y de autoridad que normalmente se permite a los comandantes subordinados.", "Garantizar el uso pleno del reconocimiento aéreo durante la fase de movimiento al área objetivo."],
+        "respuesta_correcta": "Incluir decisiones de mando que restrinjan el grado de libertad de acción y de autoridad que normalmente se permite a los comandantes subordinados."
+    },
+    {
+        "pregunta": "¿Cuál es un prerrequisito indispensable para llevar a cabo un planeamiento anfibio sensato?",
+        "opciones": ["La inteligencia actualizada y adecuada.", "El establecimiento de un horario de aproximación preliminar.", "La designación de los oficiales de control de los carriles de aproximación."],
+        "respuesta_correcta": "La inteligencia actualizada y adecuada."
+    },
+    {
+        "pregunta": "¿Quién es el responsable de la seguridad durante la fase del planeamiento?",
+        "opciones": ["El oficial de inteligencia de la Fuerza de Tarea Anfibia exclusivamente.", "Todos los escalones de mando.", "El Comandante de la Fuerza de Desembarco en coordinación con el Oficial de Seguridad Naval."],
+        "respuesta_correcta": "Todos los escalones de mando."
+    },
+    {
+        "pregunta": "¿Cómo se define técnicamente un \"lugar de desembarco\"?",
+        "opciones": ["Un área designada sobre un litoral hostil que garantiza el desembarco continuo de material.", "Un segmento continuo de litoral sobre el cual se pueden desembarcar a las tropas, el equipo y los abastecimientos por medios de superficie.", "Aquella parte del litoral que constituya un lugar táctico, tal como la costa de una bahía, para Fuerzas menores a un BLT."],
+        "respuesta_correcta": "Un segmento continuo de litoral sobre el cual se pueden desembarcar a las tropas, el equipo y los abastecimientos por medios de superficie."
+    },
+    {
+        "pregunta": "¿Quién tiene la responsabilidad de delimitar las áreas marítimas y el espacio aéreo requeridos para el establecimiento de cada cabeza de playa tentativa?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Comandante de la Fuerza Aérea asignado a la FTA."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿Qué es una \"playa de desembarco\" de acuerdo al manual?",
+        "opciones": ["El área terrestre especificada para el descenso de los helicópteros de asalto.", "Aquella parte de litoral utilizable que generalmente se requiere para el desembarco de salto de un equipo de desembarco a nivel de batallón.", "Un segmento continuo de litoral únicamente restringido por la extensión de litoral utilizable e ininterrumpido."],
+        "respuesta_correcta": "Aquella parte de litoral utilizable que generalmente se requiere para el desembarco de salto de un equipo de desembarco a nivel de batallón."
+    },
+    {
+        "pregunta": "¿Quién selecciona las zonas de aterrizaje para los helicópteros?",
+        "opciones": ["El Comandante de la Fuerza de Tarea Anfibia tras consultar con el HDC.", "El Comandante de la Fuerza de Desembarco.", "El comandante de mayor antigüedad de la unidad de helicópteros."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Cuándo da inicio formalmente el planeamiento detallado?",
+        "opciones": ["Al recibirse la directiva de iniciación por parte de la autoridad superior.", "Una vez que el Comandante de la FTA determina que su Fuerza puede dar apoyo al concepto de las operaciones en tierra propuesto por la FD.", "Cuando se emite el programa de planeamiento por parte de cada comandante."],
+        "respuesta_correcta": "Una vez que el Comandante de la FTA determina que su Fuerza puede dar apoyo al concepto de las operaciones en tierra propuesto por la FD."
+    },
+    {
+        "pregunta": "¿Bajo qué condición queda justificada la diversión de Fuerzas para desembarcos secundarios?",
+        "opciones": ["Únicamente para engañar al enemigo sobre el lugar del asalto principal.", "Únicamente cuando tal empleo se espere que vaya a ser de mayor valor que dedicarlas al desembarco principal.", "Cuando se requiera capturar promontorios para el espoteo de fuego naval."],
+        "respuesta_correcta": "Únicamente cuando tal empleo se espere que vaya a ser de mayor valor que dedicarlas al desembarco principal."
+    },
+    {
+        "pregunta": "¿Cuál es uno de los propósitos específicos de la captura de posiciones mediante desembarcos secundarios?",
+        "opciones": ["Formar una cortina antisubmarina de área fija frente a las playas.", "Capturar aeropuertos enemigos que se presten a su adaptación rápida para dar apoyo al desembarco principal.", "Establecer la línea de demarcación entre la ZI y la ZO."],
+        "respuesta_correcta": "Capturar aeropuertos enemigos que se presten a su adaptación rápida para dar apoyo al desembarco principal."
+    },
+    {
+        "pregunta": "¿Qué filosofía ha adoptado la Infantería de Marina para alcanzar la victoria en los campos de batalla del futuro?",
+        "opciones": ["La guerra de desgaste progresivo.", "La guerra de maniobra.", "El control absoluto de las líneas de comunicación."],
+        "respuesta_correcta": "La guerra de maniobra."
+    },
+    {
+        "pregunta": "¿A qué distancia se lanza normalmente un asalto bajo el concepto OTH?",
+        "opciones": ["A menos de 4 millas náuticas de la costa.", "Más allá de las 25 millas náuticas, fuera de la línea visual y del horizonte radar.", "A una distancia mínima de 12 millas náuticas para evitar baterías de costa."],
+        "respuesta_correcta": "Más allá de las 25 millas náuticas, fuera de la línea visual y del horizonte radar."
+    },
+    {
+        "pregunta": "¿Cuáles son las dos razones principales para realizar Operaciones Anfibias OTH?",
+        "opciones": ["Engaño estratégico y reducción de la vulnerabilidad logística.", "Alcanzar una ventaja táctica y contrarrestar la amenaza a la Fuerza Anfibia Operativa.", "Lograr la sorpresa estratégica y concentrar el poder de fuego en un punto fortificado."],
+        "respuesta_correcta": "Alcanzar una ventaja táctica y contrarrestar la amenaza a la Fuerza Anfibia Operativa."
+    },
+    {
+        "pregunta": "En la SGM y Corea, ¿qué tipo de sorpresa se perdía comúnmente a pesar de obtener la estratégica y operacional?",
+        "opciones": ["La sorpresa técnica.", "La sorpresa táctica.", "La sorpresa logística."],
+        "respuesta_correcta": "La sorpresa táctica."
+    },
+    {
+        "pregunta": "¿Qué método proporcionó el desarrollo de la doctrina para el uso de helicópteros en la posguerra?",
+        "opciones": ["Un método para realizar ataques frontales masivos con apoyo aéreo.", "Un método para eludir los ataques frontales.", "Un método para la total independencia de las ataduras en la playa."],
+        "respuesta_correcta": "Un método para eludir los ataques frontales."
+    },
+    {
+        "pregunta": "¿Qué combina el concepto OTH en su aplicación doctrinaria?",
+        "opciones": ["Tácticas de artillería pesada con el uso de lanchas de desembarco tradicionales.", "El concepto de guerra de maniobra con los medios proporcionados por la moderna tecnología y equipamiento.", "La doctrina de seguridad interior con las tácticas de defensa de costa."],
+        "respuesta_correcta": "El concepto de guerra de maniobra con los medios proporcionados por la moderna tecnología y equipamiento."
+    },
+    {
+        "pregunta": "Dentro de la filosofía del combate OTH, ¿qué debe evitarse para alcanzar las debilidades enemigas?",
+        "opciones": ["Las \"superficies\" (puntos fuertes del enemigo).", "Los \"huecos\" (debilidades enemigas).", "Los \"yunques\" (Fuerzas de cerco)."],
+        "respuesta_correcta": "Las \"superficies\" (puntos fuertes del enemigo)."
+    },
+    {
+        "pregunta": "¿Qué hecho toma suma importancia al considerar la extensión del campo de batalla en el contexto OTH?",
+        "opciones": ["Que un defensor no puede mostrar fortaleza en todos sus puntos a la vez.", "La necesidad de centralizar absolutamente el mando y control.", "El uso exclusivo de municiones guiadas de bajo costo."],
+        "respuesta_correcta": "Que un defensor no puede mostrar fortaleza en todos sus puntos a la vez."
+    },
+    {
+        "pregunta": "¿Qué abarca el planeamiento logístico de una Operación Anfibia?",
+        "opciones": ["La determinación de requerimientos de material y personal, su obtención y distribución, y los procedimientos administrativos necesarios.", "Únicamente el embarque coordinado de las unidades de asalto.", "El establecimiento de las comunicaciones externas de largo alcance."],
+        "respuesta_correcta": "La determinación de requerimientos de material y personal, su obtención y distribución, y los procedimientos administrativos necesarios."
+    },
+    {
+        "pregunta": "¿Cuál es el principio logístico que dicta la dirección del apoyo?",
+        "opciones": ["El apoyo logístico debe ser continuo y adecuado.", "El ímpetu del apoyo logístico va desde la retaguardia hacia el punto de aplicación.", "El sistema logístico debe ser flexible y móvil."],
+        "respuesta_correcta": "El ímpetu del apoyo logístico va desde la retaguardia hacia el punto de aplicación."
+    },
+    {
+        "pregunta": "¿Quién es el responsable de preparar el programa global del embarque?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Oficial de Embarque del buque insignia."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿Bajo qué dos categorías principales se lleva a cabo el planeamiento de los abastecimientos?",
+        "opciones": ["Abasto táctico y abasto logístico.", "Abasto inicial y reabastecimiento.", "Abasto de asalto y abasto de seguimiento."],
+        "respuesta_correcta": "Abasto inicial y reabastecimiento."
+    },
+    {
+        "pregunta": "¿Qué comprende el \"abasto inicial\"?",
+        "opciones": ["Los niveles de abasto que se transportan en los buques de asalto para el apoyo inicial de la FD.", "El apoyo transportado al área objetivo por buques y aviones de seguimiento.", "Los recursos locales disponibles en el área objetivo capturada."],
+        "respuesta_correcta": "Los niveles de abasto que se transportan en los buques de asalto para el apoyo inicial de la FD."
+    },
+    {
+        "pregunta": "¿Cuál es la responsabilidad del Comandante de la Fuerza de Desembarco en el planeamiento de abastecimientos?",
+        "opciones": ["Cargar los buques con abastecimientos navales antes del embarque de tropas.", "Presentar al Comandante de la FTA los requerimientos que deban ser proporcionados por las Fuerzas de la Armada.", "Consolidar los requerimientos de navegación y equipo especial."],
+        "respuesta_correcta": "Presentar al Comandante de la FTA los requerimientos que deban ser proporcionados por las Fuerzas de la Armada."
+    },
+    {
+        "pregunta": "¿Cómo se define el \"Desplazamiento de buque a tierra\"?",
+        "opciones": ["La fase de planeamiento de la carga de combate.", "Aquella parte de la fase de asalto que incluye el despliegue de la FD desde los buques a las áreas de desembarco designadas.", "El movimiento de unidades tácticas desde la playa hacia los objetivos tierra adentro."],
+        "respuesta_correcta": "Aquella parte de la fase de asalto que incluye el despliegue de la FD desde los buques a las áreas de desembarco designadas."
+    },
+    {
+        "pregunta": "¿En qué momento termina el período de desplazamiento de buque a tierra?",
+        "opciones": ["Al capturarse la cabeza de playa inicial.", "Una vez que se ha completado la descarga de los buques de asalto.", "Al dar la orden el comandante de la Fuerza de Desembarco."],
+        "respuesta_correcta": "Una vez que se ha completado la descarga de los buques de asalto."
+    },
+    {
+        "pregunta": "¿Cuáles son los dos períodos en que se divide el desplazamiento de buque a tierra?",
+        "opciones": ["Planeamiento y Ejecución.", "Período de asalto y de descarga inicial, y período general de descarga.", "Movimiento al Área Objetivo y Acción Anfibia."],
+        "respuesta_correcta": "Período de asalto y de descarga inicial, y período general de descarga."
+    },
+    {
+        "pregunta": "¿Quién es el responsable de la elaboración del plan global para el desplazamiento de buque a tierra?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Oficial de Control Central de la Fuerza."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿Qué documento constituye la base para la asignación de embarcaciones de desembarco a los grupos de lanchas?",
+        "opciones": ["Tabla de disponibilidad de helicópteros.", "Tabla de disponibilidad de lanchas de desembarco.", "Plan de empleo de vehículos anfibios."],
+        "respuesta_correcta": "Tabla de disponibilidad de lanchas de desembarco."
+    },
+    {
+        "pregunta": "¿Qué indica el \"Horario de aproximación\" para cada una de las oleadas programadas?",
+        "opciones": ["La secuencia de prioridades para la entrada de los buques al área de transporte.", "La hora de zarpe del área de reunión, hora de partida del frente y hora de arribo a la playa.", "La cantidad de personal y el material que la unidad trae consigo."],
+        "respuesta_correcta": "La hora de zarpe del área de reunión, hora de partida del frente y hora de arribo a la playa."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del \"Plan del escalón marino\"?",
+        "opciones": ["Coordinar la descarga de helicópteros de transporte.", "Reducir la concentración de buques anfibios para minimizar pérdidas por ataques de armamentos de destrucción en masa.", "Establecer las rutas de retirada para los vehículos anfibios."],
+        "respuesta_correcta": "Reducir la concentración de buques anfibios para minimizar pérdidas por ataques de armamentos de destrucción en masa."
+    },
+    {
+        "pregunta": "¿Quién elabora la \"Tabla de disponibilidad de vehículos anfibios\"?",
+        "opciones": ["El Comandante del Grupo de Transporte.", "El Comandante de la Fuerza de Desembarco o comandantes de los grupos de desembarco.", "El Oficial Comandante de cada buque anfibio."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Desembarco o comandantes de los grupos de desembarco."
+    },
+    {
+        "pregunta": "¿Qué documento incorpora los planes detallados para el desplazamiento de unidades no programadas?",
+        "opciones": ["Programa-Horario del asalto.", "Tabla de secuencia del desembarco.", "Tabla de asignación de números de serie."],
+        "respuesta_correcta": "Tabla de secuencia del desembarco."
+    },
+    {
+        "pregunta": "¿Qué es el \"Diagrama del desembarco\"?",
+        "opciones": ["Un gráfico de las rutas que van de las zonas de desembarco a los transportes.", "Un medio de ilustrar el plan de desplazamiento de buque a tierra de un equipo de desembarco del tamaño de un batallón.", "Un diagrama de estiba de la carga general y específica del buque."],
+        "respuesta_correcta": "Un medio de ilustrar el plan de desplazamiento de buque a tierra de un equipo de desembarco del tamaño de un batallón."
+    },
+    {
+        "pregunta": "¿Quién elabora el \"Diagrama de desembarco de los helicópteros\"?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco en coordinación con el SACC.", "El comandante de mayor antigüedad de la unidad de helicópteros.", "El Oficial Asistente para el Control Central Aéreo."],
+        "respuesta_correcta": "El comandante de mayor antigüedad de la unidad de helicópteros."
+    },
+    {
+        "pregunta": "¿Qué criterio se utiliza para asignar un \"número de serie\" único a una unidad?",
+        "opciones": ["Que deba ser desembarcada aproximadamente al mismo tiempo.", "Que pertenezca orgánicamente a la misma Compañía de IM.", "Que utilice exclusivamente medios de transporte de ala móvil."],
+        "respuesta_correcta": "Que deba ser desembarcada aproximadamente al mismo tiempo."
+    },
+    {
+        "pregunta": "¿Qué comprende la \"fase de embarque\" según el manual?",
+        "opciones": ["El despliegue de las unidades de asalto desde los buques a las playas.", "La reunión ordenada de personal y de material, así como su embarque en los buques asignados en secuencia.", "El periodo de adiestramiento integrado de elementos del destacamento de tierra."],
+        "respuesta_correcta": "La reunión ordenada de personal y de material, así como su embarque en los buques asignados en secuencia."
+    },
+    {
+        "pregunta": "¿En qué consiste un \"equipo de embarque\"?",
+        "opciones": ["En dos o más unidades de transporte agrupadas para ajustarse a la organización para el desembarco.", "En las unidades de tropa, junto con sus abastecimientos y equipo, que van embarcadas en un solo buque.", "En el escalón más alto de la organización para el embarque."],
+        "respuesta_correcta": "En las unidades de tropa, junto con sus abastecimientos y equipo, que van embarcadas en un solo buque."
+    },
+    {
+        "pregunta": "¿Qué constituye el escalón naval paralelo a una \"unitat de embarque\"?",
+        "opciones": ["El buque.", "El binomio \"unidad de transporte buque de desembarco\".", "El grupo de transporte."],
+        "respuesta_correcta": "El binomio \"unidad de transporte buque de desembarco\"."
+    },
+    {
+        "pregunta": "¿Cómo se denomina al escalón naval paralelo al \"grupo de embarque\"?",
+        "opciones": ["Escuadrilla de Buques.", "Grupo de transporte.", "Fuerza de Superficie de la FTA."],
+        "respuesta_correcta": "Grupo de transporte."
+    },
+    {
+        "pregunta": "¿Cómo se define el \"ensayo\" en una Operación Anfibia?",
+        "opciones": ["La fase de planeamiento detallado donde se corrigen discrepancias administrativas.", "Aquella parte durante la cual la FTA lleva a cabo ejercicios bajo condiciones semejantes a las de la operación planeada.", "El adiestramiento previo de las Fuerzas en sus bases permanentes."],
+        "respuesta_correcta": "Aquella parte durante la cual la FTA lleva a cabo ejercicios bajo condiciones semejantes a las de la operación planeada."
+    },
+    {
+        "pregunta": "¿Cuál es uno de los propósitos principales de los ensayos?",
+        "opciones": ["Somatier a prueba los horarios de iniciación y la duración de las operaciones detalladas.", "Garantizar la seguridad absoluta contra la interferencia enemiga durante la travesía.", "Reemplazar automáticamente a las bajas estimadas del Día D."],
+        "respuesta_correcta": "Somatier a prueba los horarios de iniciación y la duración de las operaciones detalladas."
+    },
+    {
+        "pregunta": "¿Qué tipo de ensayos toman la forma de ejercicios de puesto de mando y/o juego de pizarrón?",
+        "opciones": ["Ensayos de Fuerzas por separado.", "Ensayos de plana mayor.", "Ensayos integrados de asalto."],
+        "respuesta_correcta": "Ensayos de plana mayor."
+    },
+    {
+        "pregunta": "¿Qué se omite por lo común en el \"primer ensayo integrado\"?",
+        "opciones": ["El abordaje de las tropas a los helicópteros.", "El bombardeo real y la descarga de abastecimientos.", "El silencio radiofónico táctico."],
+        "respuesta_correcta": "El bombardeo real y la descarga de abastecimientos."
+    },
+    {
+        "pregunta": "¿Qué grupos constituyen la \"Fuerza de avanzada\"?",
+        "opciones": ["Los grupos de desplazamiento que arriban el Día D.", "Los grupos de desplazamiento que arriban antes del Día D.", "Los buques de guerra de minas que realizan cortinas fijas."],
+        "respuesta_correcta": "Los grupos de desplazamiento que arriban antes del Día D."
+    },
+    {
+        "pregunta": "¿Quién tiene la responsabilidad de determinar las rutas marítimas hacia el área-objetivo?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Comandante de la Flota o del Área exclusivamente."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿Cómo se denominan las áreas que rodean al área-objetivo con el fin de reducir interferencias?",
+        "opciones": ["Áreas de operación oceánicas.", "Áreas exteriores de transporte.", "Áreas de lanzamiento de anfibios."],
+        "respuesta_correcta": "Áreas de operación oceánicas."
+    },
+    {
+        "pregunta": "¿Qué tipo de áreas de operación oceánicas se asignan a grupos de portaaviones de apoyo y componentes logísticos próximos al objetivo?",
+        "opciones": ["Áreas de apoyo distantes.", "Áreas de apoyo cercano.", "Área distante de retirada."],
+        "respuesta_correcta": "Áreas de apoyo cercano."
+    },
+    {
+        "pregunta": "¿Qué es el \"Área de la cortina antisubmarina\"?",
+        "opciones": ["Un área donde operan elementos aéreos y de superficie para proteger buques anfibios y unidades de fuego de apoyo.", "El área situado mar adentro de la línea de salida para el lanzamiento de pontones.", "El espacio aéreo asignado al Comando Aéreo Táctico."],
+        "respuesta_correcta": "Un área donde operan elementos aéreos y de superficie para proteger buques anfibios y unidades de fuego de apoyo."
+    },
+    {
+        "pregunta": "¿Dónde se sitúan generalmente las \"Áreas exteriores de buques de desembarco\"?",
+        "opciones": ["Dentro de la línea de salida frente a las playas de desembarco.", "En los flancos de las áreas exteriores de transportes.", "Tierra adentro de la rompiente de las olas para facilitar el varado."],
+        "respuesta_correcta": "En los flancos de las áreas exteriores de transportes."
+    },
+    {
+        "pregunta": "¿Qué son las \"Áreas de fuego de apoyo\"?",
+        "opciones": ["Zonas terrestres designadas para el emplazamiento de artillería de la FD.", "Áreas en las que operan los buques de fuego de apoyo mientras proporcionan dicho apoyo a la FD.", "Puestos asignados a los buques de control para el movimiento buque-playa."],
+        "respuesta_correcta": "Áreas en las que operan los buques de fuego de apoyo mientras proporcionan dicho apoyo a la FD."
+    },
+    {
+        "pregunta": "Durante la travesía marítima, ¿quién estipula las medidas de protección generales adicionales?",
+        "opciones": ["El Comandante de la FTA.", "Los escalones de mando que se encuentran por arriba del comandante de la FTA.", "El Oficial de Inteligencia del Teatro de Operaciones."],
+        "respuesta_correcta": "Los escalones de mando que se encuentran por arriba del comandante de la FTA."
+    },
+    {
+        "pregunta": "¿A qué se limita la actividad logística de la Fuerza de Desembarco durante el desplazamiento hacia el objetivo?",
+        "opciones": ["A la descarga selectiva de abastecimientos de emergencia NBQ.", "A dar servicio y mantenimiento al equipo, y a modificar planes de abastecimiento si es necesario.", "Al establecimiento de depósitos flotantes de municiones."],
+        "respuesta_correcta": "A dar servicio y mantenimiento al equipo, y a modificar planes de abastecimiento si es necesario."
+    },
+    {
+        "pregunta": "¿Cuándo se efectúa el despliegue de los grupos de desplazamiento desde sus formaciones de travesía durante la aproximación?",
+        "opciones": ["Al iniciarse la descarga general de mercancías.", "Al amparo de la oscuridad.", "Justamente después de la Hora H programada."],
+        "respuesta_correcta": "Al amparo de la oscuridad."
+    },
+    {
+        "pregunta": "¿Cuáles son los propósitos de las operaciones de pre-asalto?",
+        "opciones": ["Consolidar el control administrativo en la Zona del Interior.", "Aislar el área-objetivo, obtener información del enemigo y preparar el área-objetivo.", "Realizar ensayos integrados con municiones vivas en el área de asalto."],
+        "respuesta_correcta": "Aislar el área-objetivo, obtener información del enemigo y preparar el área-objetivo."
+    },
+    {
+        "pregunta": "¿Bajo la dirección de quién se lleva a cabo el \"engaño estratégico\"?",
+        "opciones": ["El Comandante de la Fuerza de Avanzada.", "De un comandante de rango superior al del comandante de la FTA.", "Del Coordinador de las Armas de Apoyo."],
+        "respuesta_correcta": "De un comandante de rango superior al del comandante de la FTA."
+    },
+    {
+        "pregunta": "¿Para qué sirve el \"hostigamiento\" mediante ataques aéreos y fuego naval en el pre-asalto?",
+        "opciones": ["Para destruir definitivamente todas las comunicaciones enemigas.", "Para confundir al enemigo y obstaculizar sus esfuerzos de defensa.", "Para reducir la voluntad del enemigo mediante panfletos y emisiones."],
+        "respuesta_correcta": "Para confundir al enemigo y obstaculizar sus esfuerzos de defensa."
+    },
+    {
+        "pregunta": "¿Cómo se define técnicamente la \"Fuerza de avanzada\"?",
+        "opciones": ["Una organización permanente de la Armada para la defensa de costas.", "Una organización provisional dentro de la FTA que normalmente se disuelve en el Día D.", "La unidad responsable de la descarga rápida de abastecimientos iniciales."],
+        "respuesta_correcta": "Una organización provisional dentro de la FTA que normalmente se disuelve en el Día D."
+    },
+    {
+        "pregunta": "¿Quiénes llevan a cabo comúnmente el reconocimiento de playas?",
+        "opciones": ["Patrullas de reconocimiento anfibio de la Infantería de Marina.", "Los equipos de demolición submarina.", "Los escuadrones aeronavales de ala fija del GTA."],
+        "respuesta_correcta": "Los equipos de demolición submarina."
+    },
+    {
+        "pregunta": "¿Qué medios se utilizan para la destrucción de las defensas terrestres enemigas durante el pre-asalto?",
+        "opciones": ["Únicamente los equipos de demolición submarina mediante cargas terminales.", "El fuego naval, los ataques aéreos y la artillería, si ésta se tiene emplazada.", "Las contramedidas electrónicas activas y cortinas de humo densas."],
+        "respuesta_correcta": "El fuego naval, los ataques aéreos y la artillería, si ésta se tiene emplazada."
+    },
+    {
+        "pregunta": "¿Qué autoridad tiene la responsabilidad del control del desplazamiento de buque a tierra de las Fuerzas de asalto?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Oficial Asistente para el Control Central."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿En qué momento se descentraliza el control del desplazamiento por mar?",
+        "opciones": ["Al iniciarse el desplazamiento mediante helicópteros.", "Según lo vayan permitiendo las circunstancias, con el fin de que su manejo sea más eficiente y rápido.", "Nunca, permanece bajo control centralizado hasta el fin de la descarga general."],
+        "respuesta_correcta": "Según lo vayan permitiendo las circunstancias, con el fin de que su manejo sea más eficiente y rápido."
+    },
+    {
+        "pregunta": "¿Quién asume la responsabilidad de la navegación de un vehículo anfibio una vez que llega al límite de navegación de las lanchas guías?",
+        "opciones": ["El Guía de la Oleada.", "El comandante (de tropa) de la oleada.", "El Oficial de Control de los Carriles de Aproximación."],
+        "respuesta_correcta": "El comandante (de tropa) de la oleada."
+    },
+    {
+        "pregunta": "¿Cómo se denominan las unidades de la FD cuya hora y lugar de desembarco no se pueden predecir con exactitud, pero se necesitan pronto?",
+        "opciones": ["Oleadas programadas de asalto.", "Oleadas \"disponibles\".", "Unidades no programadas de apoyo."],
+        "respuesta_correcta": "Oleadas \"disponibles\"."
+    },
+    {
+        "pregunta": "¿Qué son los \"almacenes flotantes\"?",
+        "opciones": ["Depósitos de abastecimientos establecidos en tierra de alta prioridad.", "Abastecimientos de emergencia con \"precarga\" en embarcaciones que se sitúan cerca del oficial de control.", "Unidades de apoyo logístico integradas al escalón marino."],
+        "respuesta_correcta": "Abastecimientos de emergencia con \"precarga\" en embarcaciones que se sitúan cerca del oficial de control."
+    },
+    {
+        "pregunta": "¿Cuándo se ordena el desembarco de las \"unidades no programadas\"?",
+        "opciones": ["Exactamente a la Hora H programada.", "Cuando las necesidades en tierra se pueden predecir con un razonable grado de exactitud.", "Inmediatamente después de la primera oleada de asalto mediante lanchas."],
+        "respuesta_correcta": "Cuando las necesidades en tierra se pueden predecir con un razonable grado de exactitud."
+    },
+    {
+        "pregunta": "¿Quién controla las operaciones de los helicópteros durante el desplazamiento de buque a tierra?",
+        "opciones": ["El Comandante de la FTA a través del centro de control aéreo táctico (TACC).", "El Coordinador de Helicópteros aerotransportado exclusivamente.", "El Comandante del Grupo de Tarea Terrestre (GTT)."],
+        "respuesta_correcta": "El Comandante de la FTA a través del centro de control aéreo táctico (TACC)."
+    },
+    {
+        "pregunta": "¿Qué agencia vectoriza a las oleadas de helicópteros hacia el punto de salida?",
+        "opciones": ["El Centro de Dirección de Helicópteros (HDC).", "El Oficial de Control de los Carriles de Aproximación.", "El Centro Coordinador de Fuegos de Apoyo (SACC)."],
+        "respuesta_correcta": "El Centro de Dirección de Helicópteros (HDC)."
+    },
+    {
+        "pregunta": "¿De qué consta el grupo TACLOG en el asalto mediante helicópteros?",
+        "opciones": ["De personal de comunicaciones navales del buque insignia.", "De representantes de los elementos de asalto de la Fuerza de Desembarco.", "De pilotos de aeronaves de ala fija asignados al apoyo cercano."],
+        "respuesta_correcta": "De representantes de los elementos de asalto de la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Cuál es un ejemplo de medida de \"protección activa\" durante el desplazamiento buque-tierra?",
+        "opciones": ["La dispersión dentro de las oleadas de asalto.", "Las cortinas de humo y el fuego de contrabatería.", "El espaciamiento lateral máximo de los carriles de lanchas."],
+        "respuesta_correcta": "Las cortinas de humo y el fuego de contrabatería."
+    },
+    {
+        "pregunta": "¿En qué se apoya primordialmente la \"protección pasiva\"?",
+        "opciones": ["En las operaciones aéreas ofensivas de los portaaviones.", "En la dispersión dentro de las unidades, la separación de las unidades y la movilidad.", "En el silencio radiofónico absoluto hasta la Hora H."],
+        "respuesta_correcta": "En la dispersión dentro de las unidades, la separación de las unidades y la movilidad."
+    },
+    {
+        "pregunta": "¿Quién controla los ataques de apoyo aéreo cercano antes de que se establezcan en tierra los TACPs?",
+        "opciones": ["El Centro de Dirección Aérea Táctica (TADC) de a bordo.", "Los coordinadores aéreos tácticos o controladores aéreos de avanzada (aerotransportados).", "El Oficial de Control Central de la Fuerza."],
+        "respuesta_correcta": "Los coordinadores aéreos tácticos o controladores aéreos de avanzada (aerotransportados)."
+    },
+    {
+        "pregunta": "¿Bajo qué aprobación se ejecutan las misiones de apoyo aéreo cercano?",
+        "opciones": ["Únicamente bajo la aprobación del Comandante de la FTA.", "Del comandante de la unidad terrestre apoyada y comandantes de unidades cercanas afectadas.", "Del Coordinador de las Armas de Apoyo (SACC)."],
+        "respuesta_correcta": "Del comandante de la unidad terrestre apoyada y comandantes de unidades cercanas afectadas."
+    },
+    {
+        "pregunta": "¿Qué tipo de fuego naval se lanza con un horario muy fijo a las zonas de acción de las tropas?",
+        "opciones": ["Fuego de apoyo profundo en zonas de responsabilidad.", "Fuegos de apoyo cercano.", "Fuego de contrabatería general contra blancos de oportunidad."],
+        "respuesta_correcta": "Fuegos de apoyo cercano."
+    },
+    {
+        "pregunta": "¿Hacia dónde se cambia el fuego de cohetes después de la hora H?",
+        "opciones": ["Hacia el interior de la orilla del agua para destruir defensas.", "Hacia los flancos para evitar que se tenga que lanzar por encima de las tropas propias.", "Hacia las zonas de aterrizaje de los helicópteros de reserva."],
+        "respuesta_correcta": "Hacia los flancos para evitar que se tenga que lanzar por encima de las tropas propias."
+    },
+    {
+        "pregunta": "¿Quién asume la responsabilidad de la realización del fuego una vez que el destacamento de control de fuego terrestre está listo?",
+        "opciones": ["El Coordinador de Armas de Apoyo (SACC).", "El destacamento de control de fuego terrestre.", "El Oficial de Artillería de la Brigada Anfibia."],
+        "respuesta_correcta": "El destacamento de control de fuego terrestre."
+    },
+    {
+        "pregunta": "¿Qué agencia es a través de la cual el comandante de la FTA ejerce la coordinación global de los fuegos de apoyo?",
+        "opciones": ["El centro de coordinación de armas de apoyo (SACC).", "El Centro de Operaciones de Combate (COC).", "La Unidad de Tarea de Artillería Naval de Apoyo."],
+        "respuesta_correcta": "El centro de coordinación de armas de apoyo (SACC)."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo primordial de las operaciones destinadas a capturar la cabeza de playa?",
+        "opciones": ["Establecer una base naval de avanzada definitiva en territorio hostil.", "Garantizar el desembarco continuo de tropas y material y proporcionar espacio de maniobra.", "Iniciar el engaño táctico mediante una finta en playas alternativas."],
+        "respuesta_correcta": "Garantizar el desembarco continuo de tropas y material y proporcionar espacio de maniobra."
+    },
+    {
+        "pregunta": "¿Cuándo se desembarcan las reservas de los BLTs de asalto por lo general?",
+        "opciones": ["Al finalizar la descarga general de los buques.", "Su desembarco por lo general es programado.", "Cuando el comandante de la FTA lo ordena por emergencia."],
+        "respuesta_correcta": "Su desembarco por lo general es programado."
+    },
+    {
+        "pregunta": "¿Qué se requiere para proporcionar una defensa pasiva contra armamentos NBQ en la playa?",
+        "opciones": ["El uso de municiones vivas durante el pre-asalto.", "Instalaciones logísticas separadas.", "El levantamiento inmediato del silencio radiofónico."],
+        "respuesta_correcta": "Instalaciones logísticas separadas."
+    },
+    {
+        "pregunta": "En el Concepto Operacional de la IM, ¿cuál es un objetivo de las operaciones en la Ofensiva?",
+        "opciones": ["Retener terreno decisivo o negar un área vital al enemigo.", "Fracturar o desarticular las acciones o preparación enemigos.", "Concentrar poder de combate donde se requiera para ganar tiempo."],
+        "respuesta_correcta": "Fracturar o desarticular las acciones o preparación enemigos."
+    },
+    {
+        "pregunta": "¿Qué debe asegurar la \"Sostenibilidad\" según las capacidades de la IM?",
+        "opciones": ["Un tren logístico por periodos de tiempo prolongados sin perder la iniciativa.", "El mando, control y comunicaciones efectivas entre unidades.", "El alto volumen de fuego preciso hacia blancos específicos."],
+        "respuesta_correcta": "Un tren logístico por periodos de tiempo prolongados sin perder la iniciativa."
+    },
+    {
+        "pregunta": "¿A cargo de quién están los dos Teatros de Operaciones (Golfo y Pacífico)?",
+        "opciones": ["De las Regiones Navales respectivas.", "De las Fuerzas Navales respectivas.", "De los Mandos Superiores de Zona Naval."],
+        "respuesta_correcta": "De las Fuerzas Navales respectivas."
+    },
+    {
+        "pregunta": "¿Cuál es la función de la Brigada de IM en los Medios y Formas del CONOPS?",
+        "opciones": ["Desembarcos que requieran la Fuerza básica y mínima para consolidar una cabeza de playa por corto tiempo.", "Desembarcos que requieran de una unidad superior que retenga un objetivo por periodos mayores de tiempo.", "Operaciones no convencionales que consideran la guerra irregular."],
+        "respuesta_correcta": "Desembarcos que requieran de una unidad superior que retenga un objetivo por periodos mayores de tiempo."
+    },
+    {
+        "pregunta": "¿Qué unidad es responsable del esfuerzo de apoyo en materia de \"Inteligencia\"?",
+        "opciones": ["Unidades de Búsqueda y Reconocimiento y Centros de Inteligencia Naval.", "Unidades de Guerra Electrónica y Ciberseguridad exclusivamente.", "El Grupo de Tarea de Superficie (GTS)."],
+        "respuesta_correcta": "Unidades de Búsqueda y Reconocimiento y Centros de Inteligencia Naval."
+    },
+    {
+        "pregunta": "¿Cómo se denomina a la organización temporal de aeronaves en apoyo a las FS y FD?",
+        "opciones": ["Grupo Aeronaval de Tarea Integrado.", "Fuerza de Aviación Naval (FAN).", "Escuadrón Aeronaval de Asalto y Cobertura."],
+        "respuesta_correcta": "Fuerza de Aviación Naval (FAN)."
+    },
+    {
+        "pregunta": "¿Qué tipo de operación especial involucra ataques de corta duración para destruir personal o material designado?",
+        "opciones": ["Reconocimiento especial del terreno.", "Acción directa.", "Interdicción Marítima Estratégica."],
+        "respuesta_correcta": "Acción directa."
+    },
+    {
+        "pregunta": "Las operaciones tácticas de recuperación de plataformas de petróleo y gas (PLATPG) se clasifican como:",
+        "opciones": ["Operaciones de apoyo a las Operaciones Anfibias.", "Operaciones de recuperación.", "Incursiones anfibias de desarticulación."],
+        "respuesta_correcta": "Operaciones de recuperación."
+    },
+    {
+        "pregunta": "¿Qué operación especial se lleva a cabo en respuesta hacia blancos que no son conocidos con anticipación?",
+        "opciones": ["Reconocimiento armado.", "Reconocimiento del terreno enemigo.", "Localización de blancos altamente redituables."],
+        "respuesta_correcta": "Reconocimiento armado."
+    },
+    {
+        "pregunta": "¿Qué técnica involucra el tipo de operaciones contra terrorismo (CT) en interiores?",
+        "opciones": ["Guerra Electrónica Adaptativa NBQ.", "Combate cercano en interiores (CCI).", "Intervención de sabotaje terminal."],
+        "respuesta_correcta": "Combate cercano en interiores (CCI)."
+    },
+    {
+        "pregunta": "¿Qué autoridad ejerce un mando de todas las unidades operativas tácticas de su área de responsabilidad?",
+        "opciones": ["Control Táctico (CONTAC).", "Control Operacional (CONOP).", "Control Administrativo (CONAD)."],
+        "respuesta_correcta": "Control Operacional (CONOP)."
+    },
+    {
+        "pregunta": "¿Cómo definen algunos el \"Nivel Operacional\" de la guerra?",
+        "opciones": ["Como \"El Arte y Ciencia de ganar campañas\".", "Como el nivel más alto que se enfoca directamente en la política nacional.", "Como la aplicación práctica de métodos de combate en contacto con el enemigo."],
+        "respuesta_correcta": "Como \"El Arte y Ciencia de ganar campañas\"."
+    },
+    {
+        "pregunta": "¿Qué autoridad de mando se utiliza para la dirección y control de movimientos y maniobras para el logro de una Tarea?",
+        "opciones": ["Control Operacional.", "Control Táctico.", "Control de Inteligencia."],
+        "respuesta_correcta": "Control Táctico."
+    },
+    {
+        "pregunta": "¿Qué organización se utiliza cuando el espacio de batalla es bidimensional (terrestre y aéreo) y no actúa el GTS?",
+        "opciones": ["Fuerza de Tarea Anfibia Aeroterrestre de División.", "Fuerza de Tarea Aeroterrestre (FTAT).", "Grupo de Tarea Terrestre Reforzado."],
+        "respuesta_correcta": "Fuerza de Tarea Aeroterrestre (FTAT)."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de la \"Acción Ofensiva\" en las operaciones terrestres?",
+        "opciones": ["Ceder espacio para ganar tiempo infringiendo el máximo daño.", "Destruir al enemigo y su deseo de luchar, ganando y manteniendo la iniciativa.", "Retener terreno decisivo o negar un área vital al enemigo."],
+        "respuesta_correcta": "Destruir al enemigo y su deseo de luchar, ganando y manteniendo la iniciativa."
+    },
+    {
+        "pregunta": "¿Qué operación ofensiva se conduce para desarrollar la situación y establecer contacto con el enemigo?",
+        "opciones": ["Ataque improvisado bajo presión.", "Movimiento al contacto.", "Reconocimiento en Fuerza estratégica."],
+        "respuesta_correcta": "Movimiento al contacto."
+    },
+    {
+        "pregunta": "¿Qué caracteriza a la \"Explotación\" en una ofensiva exitosa?",
+        "opciones": ["La iniciativa, audacia y el indudable empleo de las Fuerzas no comprometidas.", "Un movimiento hecho para colocar Fuerzas en posición ventajosa.", "Un movimiento hacia retaguardia lejos del enemigo planeado."],
+        "respuesta_correcta": "La iniciativa, audacia y el indudable empleo de las Fuerzas no comprometidas."
+    },
+    {
+        "pregunta": "¿Cuál de las seis formas de maniobra ofensiva consiste en un movimiento hacia un flanco?",
+        "opciones": ["Ataque frontal masivo.", "Ataque de flanco.", "Infiltración por equipos."],
+        "respuesta_correcta": "Ataque de flanco."
+    },
+    {
+        "pregunta": "¿Cómo se organiza el espacio de batalla defensivo?",
+        "opciones": ["Frente, flancos y línea de contacto estratégica.", "Área de Seguridad, Área de Batalla Principal y Área de Retaguardia.", "Zona del Interior y Zona de Operaciones de Teatro."],
+        "respuesta_correcta": "Área de Seguridad, Área de Batalla Principal y Área de Retaguardia."
+    },
+    {
+        "pregunta": "¿Qué tipo de operación retrógrada es un movimiento planeado en el cual una Fuerza rompe contacto?",
+        "opciones": ["Retiro de unidades sin presión.", "Retirada.", "Acción Retardatriz bajo presión."],
+        "respuesta_correcta": "Retirada."
+    },
+    {
+        "pregunta": "¿Qué es un \"retiro\" según el manual?",
+        "opciones": ["Una operación en la cual una Fuerza que no está en contacto se aleja del enemigo.", "Un movimiento bajo presión cediendo espacio para ganar tiempo.", "El retiro de Fuerzas por mar desde un litoral hostil."],
+        "respuesta_correcta": "Una operación en la cual una Fuerza que no está en contacto se aleja del enemigo."
+    },
+    {
+        "pregunta": "¿Qué técnica defensiva se emplea normalmente en unidades de nivel sección y compañía?",
+        "opciones": ["Defensa de sector asignada por el Comandante.", "Defensa en posición de batalla.", "Defensa móvil con gran reserva móvil."],
+        "respuesta_correcta": "Defensa en posición de batalla."
+    },
+    {
+        "pregunta": "¿Qué operación consiste en mover una Fuerza a través de las posiciones de otra para entrar en contacto?",
+        "opciones": ["Relevo en posición por orden superior.", "Paso de líneas / traspaso de batalla.", "Rompimiento de cerco táctico."],
+        "respuesta_correcta": "Paso de líneas / traspaso de batalla."
+    },
+    {
+        "pregunta": "¿Qué materializa la pérdida de libertad de maniobra en un \"cerco\"?",
+        "opciones": ["La fractura de las líneas de comunicación profundas.", "El control enemigo de todas las rutas de egreso o refuerzo.", "La falta de apoyo de un Grupo de Tarea Aéreo en el espacio bidimensional."],
+        "respuesta_correcta": "El control enemigo de todas las rutas de egreso o refuerzo."
+    },
+    {
+        "pregunta": "¿Hacia qué están orientadas las misiones de reconocimiento de una patrulla?",
+        "opciones": ["Hacia la destrucción o captura del enemigo.", "Hacia la obtención de información.", "Hacia la prevención de un ataque enemigo inminente."],
+        "respuesta_correcta": "Hacia la obtención de información."
+    },
+    {
+        "pregunta": "¿Qué fase de la Operación Anfibia implica el desplazamiento de la FTA hacia el área objetivo?",
+        "opciones": ["Fase de Planeamiento Centralizado.", "Fase de Movimiento al Área Objetivo.", "Fase de Acción Anfibia o Asalto."],
+        "respuesta_correcta": "Fase de Movimiento al Área Objetivo."
+    },
+    {
+        "pregunta": "¿A qué se refiere el término \"Movimiento Buque Playa\" (MBP)?",
+        "opciones": ["Al desplazamiento administrativo de la FD a los puertos de salida.", "Al parte más crítica de la operación durante la fase de la Acción Anfibia.", "Al despliegue de las unidades de superficie en formación de travesía."],
+        "respuesta_correcta": "Al parte más crítica de la operación durante la fase de la Acción Anfibia."
+    },
+    {
+        "pregunta": "¿Qué tipo de Operación Anfibia implica una acción rápida seguida de una retirada planeada?",
+        "opciones": ["Incursión anfibia.", "Asalto anfibio de establecimiento.", "Demostración anfibia de engaño."],
+        "respuesta_correcta": "Incursión anfibia."
+    },
+    {
+        "pregunta": "¿Cuál es la composición técnica de una Fuerza de Tarea Anfibia (FTA)?",
+        "opciones": ["Grupo de Tarea Terrestre y Grupo de Tarea de Superficie.", "Fuerza de Superficie (FS), Fuerza de Desembarco (FD) y Fuerza de Aviación Naval (FAN).", "Unidad de IM reforzada y unidad aeronaval de ala móvil."],
+        "respuesta_correcta": "Fuerza de Superficie (FS), Fuerza de Desembarco (FD) y Fuerza de Aviación Naval (FAN)."
+    },
+    {
+        "pregunta": "En el planeamiento logístico, ¿qué principio indica la salvaguarda de los medios?",
+        "opciones": ["El apoyo logístico debe ser continuo.", "Los medios logísticos se deben salvaguardar durante todas las fases de la operación.", "Es obligatoria la coordinación de la táctica y la logística."],
+        "respuesta_correcta": "Los medios logísticos se deben salvaguardar durante todas las fases de la operación."
+    },
+    {
+        "pregunta": "¿Quién tiene la responsabilidad de consolidar los requerimientos logísticos de todos los elementos de la FTA?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Oficial de Control de Evacuación de Bajas."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿Qué documento contiene las instrucciones sobre la forma de disponer del material que se capture?",
+        "opciones": ["Plan de abastecimiento.", "Plan de ingeniería especializado.", "Horario para el Desembarco de emergencia."],
+        "respuesta_correcta": "Plan de abastecimiento."
+    },
+    {
+        "pregunta": "¿Qué debe prever el planeamiento médico en una Operación Anfibia?",
+        "opciones": ["El adiestramiento integrado del destacamento de playa.", "El mantenimiento de la salud del mando, evacuación y hospitalización.", "La distribución de abastecimientos NBQ tácticos."],
+        "respuesta_correcta": "El mantenimiento de la salud del mando, evacuación y hospitalización."
+    },
+    {
+        "pregunta": "¿Quién es responsable de proporcionar servicios médicos a la FD con anterioridad al embarque?",
+        "opciones": ["El Comandante de la FTA.", "El Comandante de la Fuerza de Desembarco.", "El Departamento Médico del Buque de control."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Qué incluye el \"plan médico de la FTA\" por lo común?",
+        "opciones": ["Una declaración sobre la situación dental detallada.", "Una declaración sobre la política de evacuación.", "Instrucciones administrativas sobre la ración de combate."],
+        "respuesta_correcta": "Una declaración sobre la política de evacuación."
+    },
+    {
+        "pregunta": "¿Qué organización facilita el desplazamiento de tropas desde la playa hacia tierra adentro?",
+        "opciones": ["Grupo de Control de la Armada de Superficie.", "Destacamento de tierra (incluyendo destacamento de playa).", "Escuadrón Aeronaval de Transporte Estratégico."],
+        "respuesta_correcta": "Destacamento de tierra (incluyendo destacamento de playa)."
+    },
+    {
+        "pregunta": "¿Bajo qué control operativo se colocan los componentes orgánicos de un grupo de playa naval?",
+        "opciones": ["Del Comandante de la FTA exclusivamente.", "De la Fuerza de Desembarco.", "Del Comandante del Grupo de Transporte de asalto."],
+        "respuesta_correcta": "De la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Qué documento contiene la secuencia de eventos de planeación correspondientes a una Fuerza?",
+        "opciones": ["Directiva de planeamiento inicial.", "Programa del planeamiento.", "Memorándum de planeamiento detallado."],
+        "respuesta_correcta": "Programa del planeamiento."
+    },
+    {
+        "pregunta": "¿Quién es responsable de elaborar los requerimientos para operaciones de pre-asalto?",
+        "opciones": ["El Comandante de la FTA consolidando datos.", "El Comandante de la Fuerza de Desembarco.", "El Comandante de la Fuerza de Avanzada táctica."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Qué se busca lograr mediante el \"engaño táctico\" en el pre-asalto?",
+        "opciones": ["Evitar que se dé a conocer cuál es el objetivo seleccionado.", "Evitar que se den a conocer cuáles son las áreas de desembarco.", "Inducir a una reacción hostil hacia bases navales distantes."],
+        "respuesta_correcta": "Evitar que se den a conocer cuáles son las áreas de desembarco."
+    },
+    {
+        "pregunta": "¿Qué factor gravita en contra de lograr la sorpresa estratégica total?",
+        "opciones": ["El silencio radiofónico absoluto en la travesía.", "El reconocimiento aéreo y submarino hostil.", "El empleo de una Fuerza de Demostración integrada."],
+        "respuesta_correcta": "El reconocimiento aéreo y submarino hostil."
+    },
+    {
+        "pregunta": "¿Cuándo se recomiendan las operaciones de la Fuerza de avanzada?",
+        "opciones": ["Cuando el área está defendida por pocas Fuerzas en reserva móvil.", "Cuando el área está muy bien organizada y las áreas marítimas fuertemente minadas.", "Únicamente durante la fase de embarque coordinado."],
+        "respuesta_correcta": "Cuando el área está muy bien organizada y las áreas marítimas fuertemente minadas."
+    },
+    {
+        "pregunta": "¿Qué unidades llevan a cabo el señalamiento de obstáculos en aproximaciones marítimas?",
+        "opciones": ["Patrullas de reconocimiento anfibio de la Brigada.", "Los equipos de demolición submarina.", "Unidades de Artillería de Costa y Antiaérea."],
+        "respuesta_correcta": "Los equipos de demolición submarina."
+    },
+    {
+        "pregunta": "¿Qué datos meteorológicos son de interés particular para la Fuerza de avanzada?",
+        "opciones": ["La velocidad del viento en la Zona del Interior.", "Las condiciones del oleaje y estado del tiempo y mar en el área propuesta para el transporte.", "La incidencia de enfermedades infecciosas en el área objetivo."],
+        "respuesta_correcta": "Las condiciones del oleaje y estado del tiempo y mar en el área propuesta para el transporte."
+    },
+    {
+        "pregunta": "¿Qué es una \"oleada de botes\" de acuerdo al manual?",
+        "opciones": ["Un conjunto de embarcaciones que transportan abastos de seguimiento.", "Embarcaciones o vehículos que transportan tropas que se deban desembarcar simultáneamente.", "La organización de dos o más flotillas de lanchas auxiliares."],
+        "respuesta_correcta": "Embarcaciones o vehículos que transportan tropas que se deban desembarcar simultáneamente."
+    },
+    {
+        "pregunta": "¿Quién selecciona la localización de las zonas de aterrizaje de helicópteros en tierra?",
+        "opciones": ["El Comandante de la FTA en coordinación con el GTA.", "El Comandante de la Fuerza de Desembarco.", "El Comandante del Grupo Aeronaval de asalto."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Desembarco."
+    },
+    {
+        "pregunta": "¿Qué es la \"Línea de Partida\" (LD) en el movimiento buque-playa?",
+        "opciones": ["El límite geográfico entre la ZI y la ZO militar.", "Una línea que se designa con el propósito de coordinar el arribo de las oleadas a la playa.", "El frente que deben seguir las lanchas desde el área de reunión."],
+        "respuesta_correcta": "Una línea que se designa con el propósito de coordinar el arribo de las oleadas a la playa."
+    },
+    {
+        "pregunta": "¿Qué es el \"Área de acometida de vehículos anfibios\"?",
+        "opciones": ["El lugar donde los buques inician la operación de colocar caminos de pontones.", "El área mar adentro de la línea de salida donde los buques descargan los vehículos anfibios.", "La zona de descenso para paracaidistas en caída libre táctica."],
+        "respuesta_correcta": "El área mar adentro de la línea de salida donde los buques descargan los vehículos anfibios."
+    },
+    {
+        "pregunta": "¿Cómo permanece bajo control el desplazamiento mediante helicópteros?",
+        "opciones": ["Bajo control descentralizado del oficial de asalto aéreo.", "Bajo control centralizado.", "Bajo control del Oficial de Control Central Auxiliar en el TADC."],
+        "respuesta_correcta": "Bajo control centralizado."
+    },
+    {
+        "pregunta": "¿Quién proporciona inicialmente las comunicaciones externas con Fuerzas fuera de la FTA?",
+        "opciones": ["El Comandante de la Fuerza de Desembarco en tierra.", "El Comandante de la Fuerza de Tarea Anfibia.", "El Oficial de Comunicaciones de la Unidad de Tarea Terrestre."],
+        "respuesta_correcta": "El Comandante de la Fuerza de Tarea Anfibia."
+    },
+    {
+        "pregunta": "¿Cuándo se abole generalmente el silencio radiofónico táctico?",
+        "opciones": ["Al finalizar la fase de planeamiento detallado.", "Justamente antes de la hora H por órdenes del comandante de la FTA.", "Al completarse la descarga general de mercancías pesadas."],
+        "respuesta_correcta": "Justamente antes de la hora H por órdenes del comandante de la FTA."
+    },
+    {
+        "pregunta": "¿Quién es el Oficial de Control Central (de la Fuerza)?",
+        "opciones": ["El representante directo del Comandante de la FD en el buque.", "El designado por el comandante de la FTA para la coordinación global, embarcado en el buque de control central.", "El jefe del Centro de Dirección de Helicópteros (HDC)."],
+        "respuesta_correcta": "El designado por el comandante de la FTA para la coordinación global, embarcado en el buque de control central."
+    },
+    {
+        "pregunta": "¿Qué oficiales controlan el desplazamiento entre el extremo mar adentro del carril y la LD?",
+        "opciones": ["Oficiales de control primario de regimiento.", "Oficiales de control de los carriles de aproximación.", "Comandantes de grupos de lanchas de asalto."],
+        "respuesta_correcta": "Oficiales de control de los carriles de aproximación."
+    },
+    {
+        "pregunta": "¿Quién forma las oleadas y controla sus movimientos bajo dirección del comandante de grupo?",
+        "opciones": ["El Asistente para el Control Central de la dualidad.", "Los Comandantes de la oleada.", "Los Guías de oleadas en botes guía."],
+        "respuesta_correcta": "Los Comandantes de la oleada."
+    },
+    {
+        "pregunta": "¿Cómo vectoriza el HDC a las oleadas de helicópteros desde los puntos de reunión?",
+        "opciones": ["Mediante señales visuales desde la cubierta de vuelo.", "Hacia el punto de salida en el extremo mar adentro de los carriles.", "Siguiendo el rumbos de la tabla de disponibilidad de lanchas navales."],
+        "respuesta_correcta": "Hacia el punto de salida en el extremo mar adentro de los carriles."
+    },
+    {
+        "pregunta": "¿Qué hacen los helicópteros inmediatamente después de descargar en la zona de aterrizaje?",
+        "opciones": ["Se mantienen en vuelo estacionario para fuego de apoyo cercano.", "Se reúnen por vuelos y se dirigen a lo largo de un carril de retirada hacia un punto de dispersión.", "Regresan individualmente al buque de control central auxiliar."],
+        "respuesta_correcta": "Se reúnen por vuelos y se dirigen a lo largo de un carril de retirada hacia un punto de dispersión."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del grupo TACLOG a bordo del buque insignia de helicópteros?",
+        "opciones": ["Coordinar el fuego de contrabatería aéreo de ala fija.", "Informar a la agencia de control naval los requerimientos de la FD en tierra.", "Dirigir el barrido de minas en las rutas de aproximación final."],
+        "respuesta_correcta": "Informar a la agencia de control naval los requerimientos de la FD en tierra."
+    },
+    {
+        "pregunta": "¿Qué decisión crítica se toma antes de la llegada de los elementos de asalto al área de desembarco?",
+        "opciones": ["La activación administrativa del destacamento de tierra.", "Si para el asalto se va a utilizar el plan primario o alguno de los alternos.", "La abolición del silencio radiofónico estratégico de teatro."],
+        "respuesta_correcta": "Si para el asalto se va a utilizar el plan primario o alguno de los alternos."
+    },
+    {
+        "pregunta": "¿Qué se logra mediante la carga de combate adecuada de los buques de asalto?",
+        "opciones": ["La interoperabilidad de las armas de apoyo naval y aéreo.", "El mantenimiento de la integridad táctica de la tropa durante el desplazamiento.", "La economía máxima de las Fuerzas de cortina fija."],
+        "respuesta_correcta": "El mantenimiento de la integridad táctica de la tropa durante el desplazamiento."
+    },
+    {
+        "pregunta": "¿Cuándo se inicia el desembarco de las oleadas \"disponibles\" por mar?",
+        "opciones": ["Exactamente a la hora H programada de la primera oleada.", "Tras el desembarco de la última oleada programada.", "Cuando comienza la descarga general de mercancías logísticas."],
+        "respuesta_correcta": "Tras el desembarco de la última oleada programada."
+    },
+    {
+        "pregunta": "¿A quién notifica el comandante en tierra el deseo de desembarco de una unidad \"disponible\"?",
+        "opciones": ["Al Oficial de Control de los Carriles de Aproximación lateral.", "A su grupo de TACLOG a bordo de la embarcación de control apropiada.", "Directamente al Comandante de la FTA vía TACC."],
+        "respuesta_correcta": "A su grupo de TACLOG a bordo de la embarcación de control apropiada."
+    },
+    {
+        "pregunta": "¿Qué categoría de desembarco mediante helicópteros consta de elementos con horas y lugares determinados?",
+        "opciones": ["Desplazamientos programados mediante helicópteros.", "Desplazamiento mediante helicóptero de unidades \"disponibles\".", "Unidades no programadas de seguimiento logístico."],
+        "respuesta_correcta": "Desplazamientos programados mediante helicópteros."
+    },
+    {
+        "pregunta": "¿Qué medida se toma con las unidades de defensa aérea de la FD once aterrizadas?",
+        "opciones": ["Se mantienen bajo control táctico del GTT reforzado.", "Se las integra al sistema de guerra antiaérea y control de contramedidas aéreas.", "Se desactivan hasta el inicio formal de la descarga general."],
+        "respuesta_correcta": "Se las integra al sistema de guerra antiaérea y control de contramedidas aéreas."
+    },
+    {
+        "pregunta": "¿En qué consiste el grueso del fuego de apoyo cercano antes de la hora H?",
+        "opciones": ["Fuego de artillería de campaña de largo alcance NBQ.", "Fuego de calibre grande y mediano, así como fuego de cohetes.", "Fuego de ametralladoras ligeras desde las lanchas guías."],
+        "respuesta_correcta": "Fuego de calibre grande y mediano, así como fuego de cohetes."
+    },
+    {
+        "pregunta": "¿Qué información sobre armamentos químicos debe proporcionar la FD?",
+        "opciones": ["Las coordenadas de explosión nuclear deseada en la ZI.", "El agente o agentes deseados y altura adecuada del estallido o rociado.", "El tipo de máscara antigás requerida por la tropa de asalto."],
+        "respuesta_correcta": "El agente o agentes deseados y altura adecuada del estallido o rociado."
+    },
+    {
+        "pregunta": "¿Qué se designa durante la captura de la cabeza de playa para coordinar el esfuerzo?",
+        "opciones": ["Líneas de demarcación administrativas de regimiento.", "Objetivos intermedios.", "Áreas de escala intermedia de tropa en la retaguardia."],
+        "respuesta_correcta": "Objetivos intermedios."
+    },
+    {
+        "pregunta": "¿Cuándo se efectúa la prosecución del ataque hacia el objetivo final?",
+        "opciones": ["Después de haberse capturado la cabeza de playa.", "Concurrentemente con el movimiento buque playa inicial masivo.", "Tras el reembarque total de la Fuerza de avanzada en el Día D."],
+        "respuesta_correcta": "Después de haberse capturado la cabeza de playa."
+    },
+    {
+        "pregunta": "¿Cómo se define el \"Nivel Táctico\" de conducción de la guerra?",
+        "opciones": ["El nivel que enlaza al estratégico con el operacional militar.", "La aplicación de la táctica entendida como conceptos y métodos para lograr una misión.", "El uso político-administrativo de los medios de la Federación."],
+        "respuesta_correcta": "La aplicación de la táctica entendida como conceptos y métodos para lograr una misión."
+    },
+    {
+        "pregunta": "¿Cómo se define el \"Concepto de Batalla Única\" en operaciones defensivas?",
+        "opciones": ["La combinación de operaciones defensivas con ofensivas para vencer al atacante.", "El uso de una sola unidad de tarea para defender un punto fortificado.", "La centralización del mando en un solo buque de control central auxiliar."],
+        "respuesta_correcta": "La combinación de operaciones defensivas con ofensivas para vencer al atacante."
+    },
+    {
+        "pregunta": "¿Qué técnica defensiva sectoriza el Área Táctica de Responsabilidad (ATR)?",
+        "opciones": ["Defensa móvil mediante aerotropas.", "Defensa de sector.", "Defensa de contrapendiente en terreno montañoso."],
+        "respuesta_correcta": "Defensa de sector."
+    },
+    {
+        "pregunta": "¿Qué característica defensiva requiere el uso de una gran reserva móvil (aerotropas)?",
+        "opciones": ["Defensa de Área en posición firme.", "Defensa Móvil.", "Acción Retardatriz bajo presión extrema."],
+        "respuesta_correcta": "Defensa Móvil."
+    },
+    {
+        "pregunta": "¿Qué es un \"brecheo\" según la doctrina táctica terrestre?",
+        "opciones": ["Una operación para establecer una base naval avanzada provisional.", "Una operación táctica para romper a través de la defensa, obstáculos o campos minados.", "El retiro ordenado de lanchas desde el frente de partida."],
+        "respuesta_correcta": "Una operación táctica para romper a través de la defensa, obstáculos o campos minados."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de una \"incursión anfibia\"?",
+        "opciones": ["El establecimiento permanente de una FD sobre un litoral hostil.", "Una acción rápida sobre un objetivo seguida de una retirada planeada.", "El engaño estratégico mediante ataques aéreos en área extensa."],
+        "respuesta_correcta": "Una acción rápida sobre un objetivo seguida de una retirada planeada."
+    },
+    {
+        "pregunta": "¿Cómo se define la \"Carga unitaria de combate\"?",
+        "opciones": ["Carga de mercancías agrupadas por tipo en cajones estandard.", "Método donde la totalidad o parte de una unidad se embarca en un solo buque lista para el combate.", "Carga administrativa para utilización máxima del espacio cúbico."],
+        "respuesta_correcta": "Método donde la totalidad o parte de una unidad se embarca en un solo buque lista para el combate."
+    },
+    {
+        "pregunta": "¿Qué folletos debe proporcionar la Armada a la FD para el planeamiento?",
+        "opciones": ["Folletos con instrucciones detalladas de salvataje marítimo.", "Folletos donde se indiquen las características de carga del buque.", "Manuales de adiestramientoNBQ para el personal de IM."],
+        "respuesta_correcta": "Folletos donde se indiquen las características de carga del buque."
+    },
+    {
+        "pregunta": "¿Qué organización provisional se disuelve al terminarse la fase de embarque?",
+        "opciones": ["La Fuerza de Tarea Anfibia (FTA) como un todo.", "La organización provisional para el embarque.", "El Estado Mayor General de la Armada en funciones de asalto."],
+        "respuesta_correcta": "La organización provisional para el embarque."
+    },
+    {
+        "pregunta": "¿Cuál es la principal misión de la Armada de México en contexto de guerra?",
+        "opciones": ["El desarrollo socioeconómico indispensable del litoral nacional.", "La defensa marítima del territorio nacional y preservación de la soberanía.", "La administración política de los tres niveles de gobierno estatal."],
+        "respuesta_correcta": "La defensa marítima del territorio nacional y preservación de la soberanía."
+    },
+    {
+        "pregunta": "¿Qué área incluye espacios marítimos, aéreos y territorio enemigo en operaciones?",
+        "opciones": ["Zona del Interior (ZI) bajo mando supremo.", "Zona de Operaciones (ZO).", "Teatro de Guerra Nacional de Preponderancia Terrestre."],
+        "respuesta_correcta": "Zona de Operaciones (ZO)."
+    },
+    {
+        "pregunta": "¿Cómo se denomina el límite entre la Zona del Interior y la Zona de Operaciones?",
+        "opciones": ["Línea de Contacto táctico inminente.", "Línea de Demarcación (LD).", "Límite de Área de Responsabilidad Administrativa."],
+        "respuesta_correcta": "Línea de Demarcación (LD)."
+    },
+    {
+        "pregunta": "¿Qué nivel de conducción en tiempo de paz es ejercido por Mandos de Fuerza y Región Naval?",
+        "opciones": ["Nivel Estratégico de política nacional.", "Nivel Operacional.", "Nivel Táctico de aplicación de conceptos y métodos."],
+        "respuesta_correcta": "Nivel Operacional."
+    }
+]

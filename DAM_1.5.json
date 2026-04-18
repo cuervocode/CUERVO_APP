@@ -1,0 +1,2252 @@
+[
+  {
+    "pregunta": "¿Cómo se define el Planeamiento Militar según el manual?",
+    "opciones": [
+      "Es la aplicación de la imaginación creativa por parte de los comandantes para organizar y emplear las fuerzas militares.",
+      "Es un proceso completo y amplio que permite a los comandantes y a los estados mayores en todos los niveles y en todas las armas, tomar decisiones informadas, resolver problemas complejos y finalmente lograr las misiones asignadas.",
+      "Es la concepción y construcción del marco que apuntala un plan para una campaña o una operación mayor y su subsecuente ejecución."
+    ],
+    "correcta": "Es un proceso completo y amplio que permite a los comandantes y a los estados mayores en todos los niveles y en todas las armas, tomar decisiones informadas, resolver problemas complejos y finalmente lograr las misiones asignadas."
+  },
+  {
+    "pregunta": "¿En qué niveles de la guerra es crítico el Planeamiento Militar?",
+    "opciones": [
+      "Estratégico, operacional y táctico.",
+      "Nacional, regional y de unidad táctica.",
+      "Político, militar y logístico."
+    ],
+    "correcta": "Estratégico, operacional y táctico."
+  },
+  {
+    "pregunta": "¿Qué auxilia al comandante militar en el manejo de las complejidades en el ámbito operacional y de las diversas incertidumbres inherentes a la guerra?",
+    "opciones": [
+      "El ritmo de batalla y el centro de operaciones marítimas.",
+      "El planeamiento.",
+      "El diseño operacional y el arte creativo."
+    ],
+    "correcta": "El planeamiento."
+  },
+  {
+    "pregunta": "¿Cómo se define el \"Diseño Operacional\"?",
+    "opciones": [
+      "Como la aplicación de la imaginación creativa por parte de los comandantes para diseñar estrategias.",
+      "Como la concepción y construcción del marco que apuntala un plan para una campaña o una operación mayor y su subsecuente ejecución.",
+      "Como la integración de fines, formas y medios en todos los niveles de la guerra."
+    ],
+    "correcta": "Como la concepción y construcción del marco que apuntala un plan para una campaña o una operación mayor y su subsecuente ejecución."
+  },
+  {
+    "pregunta": "¿Qué implica la ciencia \"dura\" del planeamiento militar?",
+    "opciones": [
+      "Los aspectos tangibles tales como la disposición y número de buques, aeronaves, armas y suministros, así como la interacción de los factores operacionales.",
+      "La aplicación de la imaginación creativa y la experiencia para diseñar estrategias y operaciones mayores.",
+      "El establecimiento de los objetivos y el subrayado del amplio Concepto de las Operaciones (CONOPS)."
+    ],
+    "correcta": "Los aspectos tangibles tales como la disposición y número de buques, aeronaves, armas y suministros, así como la interacción de los factores operacionales."
+  },
+  {
+    "pregunta": "¿Qué es el \"Arte Operacional\"?",
+    "opciones": [
+      "El proceso por el cual un comandante visualiza un estado final y determina las formas más eficaces.",
+      "La aplicación de la imaginación creativa por parte de los comandantes y los estados mayores, apoyados por sus habilidades, conocimientos y experiencia para diseñar estrategias, campañas, operaciones mayores y organizar y emplear las fuerzas militares.",
+      "El uso de procedimientos operacionales estandarizados para contrarrestar la identificación de la amenaza."
+    ],
+    "correcta": "La aplicación de la imaginación creativa por parte de los comandantes y los estados mayores, apoyados por sus habilidades, conocimientos y experiencia para diseñar estrategias, campañas, operaciones mayores y organizar y emplear las fuerzas militares."
+  },
+  {
+    "pregunta": "¿Qué tipo de planeamiento se basa en identificar la misión y realizar el trabajo hacia atrás a través de objetivos intermedios o habilitantes?",
+    "opciones": [
+      "Planeamiento basado en la amenaza.",
+      "Planeamiento basado en la misión.",
+      "Planeamiento basado en las capacidades."
+    ],
+    "correcta": "Planeamiento basado en la misión."
+  },
+  {
+    "pregunta": "En el Proceso de Planeamiento Naval (NPP), ¿cuál es el paso número tres?",
+    "opciones": [
+      "Desarrollo del Curso de Acción.",
+      "Análisis del Curso de Acción (Juego de la Guerra).",
+      "Comparación del Curso de Acción y Decisión."
+    ],
+    "correcta": "Análisis del Curso de Acción (Juego de la Guerra)."
+  },
+  {
+    "pregunta": "¿Cuál es el resultado o producto final del NPP?",
+    "opciones": [
+      "Una estimación de inteligencia y una directiva preliminar.",
+      "Una decisión militar que puede traducirse en un plan de operaciones (OPLAN) o una orden de operaciones (OPORD).",
+      "Una matriz de sincronización y una directiva de planeamiento del comandante."
+    ],
+    "correcta": "Una decisión militar que puede traducirse en un plan de operaciones (OPLAN) o una orden de operaciones (OPORD)."
+  },
+  {
+    "pregunta": "¿Qué paso del NPP se define como \"la entrega sistemática del plan u orden a aquellos encargados de ejecutar la operación\"?",
+    "opciones": [
+      "Paso Cinco: Desarrollo de los Planes y Órdenes.",
+      "Paso Seis: Transición.",
+      "Paso Cuatro: Comparación de los Cursos de Acción y Decisión."
+    ],
+    "correcta": "Paso Seis: Transición."
+  },
+  {
+    "pregunta": "¿Cuál es la función del comandante en el NPP según el manual?",
+    "opciones": [
+      "Es el miembro que supervisa cada detalle técnico del proceso de planeamiento sin intervenir en las decisiones.",
+      "Su presencia da credibilidad al proceso y evita que otros requerimientos menos esenciales distraigan al estado mayor y al equipo de planeamiento.",
+      "Es el encargado exclusivo de redactar los anexos y apéndices de la orden de operaciones."
+    ],
+    "correcta": "Su presencia da credibilidad al proceso y evita que otros requerimientos menos esenciales distraigan al estado mayor y al equipo de planeamiento."
+  },
+  {
+    "pregunta": "¿Qué es el \"Ritmo de Batalla\"?",
+    "opciones": [
+      "La secuencia de disparos y fuegos de apoyo durante una operación táctica ofensiva.",
+      "Un proceso donde el comandante y el estado mayor sincronizan el tiempo operacional diario dentro del ciclo de planeamiento, decisión, ejecución y evaluación.",
+      "La transición fluida de las actividades de planeamiento a la ejecución de una sola tarea."
+    ],
+    "correcta": "Un proceso donde el comandante y el estado mayor sincronizan el tiempo operacional diario dentro del ciclo de planeamiento, decisión, ejecución y evaluación."
+  },
+  {
+    "pregunta": "¿Cuáles son las cuatro fases del planeamiento no sensible al tiempo?",
+    "opciones": [
+      "Recepción, análisis, desarrollo y comparación.",
+      "Directiva estratégica, desarrollo del concepto de las operaciones, desarrollo del plan y desarrollo del plan de apoyo.",
+      "Alistamiento, concentración, disuasión y acción ofensiva."
+    ],
+    "correcta": "Directiva estratégica, desarrollo del concepto de las operaciones, desarrollo del plan y desarrollo del plan de apoyo."
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del Análisis de la Misión?",
+    "opciones": [
+      "Desarrollar múltiples cursos de acción y examinarlos para su validez.",
+      "Revisar y analizar las órdenes, directivas, inteligencia y otra información, con el fin de que el comandante, el estado mayor y el equipo de planeamiento obtengan un entendimiento de la situación para definir la misión.",
+      "Establecer la comparación cualitativa y cuantitativa entre los cursos de acción retenidos."
+    ],
+    "correcta": "Revisar y analizar las órdenes, directivas, inteligencia y otra información, con el fin de que el comandante, el estado mayor y el equipo de planeamiento obtengan un entendimiento de la situación para definir la misión."
+  },
+  {
+    "pregunta": "¿Cuándo termina el paso de Análisis de la Misión?",
+    "opciones": [
+      "Cuando se entregan las estimaciones de estado mayor de las secciones funcionales.",
+      "Cuando el comandante emite la directiva de planeamiento y una orden preparatoria (WARNORD).",
+      "Una vez que se ha realizado el juego de la guerra de los cursos de acción seleccionados."
+    ],
+    "correcta": "Cuando el comandante emite la directiva de planeamiento y una orden preparatoria (WARNORD)."
+  },
+  {
+    "pregunta": "¿Qué documento es esencial obtener del nivel superior durante las primeras etapas del análisis de la misión?",
+    "opciones": [
+      "El plan de recolección de inteligencia.",
+      "La preparación de inteligencia sobre el área operacional (IPOE).",
+      "La matriz de apoyo para las decisiones."
+    ],
+    "correcta": "La preparación de inteligencia sobre el área operacional (IPOE)."
+  },
+  {
+    "pregunta": "Las tareas indicadas en el párrafo III \"Ejecución\" de una orden de operaciones del mando superior se conocen como:",
+    "opciones": [
+      "Tareas implícitas.",
+      "Tareas específicas.",
+      "Tareas esenciales."
+    ],
+    "correcta": "Tareas específicas."
+  },
+  {
+    "pregunta": "¿Qué son las \"Tareas Esenciales\"?",
+    "opciones": [
+      "Aquellas que emergen del análisis de la orden, la directiva preliminar y el enemigo, pero no se indican explícitamente.",
+      "Aquellas que definen el éxito de la misión y se aplican a la fuerza como un todo; solo estas se incluyen en la misión propuesta.",
+      "Las tareas rutinarias, inherentes o procedimientos sistemáticos de operación (SOP)."
+    ],
+    "correcta": "Aquellas que definen el éxito de la misión y se aplican a la fuerza como un todo; solo estas se incluyen en la misión propuesta."
+  },
+  {
+    "pregunta": "¿Dónde se encuentra normalmente la intención del comandante superior?",
+    "opciones": [
+      "En el párrafo II \"Misión\" de su directiva.",
+      "En el párrafo III \"Ejecución\" de su directiva.",
+      "En el párrafo I \"Situación\" de su directiva."
+    ],
+    "correcta": "En el párrafo III \"Ejecución\" de su directiva."
+  },
+  {
+    "pregunta": "¿Qué término se debe insertar entre la(s) tarea(s) y el propósito en el enunciado de la misión?",
+    "opciones": [
+      "\"Para\".",
+      "\"A fin de\".",
+      "\"Con el objetivo de\"."
+    ],
+    "correcta": "\"A fin de\"."
+  },
+  {
+    "pregunta": "¿Cómo se dividen colectivamente las limitaciones impuestas externamente?",
+    "opciones": [
+      "Hechos y suposiciones.",
+      "Impedimentos y restricciones.",
+      "Amenazas y vulnerabilidades."
+    ],
+    "correcta": "Impedimentos y restricciones."
+  },
+  {
+    "pregunta": "¿Qué es una \"Vulnerabilidad Crítica\" (CV)?",
+    "opciones": [
+      "Un aspecto de una operación propia que si es conocido por el enemigo comprometerá el éxito.",
+      "Un requerimiento crítico que es deficiente o vulnerable ante el ataque directo o indirecto, que creará efectos decisivos o significativos.",
+      "La fuente de poder que proporciona la fortaleza moral o física, libertad de acción o voluntad para luchar."
+    ],
+    "correcta": "Un requerimiento crítico que es deficiente o vulnerable ante el ataque directo o indirecto, que creará efectos decisivos o significativos."
+  },
+  {
+    "pregunta": "¿Cuál es la pregunta clave que se debe contestar al buscar un CCIR (Elementos Esenciales de Información del Comandante)?",
+    "opciones": [
+      "¿Cuál es el curso de acción más peligroso del enemigo?",
+      "¿Qué necesita conocer el Comandante y cuándo lo requiere?",
+      "¿Cuáles son los aspectos críticos de la operación amiga que deben protegerse?"
+    ],
+    "correcta": "¿Qué necesita conocer el Comandante y cuándo lo requiere?"
+  },
+  {
+    "pregunta": "¿En qué dos categorías se dividen los CCIRs?",
+    "opciones": [
+      "Inteligencia estratégica y táctica.",
+      "Requerimientos de inteligencia prioritarios (PIR) y Requerimientos de información de las fuerzas amigas (FFIR).",
+      "Elementos esenciales de información amiga (EEFI) y planes de recolección."
+    ],
+    "correcta": "Requerimientos de inteligencia prioritarios (PIR) y Requerimientos de información de las fuerzas amigas (FFIR)."
+  },
+  {
+    "pregunta": "¿Qué son los Elementos Esenciales de Información Amiga (EEFI)?",
+    "opciones": [
+      "Partes esenciales de la información que el Comandante necesita conocer sobre el enemigo.",
+      "Aspectos críticos de una operación amiga, que si son conocidos por el enemigo, podrían comprometer, fallar o limitar el éxito de la operación.",
+      "La relación de tareas esenciales de misión que una fuerza naval debe realizar."
+    ],
+    "correcta": "Aspectos críticos de una operación amiga, que si son conocidos por el enemigo, podrían comprometer, fallar o limitar el éxito de la operación."
+  },
+  {
+    "pregunta": "¿Cuál es el formato estándar de cinco párrafos para una directiva militar (WARNORD, OPORD)?",
+    "opciones": [
+      "Misión, Tareas, Ejecución, Logística, Mando.",
+      "Situación, Misión, Ejecución, Administración y Logística, Mando y Control (SMEAC).",
+      "Introducción, Entradas, Proceso, Resultados, Puntos Clave."
+    ],
+    "correcta": "Situación, Misión, Ejecución, Administración y Logística, Mando y Control (SMEAC)."
+  },
+  {
+    "pregunta": "¿Cómo se define un Curso de Acción (COA)?",
+    "opciones": [
+      "Es la decisión tomada por el comandante sobre cómo emplear sus fuerzas después de la comparación.",
+      "Es cualquier concepto de operación propuesto al comandante, que, si lo adopta, podría apoyar el cumplimiento de la misión.",
+      "Es la descripción detallada de las tareas asignadas a los subordinados dos niveles abajo."
+    ],
+    "correcta": "Es cualquier concepto de operación propuesto al comandante, que, si lo adopta, podría apoyar el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "¿Cuáles son las cinco pruebas de validez para un COA?",
+    "opciones": [
+      "Lógica, realismo, esencialidad, capacidad y flexibilidad.",
+      "Aptitud, factibilidad, aceptabilidad, diferenciabilidad y ser completo.",
+      "Eficacia, eficiencia, economía, rapidez y seguridad."
+    ],
+    "correcta": "Aptitud, factibilidad, aceptabilidad, diferenciabilidad y ser completo."
+  },
+  {
+    "pregunta": "En la prueba de validez, ¿qué significa \"Aptitud\"?",
+    "opciones": [
+      "Que la fuerza debe tener la capacidad para lograr la misión en términos de recursos.",
+      "Que el COA debe lograr la misión y cumplir con la directiva del comandante.",
+      "Que la ventaja obtenida debe justificar el costo en bajas."
+    ],
+    "correcta": "Que el COA debe lograr la misión y cumplir con la directiva del comandante."
+  },
+  {
+    "pregunta": "¿Qué significa que un COA sea \"Completo\"?",
+    "opciones": [
+      "Que incluya operaciones y tareas importantes, fuerzas requeridas, conceptos de despliegue, empleo y sostenimiento, tiempo estimado y estado final deseado.",
+      "Que se diferencie sustancialmente de los otros COAs desarrollados.",
+      "Que se haya enfrentado en el juego de la guerra contra todos los ECOAs."
+    ],
+    "correcta": "Que incluya operaciones y tareas importantes, fuerzas requeridas, conceptos de despliegue, empleo y sostenimiento, tiempo estimado y estado final deseado."
+  },
+  {
+    "pregunta": "¿Qué es el \"Poder de Combate\"?",
+    "opciones": [
+      "El número total de buques, aeronaves y submarinos disponibles para una misión.",
+      "La combinación de las capacidades de maniobra, poder de fuego, protección, liderazgo e información del combate dirigido contra el enemigo.",
+      "La suma matemática de las armas nucleares, biológicas y químicas en el área operacional."
+    ],
+    "correcta": "La combinación de las capacidades de maniobra, poder de fuego, protección, liderazgo e información del combate dirigido contra el enemigo."
+  },
+  {
+    "pregunta": "¿Qué es el \"Esfuerzo Principal\" en el desarrollo de un COA?",
+    "opciones": [
+      "Las tareas de apoyo que deben realizarse para que la misión tenga éxito.",
+      "Donde la unidad concentra los efectos del mayor poder de combate para lograr un resultado que apoyaría el propósito de esta.",
+      "La operación de engaño diseñada para distraer al enemigo del objetivo real."
+    ],
+    "correcta": "Donde la unidad concentra los efectos del mayor poder de combate para lograr un resultado que apoyaría el propósito de esta."
+  },
+  {
+    "pregunta": "Según el manual, ¿cuál es la técnica preferida para generar opciones de COAs?",
+    "opciones": [
+      "El análisis matemático de proporciones de fuerza.",
+      "La lluvia de ideas.",
+      "El empleo del sistema JOPES."
+    ],
+    "correcta": "La lluvia de ideas."
+  },
+  {
+    "pregunta": "¿Qué es el \"Juego de la Guerra\"?",
+    "opciones": [
+      "Una competencia entre estados mayores para determinar quién diseña el mejor plan.",
+      "Un proceso disciplinado, con reglas y pasos que ayudan a visualizar el flujo de la operación.",
+      "La comparación numérica de las ventajas y desventajas de cada curso de acción."
+    ],
+    "correcta": "Un proceso disciplinado, con reglas y pasos que ayudan a visualizar el flujo de la operación."
+  },
+  {
+    "pregunta": "¿Cuál es la regla mínima para simular los COAs en el Juego de la Guerra?",
+    "opciones": [
+      "Cada COA debe simularse contra todos los ECOAs posibles sin excepción.",
+      "Como mínimo, cada COA aprobado debe simularse contra el ECOA más probable y el más peligroso.",
+      "Solo el COA seleccionado por el comandante se somete al juego de la guerra."
+    ],
+    "correcta": "Como mínimo, cada COA aprobado debe simularse contra el ECOA más probable y el más peligroso."
+  },
+  {
+    "pregunta": "¿De qué consta cada \"turno\" del Juego de la Guerra?",
+    "opciones": [
+      "De un movimiento amigo y una reacción enemiga.",
+      "De tres movimientos (dos de la fuerza propia y uno de la fuerza enemiga).",
+      "De un análisis de factores intangibles seguido de una decisión."
+    ],
+    "correcta": "De tres movimientos (dos de la fuerza propia y uno de la fuerza enemiga)."
+  },
+  {
+    "pregunta": "¿Cuál es el papel de la \"Célula Roja\" durante el Juego de la Guerra?",
+    "opciones": [
+      "Derrotar los COAs propios para demostrar que el planeamiento es deficiente.",
+      "Proporcionar reacciones enemigas a los COAs, funcionando como una extensión de la S-2.",
+      "Registrar los eventos críticos y los puntos decisivos del comandante."
+    ],
+    "correcta": "Proporcionar reacciones enemigas a los COAs, funcionando como una extensión de la S-2."
+  },
+  {
+    "pregunta": "¿Cuáles son los tres métodos para el Juego de la Guerra mencionados en el índice y manual?",
+    "opciones": [
+      "Ataque, defensa y repliegue.",
+      "Cinturón, cuadros (caja) y avenidas de aproximación.",
+      "Ofensivo, defensivo y disuasivo."
+    ],
+    "correcta": "Cinturón, cuadros (caja) y avenidas de aproximación."
+  },
+  {
+    "pregunta": "¿Qué se evalúa en el paso de comparación del NPP?",
+    "opciones": [
+      "La factibilidad matemática de cada tarea individual.",
+      "Cada COA retenido por sus ventajas y desventajas en términos de los factores rectores establecidos por el Comandante.",
+      "Los turnos de acción y reacción contra la célula roja."
+    ],
+    "correcta": "Cada COA retenido por sus ventajas y desventajas en términos de los factores rectores establecidos por el Comandante."
+  },
+  {
+    "pregunta": "¿Cuáles son los cuatro tipos de matrices de comparación de decisión mencionadas?",
+    "opciones": [
+      "Estratégica, operacional, táctica y logística.",
+      "Ponderación numérica, sin ponderación numérica, más/menos/neutral y ventajas y desventajas.",
+      "Probable, peligroso, factible y apto."
+    ],
+    "correcta": "Ponderación numérica, sin ponderación numérica, más/menos/neutral y ventajas y desventajas."
+  },
+  {
+    "pregunta": "¿Qué es la \"Decisión\" del comandante?",
+    "opciones": [
+      "Un resumen del Concepto de Operaciones para los mandos superiores.",
+      "Una directiva clara y concisa por parte del comandante, apegándose al COA seleccionado, expresada en términos de lo que se va a lograr.",
+      "El proceso interno de conciliación de las estimaciones del estado mayor."
+    ],
+    "correcta": "Una directiva clara y concisa por parte del comandante, apegándose al COA seleccionado, expresada en términos de lo que se va a lograr."
+  },
+  {
+    "pregunta": "¿Qué herramienta ayuda a convertir el COA seleccionado en un Concepto de Operaciones (CONOPS) claro y conciso?",
+    "opciones": [
+      "El calco modificado de obstáculos (IMCOO).",
+      "La matriz de sincronización.",
+      "La directiva preliminar del planeamiento."
+    ],
+    "correcta": "La matriz de sincronización."
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre un \"Plan\" y una \"Orden\" según el manual?",
+    "opciones": [
+      "El plan es verbal y la orden es escrita.",
+      "El plan se prepara con anticipación a las operaciones; la orden dirige las acciones y enfoca las tareas para alcanzar la misión.",
+      "El plan es para el nivel estratégico y la orden es para el nivel táctico."
+    ],
+    "correcta": "El plan se prepara con anticipación a las operaciones; la orden dirige las acciones y enfoca las tareas para alcanzar la misión."
+  },
+  {
+    "pregunta": "¿Qué característica de una directiva bien escrita requiere que \"todos los elementos sean reducidos a sus formas más sencillas\"?",
+    "opciones": [
+      "Claridad.",
+      "Simplicidad.",
+      "Brevedad."
+    ],
+    "correcta": "Simplicidad."
+  },
+  {
+    "pregunta": "¿En qué párrafo de la OPORD se describe el concepto de apoyo, logística y clases de suministros?",
+    "opciones": [
+      "Párrafo III: Ejecución.",
+      "Párrafo IV: Administración y Logística.",
+      "Párrafo V: Mando y Control."
+    ],
+    "correcta": "Párrafo IV: Administración y Logística."
+  },
+  {
+    "pregunta": "¿Qué es la \"Conciliación de Órdenes\"?",
+    "opciones": [
+      "La comparación de la orden propia con la de los mandos superiores.",
+      "Un proceso interno en el cual el equipo de planeamiento realiza una revisión detallada para asegurar que la orden básica y anexos estén completos y coordinados.",
+      "El acuse de recibo por parte de las unidades subordinadas."
+    ],
+    "correcta": "Un proceso interno en el cual el equipo de planeamiento realiza una revisión detallada para asegurar que la orden básica y anexos estén completos y coordinados."
+  },
+  {
+    "pregunta": "¿Qué representan las siglas TPFDD?",
+    "opciones": [
+      "Tareas Primarias de la Fuerza de Defensa y Despliegue.",
+      "Datos de Despliegue y Fases en Tiempo de la Fuerza (Time Phased Force and Deployment Data).",
+      "Técnicas de Planeamiento para Fuerzas de Despliegue Directo."
+    ],
+    "correcta": "Datos de Despliegue y Fases en Tiempo de la Fuerza (Time Phased Force and Deployment Data)."
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de la Transición?",
+    "opciones": [
+      "Modificar el curso de acción seleccionado si la situación cambia.",
+      "Garantizar una transformación exitosa del planeamiento a la ejecución.",
+      "Realizar la última comparación de ventajas y desventajas ante el comandante."
+    ],
+    "correcta": "Garantizar una transformación exitosa del planeamiento a la ejecución."
+  },
+  {
+    "pregunta": "¿Qué actividades se realizan durante el proceso de Transición?",
+    "opciones": [
+      "Lluvia de ideas y pruebas de validez.",
+      "Reunión informativa de transición, ejercicios de transición y confirmación de planes u órdenes.",
+      "Análisis de factores críticos, COGs y puntos decisivos."
+    ],
+    "correcta": "Reunión informativa de transición, ejercicios de transición y confirmación de planes u órdenes."
+  },
+  {
+    "pregunta": "¿Quién es normalmente el \"expositor\" del plan u orden ante el mando superior?",
+    "opciones": [
+      "El Jefe de la Sección de Inteligencia (S-2).",
+      "El representante de las operaciones actuales ante el equipo de planeamiento del nivel superior.",
+      "El comandante de la fuerza de tarea de superficie."
+    ],
+    "correcta": "El representante de las operaciones actuales ante el equipo de planeamiento del nivel superior."
+  },
+  {
+    "pregunta": "¿Qué constituye la \"Ciencia del Planeamiento\"?",
+    "opciones": [
+      "La aplicación del juicio profesional y la experiencia para resolver problemas militares.",
+      "Aquellos aspectos del planeamiento que son tangibles, tales como las características físicas de los buques y aeronaves, así como los factores operacionales de tiempo, espacio y fuerza.",
+      "El proceso creativo de visualizar un estado final deseado y la secuencia de eventos necesarios para alcanzarlo."
+    ],
+    "correcta": "Aquellos aspectos del planeamiento que son tangibles, tales como las características físicas de los buques y aeronaves, así como los factores operacionales de tiempo, espacio y fuerza."
+  },
+  {
+    "pregunta": "¿Cómo define el manual el concepto de \"Nivel Operacional de la Guerra\"?",
+    "opciones": [
+      "Es el nivel en el cual se planean y ejecutan las batallas y encuentros para alcanzar los objetivos militares asignados a las unidades tácticas.",
+      "Es el nivel en el que se planean, conducen y sostienen las campañas y operaciones mayores para alcanzar los objetivos estratégicos en un área operacional.",
+      "Es el nivel que se ocupa de la seguridad nacional y el empleo de los recursos de la nación para alcanzar los objetivos políticos."
+    ],
+    "correcta": "Es el nivel en el que se planean, conducen y sostienen las campañas y operaciones mayores para alcanzar los objetivos estratégicos en un área operacional."
+  },
+  {
+    "pregunta": "Dentro del Arte Operacional, ¿qué es el \"Centro de Gravedad\" (COG)?",
+    "opciones": [
+      "Un punto geográfico cuya captura o control proporciona una ventaja marcada a cualquiera de los beligerantes.",
+      "La fuente de poder que proporciona la fortaleza moral o física, libertad de acción o voluntad para luchar.",
+      "La vulnerabilidad física del enemigo que, si se ataca, conduce a su destrucción inmediata."
+    ],
+    "correcta": "La fuente de poder que proporciona la fortaleza moral o física, libertad de acción o voluntad para luchar."
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de los \"Puntos Decisivos\" en el diseño operacional?",
+    "opciones": [
+      "Identificar los momentos críticos donde el comandante debe tomar una decisión de vida o muerte.",
+      "Son lugares geográficos, eventos clave específicos, factores críticos o funciones que, cuando se actúa sobre ellos, permiten al comandante obtener una ventaja marcada sobre el enemigo o contribuyen a alcanzar el COG.",
+      "Establecer los límites de la zona de responsabilidad entre fuerzas amigas y aliadas."
+    ],
+    "correcta": "Son lugares geográficos, eventos clave específicos, factores críticos o funciones que, cuando se actúa sobre ellos, permiten al comandante obtener una ventaja marcada sobre el enemigo o contribuyen a alcanzar el COG."
+  },
+  {
+    "pregunta": "¿Cómo se define el \"Estado Final\" (End State)?",
+    "opciones": [
+      "El momento exacto en que cesan las hostilidades y se firma un tratado de paz.",
+      "El conjunto de condiciones requeridas que define el cumplimiento de la misión.",
+      "La destrucción total de las capacidades militares del adversario en el área de operaciones."
+    ],
+    "correcta": "El conjunto de condiciones requeridas que define el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "En el Análisis de la Misión, ¿qué es un \"Hecho\" (Fact)?",
+    "opciones": [
+      "Una suposición que se considera verdadera en ausencia de prueba.",
+      "Una declaración de información que es conocida como verdadera.",
+      "Una conclusión derivada de la inteligencia sobre las intenciones del enemigo."
+    ],
+    "correcta": "Una declaración de información que es conocida como verdadera."
+  },
+  {
+    "pregunta": "¿Qué es una \"Suposición\" (Assumption)?",
+    "opciones": [
+      "Una verdad comprobada que no requiere mayor investigación.",
+      "Una suposición se considera como un hecho, sobre la situación actual o sobre eventos futuros, que se presume es verdadera en ausencia de una prueba positiva.",
+      "El análisis del curso de acción más probable del enemigo."
+    ],
+    "correcta": "Una suposición se considera como un hecho, sobre la situación actual o sobre eventos futuros, que se presume es verdadera en ausencia de una prueba positiva."
+  },
+  {
+    "pregunta": "¿Qué característica debe tener una suposición para ser válida durante el planeamiento?",
+    "opciones": [
+      "Debe ser optimista y favorecer siempre a las fuerzas propias.",
+      "Debe ser lógica, realista y esencial para que continúe el planeamiento.",
+      "Debe estar basada únicamente en la doctrina del adversario."
+    ],
+    "correcta": "Debe ser lógica, realista y esencial para que continúe el planeamiento."
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la Preparación de Inteligencia sobre el Área Operacional (IPOE)?",
+    "opciones": [
+      "Listar todas las unidades enemigas por su nombre y comandante.",
+      "Analizar sistemática y continuamente al enemigo y al entorno en un área geográfica específica para apoyar la toma de decisiones del comandante.",
+      "Determinar el presupuesto necesario para las operaciones de recolección de información."
+    ],
+    "correcta": "Analizar sistemática y continuamente al enemigo y al entorno en un área geográfica específica para apoyar la toma de decisiones del comandante."
+  },
+  {
+    "pregunta": "¿Cuáles son los cuatro pasos del proceso IPOE?",
+    "opciones": [
+      "Análisis, Desarrollo, Comparación y Decisión.",
+      "Definir el entorno del área operacional, describir los efectos del área operacional, evaluar al enemigo y determinar los cursos de acción del enemigo.",
+      "Situación, Misión, Ejecución y Logística."
+    ],
+    "correcta": "Definir el entorno del área operacional, describir los efectos del área operacional, evaluar al enemigo y determinar los cursos de acción del enemigo."
+  },
+  {
+    "pregunta": "¿Qué se entiende por \"Área de Interés\" (AOI) en el IPOE?",
+    "opciones": [
+      "El área geográfica donde el comandante tiene autoridad para conducir operaciones.",
+      "El área que incluye el área operacional y las áreas adyacentes de donde el enemigo o otros factores pueden influir en el cumplimiento de la misión.",
+      "El territorio ocupado exclusivamente por fuerzas neutrales o no combatientes."
+    ],
+    "correcta": "El área que incluye el área operacional y las áreas adyacentes de donde el enemigo o otros factores pueden influir en el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "¿Qué es el \"Centro de Gravedad Amigo\" (Friendly COG)?",
+    "opciones": [
+      "La unidad con el mayor número de piezas de artillería.",
+      "Aquella característica, función o localidad de la cual las fuerzas amigas derivan su libertad de acción, fuerza física o voluntad para luchar.",
+      "La ubicación del puesto de mando principal del comandante de la fuerza."
+    ],
+    "correcta": "Aquella característica, función o localidad de la cual las fuerzas amigas derivan su libertad de acción, fuerza física o voluntad para luchar."
+  },
+  {
+    "pregunta": "Dentro del análisis del COG, ¿qué son los \"Requerimientos Críticos\" (CR)?",
+    "opciones": [
+      "Los suministros de clase I, III y V necesarios para la batalla.",
+      "Las condiciones, recursos o medios esenciales para que una capacidad crítica sea operativa.",
+      "Las fallas en la logística enemiga que pueden ser explotadas por fuerzas especiales."
+    ],
+    "correcta": "Las condiciones, recursos o medios esenciales para que una capacidad crítica sea operativa."
+  },
+  {
+    "pregunta": "¿Cómo define el manual las \"Limitaciones\" en el planeamiento?",
+    "opciones": [
+      "Únicamente como la falta de recursos materiales para la misión.",
+      "Como las restricciones (lo que no se debe hacer) e impedimentos (lo que se debe hacer) impuestos por un mando superior.",
+      "Como los accidentes geográficos que impiden el movimiento de las tropas."
+    ],
+    "correcta": "Como las restricciones (lo que no se debe hacer) e impedimentos (lo que se debe hacer) impuestos por un mando superior."
+  },
+  {
+    "pregunta": "¿Qué elemento de la Guía de Planeamiento del Comandante proporciona el \"porqué\" de la operación?",
+    "opciones": [
+      "El enunciado de la misión.",
+      "La intención del comandante.",
+      "Los CCIRs."
+    ],
+    "correcta": "La intención del comandante."
+  },
+  {
+    "pregunta": "¿Qué debe evitar el estado mayor al desarrollar los Cursos de Acción?",
+    "opciones": [
+      "El uso de terminología técnica naval.",
+      "Prejuzgar cualquier COA o descartar opciones basándose en sesgos personales antes del análisis.",
+      "Consultar el manual DAM 1.5 durante el proceso."
+    ],
+    "correcta": "Prejuzgar cualquier COA o descartar opciones basándose en sesgos personales antes del análisis."
+  },
+  {
+    "pregunta": "En el desarrollo del COA, ¿qué significa \"Diferenciabilidad\"?",
+    "opciones": [
+      "Que cada COA debe ser legal según el derecho internacional.",
+      "Que cada COA debe ser significativamente diferente de los demás en cuanto al empleo de las fuerzas, tiempos o esquemas de maniobra.",
+      "Que el COA debe poder ser ejecutado por diferentes tipos de unidades indistintamente."
+    ],
+    "correcta": "Que cada COA debe ser significativamente diferente de los demás en cuanto al empleo de las fuerzas, tiempos o esquemas de maniobra."
+  },
+  {
+    "pregunta": "¿Qué es el \"Poder de Combate Relativo\"?",
+    "opciones": [
+      "La suma de los calibres de las armas de una fuerza contra otra.",
+      "El resultado de comparar las fuerzas y debilidades propias contra las del enemigo, incluyendo factores tangibles e intangibles.",
+      "El porcentaje de operatividad de los buques de la flota."
+    ],
+    "correcta": "El resultado de comparar las fuerzas y debilidades propias contra las del enemigo, incluyendo factores tangibles e intangibles."
+  },
+  {
+    "pregunta": "Al generar opciones, ¿qué es el \"Enfoque de Maniobra\"?",
+    "opciones": [
+      "El ataque frontal masivo contra las posiciones más fuertes del enemigo.",
+      "El empleo de fuerzas para atacar al enemigo desde direcciones inesperadas, buscando sus vulnerabilidades críticas para evitar sus fortalezas.",
+      "El movimiento administrativo de tropas hacia el área de reunión."
+    ],
+    "correcta": "El empleo de fuerzas para atacar al enemigo desde direcciones inesperadas, buscando sus vulnerabilidades críticas para evitar sus fortalezas."
+  },
+  {
+    "pregunta": "¿Qué debe contener el \"Esquema de Maniobra\" de un COA?",
+    "opciones": [
+      "El listado de raciones y combustible por unidad.",
+      "Una descripción narrativa y gráfica de cómo las fuerzas cumplirán la misión, integrando todas las funciones operacionales.",
+      "El currículum vitae de los comandantes subordinados."
+    ],
+    "correcta": "Una descripción narrativa y gráfica de cómo las fuerzas cumplirán la misión, integrando todas las funciones operacionales."
+  },
+  {
+    "pregunta": "¿A qué se refiere el término \"Fuerzas de Reserva\" en el desarrollo de un COA?",
+    "opciones": [
+      "A las tropas que no tienen entrenamiento y se quedan en la base.",
+      "A una parte de la fuerza que se mantiene bajo el control del comandante para ser empleada en un momento decisivo o para explotar el éxito.",
+      "A las fuerzas policiales que apoyan la seguridad de la zona."
+    ],
+    "correcta": "A una parte de la fuerza que se mantiene bajo el control del comandante para ser empleada en un momento decisivo o para explotar el éxito."
+  },
+  {
+    "pregunta": "¿Qué es la \"Línea de Operación\" (LOO)?",
+    "opciones": [
+      "Un canal de comunicación de radio de alta frecuencia.",
+      "Una línea que conecta nodos y puntos decisivos en el tiempo y el espacio hacia el centro de gravedad o el objetivo.",
+      "El límite geográfico lateral de una zona de desembarco."
+    ],
+    "correcta": "Una línea que conecta nodos y puntos decisivos en el tiempo y el espacio hacia el centro de gravedad o el objetivo."
+  },
+  {
+    "pregunta": "¿Cuál es el propósito fundamental del Juego de la Guerra?",
+    "opciones": [
+      "Decidir qué curso de acción es el más barato.",
+      "Identificar dificultades operacionales, riesgos y evaluar la eficacia de cada COA contra las posibles acciones del enemigo.",
+      "Entretener al estado mayor durante las pausas del planeamiento."
+    ],
+    "correcta": "Identificar dificultades operacionales, riesgos y evaluar la eficacia de cada COA contra las posibles acciones del enemigo."
+  },
+  {
+    "pregunta": "¿Qué miembro del estado mayor actúa normalmente como el \"Árbitro\" en el Juego de la Guerra?",
+    "opciones": [
+      "El Comandante.",
+      "El Jefe de Estado Mayor (o el Oficial de Planes en su ausencia) para asegurar que el proceso se mantenga enfocado y siga las reglas.",
+      "El Oficial de Inteligencia."
+    ],
+    "correcta": "El Jefe de Estado Mayor (o el Oficial de Planes en su ausencia) para asegurar que el proceso se mantenga enfocado y siga las reglas."
+  },
+  {
+    "pregunta": "En el método de \"Cinturones\" (Belts), ¿cómo se analiza el área operacional?",
+    "opciones": [
+      "Dividiendo el área en fajas transversales que se centran en eventos clave o fases de la operación.",
+      "Centrándose exclusivamente en una avenida de aproximación específica de principio a fin.",
+      "Analizando solo una parte pequeña del terreno donde se espera el combate principal (caja)."
+    ],
+    "correcta": "Dividiendo el área en fajas transversales que se centran en eventos clave o fases de la operación."
+  },
+  {
+    "pregunta": "¿Qué método de juego de la guerra es más adecuado para operaciones de tiempo limitado o cuando se analiza un evento específico muy detallado?",
+    "opciones": [
+      "Avenidas de aproximación.",
+      "Cuadros o Caja (Box).",
+      "Cinturones."
+    ],
+    "correcta": "Cuadros o Caja (Box)."
+  },
+  {
+    "pregunta": "Durante el juego de la guerra, ¿qué es un \"Evento Crítico\"?",
+    "opciones": [
+      "Cualquier falla mecánica en un buque.",
+      "Un evento que es esencial para el cumplimiento de la misión o que requiere una decisión del comandante.",
+      "Una conferencia de prensa del mando superior."
+    ],
+    "correcta": "Un evento que es esencial para el cumplimiento de la misión o que requiere una decisión del comandante."
+  },
+  {
+    "pregunta": "¿Qué es un \"Punto de Decisión\" (DP) identificado durante el juego de la guerra?",
+    "opciones": [
+      "Un lugar en el espacio y tiempo donde el comandante espera tomar una decisión para influir en el resultado de la operación.",
+      "El momento en que se agotan las municiones.",
+      "La firma de la orden de operaciones por el Jefe de Estado Mayor."
+    ],
+    "correcta": "Un lugar en el espacio y tiempo donde el comandante espera tomar una decisión para influir en el resultado de la operación."
+  },
+  {
+    "pregunta": "¿Qué documento registra los resultados del juego de la guerra de manera secuencial?",
+    "opciones": [
+      "El diario de guerra de la unidad.",
+      "La hoja de trabajo del juego de la guerra (War Game Work Sheet).",
+      "El anexo de inteligencia."
+    ],
+    "correcta": "La hoja de trabajo del juego de la guerra (War Game Work Sheet)."
+  },
+  {
+    "pregunta": "¿Cómo debe reaccionar la \"Célula Roja\" durante el juego?",
+    "opciones": [
+      "Siendo pasiva para permitir que los planes amigos siempre funcionen.",
+      "Actuando de manera agresiva y lógica como un enemigo pensante, buscando derrotar el COA amigo.",
+      "Siguiendo estrictamente un guion preestablecido que no puede cambiar."
+    ],
+    "correcta": "Actuando de manera agresiva y lógica como un enemigo pensante, buscando derrotar el COA amigo."
+  },
+  {
+    "pregunta": "¿Quién establece los \"Criterios de Evaluación\" para comparar los COAs?",
+    "opciones": [
+      "El Oficial de Logística basándose en los costos.",
+      "El Comandante, usualmente con la recomendación del Jefe de Estado Mayor.",
+      "El escalón superior en su directiva inicial."
+    ],
+    "correcta": "El Comandante, usualmente con la recomendación del Jefe de Estado Mayor."
+  },
+  {
+    "pregunta": "¿Qué es un \"Criterio de Evaluación\"?",
+    "opciones": [
+      "Una regla gramatical para redactar órdenes.",
+      "Un estándar o factor que el comandante considera importante para medir la efectividad de un COA en relación con los demás.",
+      "El límite máximo de bajas permitidas."
+    ],
+    "correcta": "Un estándar o factor que el comandante considera importante para medir la efectividad de un COA en relación con los demás."
+  },
+  {
+    "pregunta": "¿Cuál es el riesgo de usar la \"Ponderación Numérica\" en las matrices de comparación?",
+    "opciones": [
+      "Que los números den una falsa impresión de objetividad matemática sobre un proceso que requiere juicio profesional.",
+      "Que sea demasiado difícil de sumar para el estado mayor.",
+      "Que el enemigo pueda descifrar la matriz."
+    ],
+    "correcta": "Que los números den una falsa impresión de objetividad matemática sobre un proceso que requiere juicio profesional."
+  },
+  {
+    "pregunta": "¿Qué sucede durante la \"Reunión de Decisión\" (Decision Brief)?",
+    "opciones": [
+      "El estado mayor presenta su recomendación sobre cuál es el mejor COA basándose en la comparación.",
+      "El comandante regaña al estado mayor por los errores cometidos.",
+      "Se redactan todos los anexos de la orden de operaciones."
+    ],
+    "correcta": "El estado mayor presenta su recomendación sobre cuál es el mejor COA basándose en la comparación."
+  },
+  {
+    "pregunta": "Al finalizar la comparación, el comandante puede tomar una de las siguientes cuatro decisiones respecto a los COAs, ¿cuál NO es una de ellas?",
+    "opciones": [
+      "Aceptar un COA tal como se presentó.",
+      "Modificar un COA basándose en los resultados del juego de la guerra.",
+      "Solicitar al estado mayor que elija por él sin informarle los detalles."
+    ],
+    "correcta": "Solicitar al estado mayor que elija por él sin informarle los detalles."
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del Párrafo I (Situación) de una OPORD?",
+    "opciones": [
+      "Indicar las tareas de cada unidad subordinada.",
+      "Describir el entorno operacional, incluyendo fuerzas enemigas, fuerzas amigas, agregaciones y destacamentos.",
+      "Detallar el plan de alimentación y raciones de la fuerza."
+    ],
+    "correcta": "Describir el entorno operacional, incluyendo fuerzas enemigas, fuerzas amigas, agregaciones y destacamentos."
+  },
+  {
+    "pregunta": "¿Qué se incluye en el Párrafo II (Misión) de una orden de operaciones?",
+    "opciones": [
+      "Una descripción detallada de la fase de repliegue.",
+      "El enunciado claro y conciso de la misión, que incluye quién, qué, cuándo, dónde y para qué.",
+      "Los nombres de todos los oficiales participantes."
+    ],
+    "correcta": "El enunciado claro y conciso de la misión, que incluye quién, qué, cuándo, dónde y para qué."
+  },
+  {
+    "pregunta": "¿En qué consiste el \"Concepto de las Operaciones\" (CONOPS)?",
+    "opciones": [
+      "En una lista de todas las frecuencias de radio.",
+      "Es la descripción del comandante de cómo planea cumplir la misión desde el inicio hasta el estado final, incluyendo el esfuerzo principal.",
+      "En el cálculo de los días de clase V (municiones) disponibles."
+    ],
+    "correcta": "Es la descripción del comandante de cómo planea cumplir la misión desde el inicio hasta el estado final, incluyendo el esfuerzo principal."
+  },
+  {
+    "pregunta": "¿Qué es un \"Anexo\" en una orden de operaciones?",
+    "opciones": [
+      "Un documento opcional que nadie lee.",
+      "Un documento adjunto que proporciona detalles técnicos o específicos que son demasiado extensos para la orden básica (ej. Inteligencia, Logística).",
+      "Un cambio de último minuto realizado de forma verbal."
+    ],
+    "correcta": "Un documento adjunto que proporciona detalles técnicos o específicos que son demasiado extensos para la orden básica (ej. Inteligencia, Logística)."
+  },
+  {
+    "pregunta": "¿Qué significa que una orden sea \"Breve\"?",
+    "opciones": [
+      "Que solo tenga una página sin importar el contenido.",
+      "Que evite detalles innecesarios y redundancias, siendo lo más concisa posible para garantizar su ejecución.",
+      "Que se escriba usando solo acrónimos sin explicar."
+    ],
+    "correcta": "Que evite detalles innecesarios y redundancias, siendo lo más concisa posible para garantizar su ejecución."
+  },
+  {
+    "pregunta": "¿Qué información contiene el Párrafo V (Mando y Control)?",
+    "opciones": [
+      "Los objetivos de fuego de la artillería.",
+      "La ubicación del comandante, la cadena de mando y las instrucciones sobre comunicaciones y señales.",
+      "El plan de evacuación médica."
+    ],
+    "correcta": "La ubicación del comandante, la cadena de mando y las instrucciones sobre comunicaciones y señales."
+  },
+  {
+    "pregunta": "¿Cuál es la función del \"Cuerpo del Plan u Orden\"?",
+    "opciones": [
+      "Proporcionar la estructura general y las instrucciones básicas necesarias para coordinar la acción de toda la fuerza.",
+      "Listar los nombres de los barcos de guerra involucrados.",
+      "Establecer las penas por desobediencia."
+    ],
+    "correcta": "Proporcionar la estructura general y las instrucciones básicas necesarias para coordinar la acción de toda la fuerza."
+  },
+  {
+    "pregunta": "¿Qué es la \"Reunión Informativa de Transición\" (Transition Brief)?",
+    "opciones": [
+      "Una despedida para el personal que se va de vacaciones.",
+      "Una sesión donde el equipo de planeamiento explica el plan al personal que se encargará de la ejecución (operaciones actuales).",
+      "El momento en que se entrega el mando a una autoridad civil."
+    ],
+    "correcta": "Una sesión donde el equipo de planeamiento explica el plan al personal que se encargará de la ejecución (operaciones actuales)."
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de un \"Ejercicio de Confirmación\" (Rehearsal)?",
+    "opciones": [
+      "Evaluar la condición física de las tropas.",
+      "Que los comandantes subordinados y el estado mayor practiquen y sincronicen las acciones antes de la ejecución real.",
+      "Probar si las armas funcionan correctamente disparando al aire."
+    ],
+    "correcta": "Que los comandantes subordinados y el estado mayor practiquen y sincronicen las acciones antes de la ejecución real."
+  },
+  {
+    "pregunta": "¿Qué se busca asegurar con la transición del plan?",
+    "opciones": [
+      "Que el plan se mantenga en secreto total.",
+      "El entendimiento común de la misión, la intención del comandante y el concepto de las operaciones por parte de los ejecutores.",
+      "Que el presupuesto asignado se gaste antes de la operación."
+    ],
+    "correcta": "El entendimiento común de la misión, la intención del comandante y el concepto de las operaciones por parte de los ejecutores."
+  },
+  {
+    "pregunta": "¿A qué se refiere el término \"Sincronización\" en el planeamiento?",
+    "opciones": [
+      "A poner todos los relojes en la misma hora.",
+      "Al arreglo de las acciones militares en tiempo, espacio y propósito para producir el máximo poder de combate relativo en un lugar y tiempo decisivos.",
+      "A que todos los barcos naveguen en línea recta."
+    ],
+    "correcta": "Al arreglo de las acciones militares en tiempo, espacio y propósito para producir el máximo poder de combate relativo en un lugar y tiempo decisivos."
+  },
+  {
+    "pregunta": "¿Cuál es la responsabilidad del escalón superior durante la transición?",
+    "opciones": [
+      "No intervenir de ninguna manera.",
+      "Revisar y aprobar los planes de los subordinados para asegurar la unidad de esfuerzo.",
+      "Cambiar la misión en el último minuto para probar la flexibilidad."
+    ],
+    "correcta": "Revisar y aprobar los planes de los subordinados para asegurar la unidad de esfuerzo."
+  },
+  {
+    "pregunta": "¿Qué es una \"Orden Preparatoria\" (WARNORD)?",
+    "opciones": [
+      "Una orden definitiva que no admite cambios.",
+      "Un aviso preliminar sobre una orden o acción que debe seguir, para dar a los subordinados tiempo para prepararse.",
+      "Una felicitación por el éxito de la misión previa."
+    ],
+    "correcta": "Un aviso preliminar sobre una orden o acción que debe seguir, para dar a los subordinados tiempo para prepararse."
+  },
+  {
+    "pregunta": "En el contexto del NPP, ¿qué es un \"Riesgo\"?",
+    "opciones": [
+      "La posibilidad de que llueva durante la operación.",
+      "La probabilidad y severidad de una pérdida debido a un peligro.",
+      "La falta de uniformes para el personal."
+    ],
+    "correcta": "La probabilidad y severidad de una pérdida debido a un peligro."
+  },
+  {
+    "pregunta": "¿Cuál es el último paso formal antes de la ejecución total del plan?",
+    "opciones": [
+      "La redacción del capítulo I.",
+      "La transición y los ejercicios de confirmación.",
+      "El archivo del plan en la biblioteca del CESNAV."
+    ],
+    "correcta": "La transición y los ejercicios de confirmación."
+  },
+  {
+    "pregunta": "¿Cómo se define una \"Capacidad Crítica\" (CC)?",
+    "opciones": [
+      "Es el punto más débil de la fuerza enemiga que puede ser explotado con medios mínimos.",
+      "Se consideran como un factor sustancial de las capacidades, un \"hacer algo\", que permite a un Centro de Gravedad (COG) realizar su función.",
+      "Es la suma de todos los recursos logísticos disponibles para una fase de la operación."
+    ],
+    "correcta": "Se consideran como un factor sustancial de las capacidades, un \"hacer algo\", que permite a un Centro de Gravedad (COG) realizar su función."
+  },
+  {
+    "pregunta": "¿Qué es un \"Requerimiento Crítico\" (CR)?",
+    "opciones": [
+      "La solicitud formal de suministros clase V al escalón superior.",
+      "Son las condiciones, recursos o medios esenciales para que una capacidad crítica sea operativa.",
+      "El tiempo mínimo necesario para realizar un despliegue de fuerzas de tarea."
+    ],
+    "correcta": "Son las condiciones, recursos o medios esenciales para que una capacidad crítica sea operativa."
+  },
+  {
+    "pregunta": "¿Cuál es la relación lógica entre CC, CR y CV para identificar vulnerabilidades?",
+    "opciones": [
+      "Las CC se convierten en CR cuando el enemigo las detecta.",
+      "Las CV son aquellos CR, o componentes de estos, que son deficientes o vulnerables al ataque de forma que crean efectos decisivos.",
+      "Los CR son siempre CV, independientemente de la protección que posean."
+    ],
+    "correcta": "Las CV son aquellos CR, o componentes de estos, que son deficientes o vulnerables al ataque de forma que crean efectos decisivos."
+  },
+  {
+    "pregunta": "¿Cómo define el manual las \"Tareas Implícitas\"?",
+    "opciones": [
+      "Son aquellas tareas que deben ser realizadas para cumplir con las tareas específicas o la misión, pero que no están indicadas en la orden del mando superior.",
+      "Son las tareas que el comandante decide realizar por iniciativa propia sin informar al escalón superior.",
+      "Son los procedimientos sistemáticos de operar (SOP) de cada unidad."
+    ],
+    "correcta": "Son aquellas tareas que deben ser realizadas para cumplir con las tareas específicas o la misión, pero que no están indicadas en la orden del mando superior."
+  },
+  {
+    "pregunta": "¿Qué constituye el \"Enunciado de la Misión\" propuesto?",
+    "opciones": [
+      "Un párrafo detallado que explica la biografía del comandante y su visión del mundo.",
+      "Una declaración corta que contiene el quién, qué, cuándo, dónde y para qué (propósito), sin detallar el \"cómo\".",
+      "Una lista de todas las unidades subordinadas y sus tareas específicas."
+    ],
+    "correcta": "Una declaración corta que contiene el quién, qué, cuándo, dónde y para qué (propósito), sin detallar el \"cómo\"."
+  },
+  {
+    "pregunta": "¿Qué es el \"Estado Final Deseado\" (End State)?",
+    "opciones": [
+      "El momento en que se agotan los recursos financieros de la operación.",
+      "El conjunto de condiciones requeridas que define el cumplimiento de la misión.",
+      "La línea geográfica que marca el límite de avance de las tropas."
+    ],
+    "correcta": "El conjunto de condiciones requeridas que define el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "¿Qué función tiene la \"Directiva de Planeamiento del Comandante\"?",
+    "opciones": [
+      "Es una orden de arresto para el personal que no cumple las normas.",
+      "Proporciona el enfoque necesario para que el estado mayor inicie el desarrollo de los Cursos de Acción (COA), incluyendo su intención y CCIRs.",
+      "Es un informe de daños tras la primera batalla."
+    ],
+    "correcta": "Proporciona el enfoque necesario para que el estado mayor inicie el desarrollo de los Cursos de Acción (COA), incluyendo su intención y CCIRs."
+  },
+  {
+    "pregunta": "¿Qué son los \"Requerimientos de Información de las Fuerzas Amigas\" (FFIR)?",
+    "opciones": [
+      "Información que el comandante necesita sobre las capacidades de sus propias fuerzas para tomar decisiones.",
+      "Los planes de comunicación secretos de las unidades aliadas.",
+      "La lista de personal de vacaciones o con licencia médica."
+    ],
+    "correcta": "Información que el comandante necesita sobre las capacidades de sus propias fuerzas para tomar decisiones."
+  },
+  {
+    "pregunta": "¿Cómo se define el \"Área Operacional\" (AO)?",
+    "opciones": [
+      "Todo el territorio nacional bajo control de la Armada.",
+      "Un área de mar, aire y tierra, definida por el comandante superior para que el comandante subordinado conduzca sus misiones.",
+      "El espacio ocupado únicamente por el puesto de mando."
+    ],
+    "correcta": "Un área de mar, aire y tierra, definida por el comandante superior para que el comandante subordinado conduzca sus misiones."
+  },
+  {
+    "pregunta": "¿Qué se busca al analizar el \"Centro de Gravedad\" del enemigo?",
+    "opciones": [
+      "Localizar la ubicación exacta del general enemigo para un ataque directo.",
+      "Identificar la fuente de su poder moral o físico cuya destrucción o neutralización conducirá a su derrota.",
+      "Encontrar el depósito de combustible más grande del adversario."
+    ],
+    "correcta": "Identificar la fuente de su poder moral o físico cuya destrucción o neutralización conducirá a su derrota."
+  },
+  {
+    "pregunta": "En la prueba de validez de un COA, ¿qué evalúa la \"Aceptabilidad\"?",
+    "opciones": [
+      "Si el COA puede ser entendido por el personal de menor rango.",
+      "Si el COA es proporcional al riesgo y si la ventaja obtenida justifica el costo en recursos y bajas.",
+      "Si el COA es similar al que usarían otras naciones."
+    ],
+    "correcta": "Si el COA es proporcional al riesgo y si la ventaja obtenida justifica el costo en recursos y bajas."
+  },
+  {
+    "pregunta": "¿Qué evalúa la prueba de \"Factibilidad\" en un COA?",
+    "opciones": [
+      "Si la misión es moralmente correcta según las leyes nacionales.",
+      "Si la fuerza puede cumplir la misión dentro de las limitaciones de tiempo, espacio y recursos disponibles.",
+      "Si el comandante tiene el grado militar suficiente para ordenar la operación."
+    ],
+    "correcta": "Si la fuerza puede cumplir la misión dentro de las limitaciones de tiempo, espacio y recursos disponibles."
+  },
+  {
+    "pregunta": "¿Qué es el \"Concepto de Empleo\" en el desarrollo de un COA?",
+    "opciones": [
+      "La forma en que se contratará al personal civil para apoyo.",
+      "Una descripción de cómo el comandante visualiza el empleo de las fuerzas para lograr los objetivos.",
+      "El manual de funciones de cada marinero a bordo."
+    ],
+    "correcta": "Una descripción de cómo el comandante visualiza el empleo de las fuerzas para lograr los objetivos."
+  },
+  {
+    "pregunta": "¿Qué importancia tiene la \"Reserva\" en el desarrollo de un COA?",
+    "opciones": [
+      "Es una fuerza que no tiene propósito y solo espera el fin de la guerra.",
+      "Proporciona flexibilidad al comandante para explotar el éxito, reaccionar ante amenazas imprevistas o mantener el ritmo operacional.",
+      "Es el grupo de oficiales que redacta las memorias de la batalla."
+    ],
+    "correcta": "Proporciona flexibilidad al comandante para explotar el éxito, reaccionar ante amenazas imprevistas o mantener el ritmo operacional."
+  },
+  {
+    "pregunta": "¿Qué es una \"Línea de Esfuerzo\" (LOE)?",
+    "opciones": [
+      "Un cable de acero utilizado para el remolque de buques.",
+      "Vincula múltiples tareas y misiones usando la lógica de propósito —más que de geografía o referencia física— para alcanzar los objetivos.",
+      "La fila que forman las tropas durante una revista administrativa."
+    ],
+    "correcta": "Vincula múltiples tareas y misiones usando la lógica de propósito —más que de geografía o referencia física— para alcanzar los objetivos."
+  },
+  {
+    "pregunta": "Al organizar las fuerzas para un COA, ¿qué es el \"Esfuerzo de Apoyo\"?",
+    "opciones": [
+      "Una tarea que se realiza solo si sobra tiempo.",
+      "Tareas designadas que apoyan al esfuerzo principal para que este logre su propósito.",
+      "La recolección de fondos para la beneficencia naval."
+    ],
+    "correcta": "Tareas designadas que apoyan al esfuerzo principal para que este logre su propósito."
+  },
+  {
+    "pregunta": "¿Qué debe incluir el \"Enunciado del COA\"?",
+    "opciones": [
+      "Una lista de todos los suministros de oficina necesarios.",
+      "El esquema de maniobra, el esfuerzo principal, el concepto de fuegos, inteligencia y logística.",
+      "Las fotos de las áreas de desembarco."
+    ],
+    "correcta": "El esquema de maniobra, el esfuerzo principal, el concepto de fuegos, inteligencia y logística."
+  },
+  {
+    "pregunta": "Durante el Juego de la Guerra, ¿qué es un \"Turno de Acción\"?",
+    "opciones": [
+      "Cuando el comandante decide irse a descansar.",
+      "El movimiento inicial realizado por la fuerza que tiene la iniciativa (usualmente la fuerza propia en el análisis de sus COAs).",
+      "El proceso de mantenimiento preventivo de la maquinaria."
+    ],
+    "correcta": "El movimiento inicial realizado por la fuerza que tiene la iniciativa (usualmente la fuerza propia en el análisis de sus COAs)."
+  },
+  {
+    "pregunta": "¿Qué es la \"Reacción\" en la dinámica del juego?",
+    "opciones": [
+      "El informe de bajas después de un ejercicio de tiro.",
+      "La respuesta lógica de la Célula Roja (enemigo) ante la acción de la fuerza propia.",
+      "El sentimiento del estado mayor ante una crítica del comandante."
+    ],
+    "correcta": "La respuesta lógica de la Célula Roja (enemigo) ante la acción de la fuerza propia."
+  },
+  {
+    "pregunta": "¿Qué es la \"Contrarreacción\" (Counteraction)?",
+    "opciones": [
+      "El ataque del enemigo contra la población civil.",
+      "La respuesta de la fuerza propia ante la reacción del enemigo para retomar o mantener la iniciativa.",
+      "El retiro definitivo de las fuerzas del área operacional."
+    ],
+    "correcta": "La respuesta de la fuerza propia ante la reacción del enemigo para retomar o mantener la iniciativa."
+  },
+  {
+    "pregunta": "¿Qué información registra la \"Matriz de Sincronización\"?",
+    "opciones": [
+      "Las fechas de cumpleaños de los comandantes de unidad.",
+      "La relación de las acciones de las fuerzas amigas, el enemigo, el tiempo y los eventos críticos a través de las fases de la operación.",
+      "El inventario de refacciones de los motores principales."
+    ],
+    "correcta": "La relación de las acciones de las fuerzas amigas, el enemigo, el tiempo y los eventos críticos a través de las fases de la operación."
+  },
+  {
+    "pregunta": "¿Qué es un \"Evento Crítico\" (Critical Event)?",
+    "opciones": [
+      "Cualquier situación que requiera el uso del botiquín de primeros auxilios.",
+      "Un evento que es esencial para el cumplimiento de la misión o que requiere una decisión del comandante.",
+      "La llegada de una autoridad civil al puesto de mando."
+    ],
+    "correcta": "Un evento que es esencial para el cumplimiento de la misión o que requiere una decisión del comandante."
+  },
+  {
+    "pregunta": "¿Qué cual es el papel de la \"Célula Blanca\" (White Cell) en ejercicios de planeamiento?",
+    "opciones": [
+      "Representar a las fuerzas enemigas más peligrosas.",
+      "Representar a las instancias superiores, agencias no militares o factores neutrales que no son parte activa del juego pero influyen en él.",
+      "Limpiar el área de planeamiento al finalizar el día."
+    ],
+    "correcta": "Representar a las instancias superiores, agencias no militares o factores neutrales que no son parte activa del juego pero influyen en él."
+  },
+  {
+    "pregunta": "¿En qué consiste el método de \"Avenidas de Aproximación\" para el juego de la guerra?",
+    "opciones": [
+      "En analizar el terreno centrándose en las rutas por las cuales el enemigo o las fuerzas propias pueden desplazarse hacia el objetivo.",
+      "En rodear el objetivo por todos los flancos simultáneamente.",
+      "En construir nuevas carreteras para el avance de la infantería de marina."
+    ],
+    "correcta": "En analizar el terreno centrándose en las rutas por las cuales el enemigo o las fuerzas propias pueden desplazarse hacia el objetivo."
+  },
+  {
+    "pregunta": "¿Qué caracteriza a una \"Matriz de Ventajas y Desventajas\"?",
+    "opciones": [
+      "Es un análisis cualitativo que resalta los puntos fuertes y debilidades de cada COA sin usar escalas numéricas.",
+      "Es una suma de todos los calibres de las armas de cada COA.",
+      "Es un documento que solo lista los errores de los COAs descartados."
+    ],
+    "correcta": "Es un análisis cualitativo que resalta los puntos fuertes y debilidades de cada COA sin usar escalas numéricas."
+  },
+  {
+    "pregunta": "¿Para qué sirven los \"Factores Rectores del Comandante\"?",
+    "opciones": [
+      "Para limitar el presupuesto de la operación.",
+      "Para servir como criterios de evaluación prioritarios durante la comparación de los COAs.",
+      "Para establecer el código de vestimenta en el estado mayor."
+    ],
+    "correcta": "Para servir como criterios de evaluación prioritarios durante la comparación de los COAs."
+  },
+  {
+    "pregunta": "¿Qué debe hacer el estado mayor si ningún COA es totalmente satisfactorio tras la comparación?",
+    "opciones": [
+      "Abandonar el proceso de planeamiento.",
+      "Recomendar la modificación de los COAs existentes o desarrollar uno nuevo combinando las mejores características de los anteriores.",
+      "Esperar a que el enemigo ataque primero para decidir."
+    ],
+    "correcta": "Recomendar la modificación de los COAs existentes o desarrollar uno nuevo combinando las mejores características de los anteriores."
+  },
+  {
+    "pregunta": "¿Qué contiene el \"Concepto de las Operaciones\" (CONOPS) que emana de la decisión?",
+    "opciones": [
+      "Una lista de todos los acrónimos usados en el manual.",
+      "Una descripción clara de cómo el comandante quiere que se ejecute el COA seleccionado, integrando todas las funciones operacionales.",
+      "El presupuesto detallado para viáticos."
+    ],
+    "correcta": "Una descripción clara de cómo el comandante quiere que se ejecute el COA seleccionado, integrando todas las funciones operacionales."
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo de la \"Reunión de Decisión\" (Decision Brief)?",
+    "opciones": [
+      "Informar al comandante sobre los chismes del estado mayor.",
+      "Presentar al comandante los resultados del análisis y comparación de los COAs para que este tome una decisión informada.",
+      "Firmar los pases de salida del personal."
+    ],
+    "correcta": "Presentar al comandante los resultados del análisis y comparación de los COAs para que este tome una decisión informada."
+  },
+  {
+    "pregunta": "¿Qué información se coloca en el encabezado de una orden de operaciones?",
+    "opciones": [
+      "La clasificación de seguridad, la unidad emisora, el lugar de expedición y el número de la orden.",
+      "Las raciones de combate disponibles para el día.",
+      "El nombre de la esposa del comandante."
+    ],
+    "correcta": "La clasificación de seguridad, la unidad emisora, el lugar de expedición y el número de la orden."
+  },
+  {
+    "pregunta": "¿Qué es el \"Párrafo III: Ejecución\"?",
+    "opciones": [
+      "El lugar donde se listan las bajas en combate.",
+      "El párrafo más extenso de la orden que contiene la intención del comandante, el concepto de operaciones y las tareas a las unidades subordinadas.",
+      "La descripción del proceso de justicia militar."
+    ],
+    "correcta": "El párrafo más extenso de la orden que contiene la intención del comandante, el concepto de operaciones y las tareas a las unidades subordinadas."
+  },
+  {
+    "pregunta": "¿Qué detalle se incluye en las \"Instrucciones de Coordinación\"?",
+    "opciones": [
+      "El menú de la cena en el comedor de oficiales.",
+      "Tareas y requisitos que se aplican a dos o más unidades de la fuerza y que no se encuentran en otra parte de la orden.",
+      "La biografía de los comandantes aliados."
+    ],
+    "correcta": "Tareas y requisitos que se aplican a dos o más unidades de la fuerza y que no se encuentran en otra parte de la orden."
+  },
+  {
+    "pregunta": "¿Qué función cumple el \"Anexo B\" en una OPORD estándar?",
+    "opciones": [
+      "Logística.",
+      "Inteligencia.",
+      "Comunicaciones."
+    ],
+    "correcta": "Inteligencia."
+  },
+  {
+    "pregunta": "¿Qué es una \"Orden de Operaciones de Fragmento\" (FRAGO)?",
+    "opciones": [
+      "Una orden que se envía en pedazos por correo postal.",
+      "Una abreviación de una orden de operaciones, enviada cuando es necesario realizar cambios rápidos a una orden existente debido a cambios en la situación.",
+      "Una orden que solo aplica a los fragmentos de metralla."
+    ],
+    "correcta": "Una abreviación de una orden de operaciones, enviada cuando es necesario realizar cambios rápidos a una orden existente debido a cambios en la situación."
+  },
+  {
+    "pregunta": "¿Qué significa la sigla \"ROE\" en el contexto de una orden?",
+    "opciones": [
+      "Reglas de Enfrentamiento (Rules of Engagement).",
+      "Requerimientos Operacionales de Energía.",
+      "Rutas de Evacuación."
+    ],
+    "correcta": "Reglas de Enfrentamiento (Rules of Engagement)."
+  },
+  {
+    "pregunta": "¿En qué consiste la \"Integridad\" de una orden?",
+    "opciones": [
+      "En que el papel sea de buena calidad.",
+      "En que la orden sea completa y no omita ninguna información necesaria para el cumplimiento de la misión.",
+      "En que todos los oficiales tengan valores morales altos."
+    ],
+    "correcta": "En que la orden sea completa y no omita ninguna información necesaria para el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "¿Qué es un \"Ensayo\" (Rehearsal)?",
+    "opciones": [
+      "Una obra de teatro para el día de la Armada.",
+      "Una práctica del plan antes de la ejecución para que los participantes se familiaricen con sus tareas y coordinen acciones.",
+      "Una revisión de los uniformes de gala."
+    ],
+    "correcta": "Una práctica del plan antes de la ejecución para que los participantes se familiaricen con sus tareas y coordinen acciones."
+  },
+  {
+    "pregunta": "¿Cuál es la diferencia entre un Plan de Operaciones (OPLAN) y una Orden de Operaciones (OPORD)?",
+    "opciones": [
+      "El OPLAN es un documento que carece de una fecha de ejecución efectiva, mientras que la OPORD es para una ejecución inmediata.",
+      "El OPLAN es secreto y la OPORD es pública.",
+      "El OPLAN lo hace el Comandante y la OPORD el Jefe de Estado Mayor."
+    ],
+    "correcta": "El OPLAN es un documento que carece de una fecha de ejecución efectiva, mientras que la OPORD es para una ejecución inmediata."
+  },
+  {
+    "pregunta": "¿Qué es un \"Punto de Decisión\" (DP)?",
+    "opciones": [
+      "Un lugar en el terreno donde no se puede circular.",
+      "Un evento o punto en el espacio y tiempo donde el comandante debe tomar una decisión para asegurar el éxito de la operación.",
+      "El final de una línea de suministro."
+    ],
+    "correcta": "Un evento o punto en el espacio y tiempo donde el comandante debe tomar una decisión para asegurar el éxito de la operación."
+  },
+  {
+    "pregunta": "¿Qué se entiende por \"Unidad de Esfuerzo\"?",
+    "opciones": [
+      "Que cada barco trabaje por su cuenta para terminar rápido.",
+      "La coordinación y cooperación entre todas las fuerzas para lograr un objetivo común, a pesar de que no estén bajo el mismo mando.",
+      "Que todos los marineros hagan el mismo ejercicio físico."
+    ],
+    "correcta": "La coordinación y cooperación entre todas las fuerzas para lograr un objetivo común, a pesar de que no estén bajo el mismo mando."
+  },
+  {
+    "pregunta": "¿Qué es la \"Libertad de Acción\"?",
+    "opciones": [
+      "El permiso para salir de la base sin autorización.",
+      "La capacidad de un comandante para maniobrar y actuar sin ser dominado por la voluntad del enemigo.",
+      "El derecho a elegir el color de la pintura del buque."
+    ],
+    "correcta": "La capacidad de un comandante para maniobrar y actuar sin ser dominado por la voluntad del enemigo."
+  },
+  {
+    "pregunta": "¿Qué es una \"Operación Mayor\"?",
+    "opciones": [
+      "Cualquier operación donde participe un Almirante.",
+      "Una serie de batallas y encuentros tácticos relacionados, diseñados para lograr un objetivo operacional o estratégico.",
+      "Un desfile militar en la capital."
+    ],
+    "correcta": "Una serie de batallas y encuentros tácticos relacionados, diseñados para lograr un objetivo operacional o estratégico."
+  },
+  {
+    "pregunta": "¿Qué es el \"Ritmo Operacional\" (Operational Tempo)?",
+    "opciones": [
+      "La velocidad a la cual suena la banda de música.",
+      "El paso de las actividades militares en relación con las capacidades del enemigo y el entorno.",
+      "El número de horas que duerme el estado mayor."
+    ],
+    "correcta": "El paso de las actividades militares en relación con las capacidades del enemigo y el entorno."
+  },
+  {
+    "pregunta": "¿Qué es la \"Culminación\" en el planeamiento?",
+    "opciones": [
+      "El momento en que se termina de escribir el plan.",
+      "El punto en el tiempo y el espacio en el que una fuerza ya no puede continuar con su forma de operación actual.",
+      "La graduación de los oficiales en el CESNAV."
+    ],
+    "correcta": "El punto en el tiempo y el espacio en el que una fuerza ya no puede continuar con su forma de operación actual."
+  },
+  {
+    "pregunta": "¿Cuál es el propósito de los \"Objetivos Operacionales\"?",
+    "opciones": [
+      "Mantener ocupadas a las tropas.",
+      "Definir claramente lo que se debe lograr para alcanzar el estado final deseado.",
+      "Justificar el gasto de municiones."
+    ],
+    "correcta": "Definir claramente lo que se debe lograr para alcanzar el estado final deseado."
+  },
+  {
+    "pregunta": "¿Qué es el \"Riesgo Operacional\"?",
+    "opciones": [
+      "El peligro de que se acabe el café en el estado mayor.",
+      "La probabilidad de que eventos imprevistos impacten negativamente en el cumplimiento de la misión.",
+      "El costo de las primas de seguro de los buques."
+    ],
+    "correcta": "La probabilidad de que eventos imprevistos impacten negativamente en el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "¿Qué función tiene el \"Oficial de Enlace\"?",
+    "opciones": [
+      "Organizar las fiestas de la unidad.",
+      "Facilitar la comunicación y coordinación entre diferentes mandos o agencias para asegurar la unidad de esfuerzo.",
+      "Revisar la ortografía de las órdenes."
+    ],
+    "correcta": "Facilitar la comunicación y coordinación entre diferentes mandos o agencias para asegurar la unidad de esfuerzo."
+  },
+  {
+    "pregunta": "¿Qué es una \"Medida de Control\"?",
+    "opciones": [
+      "Un examen médico para el personal.",
+      "Directivas gráficas o escritas dadas por el comandante para regular las acciones de las unidades subordinadas (ej. líneas de fase, límites).",
+      "Una cerradura en el almacén de armas."
+    ],
+    "correcta": "Directivas gráficas o escritas dadas por el comandante para regular las acciones de las unidades subordinadas (ej. líneas de fase, límites)."
+  },
+  {
+    "pregunta": "¿Cómo se define el \"Apoyo Logístico\"?",
+    "opciones": [
+      "El transporte de civiles al área de combate.",
+      "El conjunto de actividades destinadas a proporcionar los medios y servicios necesarios para el sostenimiento de las fuerzas.",
+      "La gestión de las redes sociales de la Armada."
+    ],
+    "correcta": "El conjunto de actividades destinadas a proporcionar los medios y servicios necesarios para el sostenimiento de las fuerzas."
+  },
+  {
+    "pregunta": "¿Qué es el \"Mando y Control\" (C2)?",
+    "opciones": [
+      "El control de los videojuegos en la sala de recreo.",
+      "El ejercicio de la autoridad y dirección por un comandante sobre las fuerzas asignadas para el cumplimiento de la misión.",
+      "El sistema de cámaras de seguridad de la base."
+    ],
+    "correcta": "El ejercicio de la autoridad y dirección por un comandante sobre las fuerzas asignadas para el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "Según el manual, ¿qué cuatro preguntas debe contestar una suposición válida?",
+    "opciones": [
+      "¿Es lógica?, ¿Es probable?, ¿Es verificable?, ¿Es oportuna?",
+      "¿Es lógica?, ¿Es realista?, ¿Es esencial para que continúe el planeamiento?, ¿Se evita suponer alguna capacidad del enemigo?",
+      "¿Es completa?, ¿Es factible?, ¿Es aceptable?, ¿Es diferenciable?"
+    ],
+    "correcta": "¿Es lógica?, ¿Es realista?, ¿Es esencial para que continúe el planeamiento?, ¿Se evita suponer alguna capacidad del enemigo?"
+  },
+  {
+    "pregunta": "¿Qué sucede si las suposiciones no pueden ser validadas antes de su ejecución?",
+    "opciones": [
+      "Se eliminan automáticamente del plan.",
+      "Se vuelven parte del riesgo inherente de la operación y puede requerir ampliaciones (planes alternos).",
+      "El comandante debe reiniciar el NPP desde el paso uno."
+    ],
+    "correcta": "Se vuelven parte del riesgo inherente de la operación y puede requerir ampliaciones (planes alternos)."
+  },
+  {
+    "pregunta": "¿Cuál es la pregunta clave que se debe contestar al buscar un CCIR?",
+    "opciones": [
+      "¿Cuáles son los blancos de alto valor del enemigo?",
+      "¿Qué necesita conocer el Comandante y cuándo lo requiere?",
+      "¿Cómo puede el enemigo vulnerar nuestro Centro de Gravedad?"
+    ],
+    "correcta": "¿Qué necesita conocer el Comandante y cuándo lo requiere?"
+  },
+  {
+    "pregunta": "¿Qué son los Elementos Esenciales de Información Amiga (EEFI)?",
+    "opciones": [
+      "Requerimientos de inteligencia que el comandante prioriza sobre el adversario.",
+      "Aspectos críticos de una operación amiga, que si son conocidos por el enemigo, podrían comprometer, fallar o limitar el éxito de la operación.",
+      "Informes diarios de situación que las unidades subordinadas envían al S-1."
+    ],
+    "correcta": "Aspectos críticos de una operación amiga, que si son conocidos por el enemigo, podrían comprometer, fallar o limitar el éxito de la operación."
+  },
+  {
+    "pregunta": "En la estructura de la Intención del Comandante, ¿cómo se define el \"Método\"?",
+    "opciones": [
+      "La razón de las acciones militares con respecto a la misión del nivel superior.",
+      "Explica la forma de maniobra ofensiva, la defensa alterna u otra acción a usarse por toda la fuerza.",
+      "Describe lo que el comandante quiere ver en términos militares después del cumplimiento de la misión."
+    ],
+    "correcta": "Explica la forma de maniobra ofensiva, la defensa alterna u otra acción a usarse por toda la fuerza."
+  },
+  {
+    "pregunta": "Al generar opciones de COAs, ¿qué técnica es la preferida por requerir imaginación y creatividad?",
+    "opciones": [
+      "El análisis de series de tiempo.",
+      "La lluvia de ideas.",
+      "El método de ponderación de factores rectores."
+    ],
+    "correcta": "La lluvia de ideas."
+  },
+  {
+    "pregunta": "¿Qué concepto de diseño puede decidir usar el estado mayor al elaborar COAs (conocido por las siglas DRAW-D)?",
+    "opciones": [
+      "Despliegue, Reabastecimiento, Ataque, Vigilancia y Defensa.",
+      "Defensa, Refuerzo, Ataque, Retirada o Retraso.",
+      "Dirección, Reconocimiento, Apoyo, Warfare y Despliegue."
+    ],
+    "correcta": "Defensa, Refuerzo, Ataque, Retirada o Retraso."
+  },
+  {
+    "pregunta": "¿Cómo se define el \"Esfuerzo Principal\" en el desarrollo de un COA?",
+    "opciones": [
+      "Donde la unidad concentra los efectos del mayor poder de combate para lograr un resultado que apoyaría el propósito de esta.",
+      "Todas aquellas tareas diferentes al esfuerzo de apoyo que garantizan la logística.",
+      "La unidad encargada de realizar la operación de engaño (decepción)."
+    ],
+    "correcta": "Donde la unidad concentra los efectos del mayor poder de combate para lograr un resultado que apoyaría el propósito de esta."
+  },
+  {
+    "pregunta": "En la prueba de validez, ¿qué significa que un COA sea \"Completo\"?",
+    "opciones": [
+      "Que se diferencie sustancialmente de otros cursos de acción.",
+      "Que incluya operaciones y tareas importantes, fuerzas requeridas, conceptos de despliegue, empleo y sostenimiento, tiempo estimado y estado final deseado.",
+      "Que haya sido aprobado por el Jefe de la Célula Roja."
+    ],
+    "correcta": "Que incluya operaciones y tareas importantes, fuerzas requeridas, conceptos de despliegue, empleo y sostenimiento, tiempo estimado y estado final deseado."
+  },
+  {
+    "pregunta": "¿De qué consta exactamente cada \"turno\" del Juego de la Guerra?",
+    "opciones": [
+      "De un movimiento amigo y una reacción enemiga.",
+      "De tres movimientos: dos de la fuerza propia y uno de la fuerza enemiga.",
+      "De un análisis de vulnerabilidades seguido de una contrarreacción."
+    ],
+    "correcta": "De tres movimientos: dos de la fuerza propia y uno de la fuerza enemiga."
+  },
+  {
+    "pregunta": "¿Cuál es el objetivo principal de la \"Célula Roja\" durante el Juego de la Guerra?",
+    "opciones": [
+      "Derrotar los COAs durante el Juego de la Guerra para probar al estado mayor.",
+      "Auxiliar en el desarrollo y prueba de los COAs, haciéndolos más fuertes y viables para su ejecución.",
+      "Evaluar el desempeño logístico de las unidades de superficie."
+    ],
+    "correcta": "Auxiliar en el desarrollo y prueba de los COAs, haciéndolos más fuertes y viables para su ejecución."
+  },
+  {
+    "pregunta": "¿A qué sección del estado mayor funciona como una extensión la Célula Roja?",
+    "opciones": [
+      "A la S-3 (Operaciones).",
+      "A la S-2 (Inteligencia).",
+      "A la S-4 (Logística)."
+    ],
+    "correcta": "A la S-2 (Inteligencia)."
+  },
+  {
+    "pregunta": "Para mantener la integridad del Juego de la Guerra, ¿qué directiva es fundamental respecto a la comparación de COAs?",
+    "opciones": [
+      "Comparar cada COA contra el anterior inmediatamente después del turno.",
+      "Evaluar cada COA independientemente y no comparar los COAs entre sí.",
+      "Seleccionar el COA más barato antes de iniciar el juego."
+    ],
+    "correcta": "Evaluar cada COA independientemente y no comparar los COAs entre sí."
+  },
+  {
+    "pregunta": "¿Qué es un \"Punto de Decisión\" (DP) identificado durante el juego de la guerra?",
+    "opciones": [
+      "Una falla en las comunicaciones que impide recibir órdenes.",
+      "Un lugar en el espacio y tiempo donde el comandante espera tomar una decisión para influir en el resultado de la operación.",
+      "El momento en que se agotan los suministros de Clase III."
+    ],
+    "correcta": "Un lugar en el espacio y tiempo donde el comandante espera tomar una decisión para influir en el resultado de la operación."
+  },
+  {
+    "pregunta": "¿Qué tipo de matriz se usa cuando los resultados cuantitativos no dan una clara diferencia y se requieren comparaciones cualitativas?",
+    "opciones": [
+      "Ponderación numérica.",
+      "Más/Menos/Neutral.",
+      "Matriz de Sincronización de apoyo."
+    ],
+    "correcta": "Más/Menos/Neutral."
+  },
+  {
+    "pregunta": "En la matriz Más/Menos/Neutral, ¿qué signo se usa para representar una influencia neutral en comparación con el COA base?",
+    "opciones": [
+      "Una \"N\".",
+      "El número \"0\".",
+      "Un punto (.)."
+    ],
+    "correcta": "El número \"0\"."
+  },
+  {
+    "pregunta": "Qué paso de la comparación es considerado el más valioso al hacer aparentes las inconsistencias?",
+    "opciones": [
+      "La asignación de valores numéricos subjetivos.",
+      "Enumerar las ventajas y desventajas de cada COA retenido.",
+      "El análisis del METOC."
+    ],
+    "correcta": "Enumerar las ventajas y desventajas de cada COA retenido."
+  },
+  {
+    "pregunta": "¿Cuál es el resultado deseado del paso de Comparación y Decisión?",
+    "opciones": [
+      "La matriz de apoyo para las decisiones.",
+      "El Concepto de las Operaciones (CONOPS).",
+      "La orden preparatoria número tres."
+    ],
+    "correcta": "El Concepto de las Operaciones (CONOPS)."
+  },
+  {
+    "pregunta": "¿En qué párrafo de la OPORD se especifican las relaciones de mando y la sucesión del mismo?",
+    "opciones": [
+      "Párrafo III: Ejecución.",
+      "Párrafo V: Mando y Control.",
+      "Párrafo IV: Administración y Logística."
+    ],
+    "correcta": "Párrafo V: Mando y Control."
+  },
+  {
+    "pregunta": "¿Qué característica de una directiva exige el uso de la \"forma afirmativa\" en la expresión?",
+    "opciones": [
+      "Brevedad.",
+      "Autoridad.",
+      "Simplicidad."
+    ],
+    "correcta": "Autoridad."
+  },
+  {
+    "pregunta": "¿Qué es la \"Conciliación de Órdenes\"?",
+    "opciones": [
+      "Un proceso interno de revisión detallada para asegurar que la orden básica y todos los anexos estén completos y coordinados.",
+      "El acto de entregar la orden al comandante para su firma.",
+      "La reunión con mandos aliados para traducir la orden."
+    ],
+    "correcta": "Un proceso interno de revisión detallada para asegurar que la orden básica y todos los anexos estén completos y coordinados."
+  },
+  {
+    "pregunta": "¿Qué documento es la única fuente de información autorizada durante la ejecución?",
+    "opciones": [
+      "La presentación de diapositivas del análisis de misión.",
+      "La OPORD y las FRAGORDs de apoyo.",
+      "El diario de guerra de la sección de inteligencia."
+    ],
+    "correcta": "La OPORD y las FRAGORDs de apoyo."
+  },
+  {
+    "pregunta": "¿Quién puede ser designado por el comandante como \"expositor\" del plan u orden ante mandos superiores?",
+    "opciones": [
+      "El Oficial de Logística (S-4).",
+      "El representante de las operaciones actuales ante el equipo de planeamiento del nivel superior.",
+      "El comandante subordinado más antiguo."
+    ],
+    "correcta": "El representante de las operaciones actuales ante el equipo de planeamiento del nivel superior."
+  },
+  {
+    "pregunta": "¿Qué es una \"Confirmación\" en el proceso de transición?",
+    "opciones": [
+      "El acuse de recibo de la orden por correo electrónico.",
+      "Es dada por un comandante subordinado al superior para explicar cómo pretende lograr su misión e identificar discrepancias.",
+      "La validación de las suposiciones por parte del S-2."
+    ],
+    "correcta": "Es dada por un comandante subordinado al superior para explicar cómo pretende lograr su misión e identificar discrepancias."
+  },
+  {
+    "pregunta": "¿Qué incrementa el nivel de entendimiento durante la transición?",
+    "opciones": [
+      "El número de páginas del anexo de inteligencia.",
+      "El tiempo disponible para realizar la transición.",
+      "La cantidad de raciones clase I disponibles."
+    ],
+    "correcta": "El tiempo disponible para realizar la transición."
+  },
+  {
+    "pregunta": "¿Cuál es el recurso no renovable más crítico a considerar en el planeamiento abreviado?",
+    "opciones": [
+      "El personal calificado.",
+      "El tiempo.",
+      "El combustible (Clase III)."
+    ],
+    "correcta": "El tiempo."
+  },
+  {
+    "pregunta": "¿Cuáles son las cuatro técnicas principales para ahorrar tiempo en el NPP?",
+    "opciones": [
+      "Eliminar el análisis de misión, saltar el juego de la guerra, usar órdenes verbales y reducir el estado mayor.",
+      "Incrementar la participación del comandante, que el comandante limite opciones, limitar el número de COAs y maximizar el planeamiento paralelo.",
+      "Duplicar el personal, usar simuladores rápidos, ignorar el IPOE y usar COAs genéricos."
+    ],
+    "correcta": "Incrementar la participación del comandante, que el comandante limite opciones, limitar el número de COAs y maximizar el planeamiento paralelo."
+  },
+  {
+    "pregunta": "¿Cuál es la técnica que \"más tiempo ahorra\" según el Anexo M?",
+    "opciones": [
+      "Maximizar el planeamiento paralelo.",
+      "Aquella en la que el comandante limita el número de COAs desarrollados y enfrentados en el juego de la guerra.",
+      "Incrementar la participación del comandante."
+    ],
+    "correcta": "Aquella en la que el comandante limita el número de COAs desarrollados y enfrentados en el juego de la guerra."
+  },
+  {
+    "pregunta": "¿Qué riesgo acepta el comandante al utilizar un proceso abreviado?",
+    "opciones": [
+      "Que el plan sea demasiado largo.",
+      "Que el proceso sea mucho más directivo y limite la flexibilidad e iniciativa del estado mayor.",
+      "Que el enemigo no use sus vulnerabilidades críticas."
+    ],
+    "correcta": "Que el proceso sea mucho más directivo y limite la flexibilidad e iniciativa del estado mayor."
+  },
+  {
+    "pregunta": "¿Qué técnica se considera \"deficiente\" al intentar ahorrar tiempo?",
+    "opciones": [
+      "Usar una WARNORD verbal.",
+      "La no utilización de las plantillas de evento del enemigo.",
+      "Limitar los factores rectores a cuatro o cinco."
+    ],
+    "correcta": "La no utilización de las plantillas de evento del enemigo."
+  },
+  {
+    "pregunta": "¿Cómo se define el \"Ensayo\"?",
+    "opciones": [
+      "Una reunión para criticar los errores del estado mayor.",
+      "El proceso de practicar un plan dentro del tiempo disponible antes de su ejecución real.",
+      "Un ejercicio de tiro con fuego real en alta mar."
+    ],
+    "correcta": "El proceso de practicar un plan dentro del tiempo disponible antes de su ejecución real."
+  },
+  {
+    "pregunta": "¿Por qué es importante que el comandante asista a los ensayos del personal subordinado?",
+    "opciones": [
+      "Para calificar su disciplina militar.",
+      "Para comprender los planes de los componentes y asegurarse de que se entienda su intención.",
+      "Para verificar el estado de mantenimiento de los buques."
+    ],
+    "correcta": "Para comprender los planes de los componentes y asegurarse de que se entienda su intención."
+  },
+  {
+    "pregunta": "¿Qué nivel de guerra se enfoca en el despliegue y empleo de fuerzas de componente, responsabilidad y retiro de la zona de batalla?",
+    "opciones": [
+      "Nivel Estratégico.",
+      "Nivel Operacional.",
+      "Nivel Táctico."
+    ],
+    "correcta": "Nivel Operacional."
+  },
+  {
+    "pregunta": "¿Qué es un \"Blanco de Alto Valor\" (HVT)?",
+    "opciones": [
+      "Un blanco que si el enemigo lo perdiera, contribuiría de forma significativa al éxito de los aliados.",
+      "Un blanco que el comandante enemigo requiere para el éxito de la misión.",
+      "Cualquier unidad enemiga que tenga misiles de largo alcance."
+    ],
+    "correcta": "Un blanco que el comandante enemigo requiere para el éxito de la misión."
+  },
+  {
+    "pregunta": "¿Qué es un \"Blanco de Alta Ganancia\" (HPT)?",
+    "opciones": [
+      "Un blanco que el comandante enemigo requiere para el éxito de la misión.",
+      "Un blanco que si el enemigo lo perdiera, contribuiría de forma significativa al éxito de los aliados.",
+      "Un blanco que no representa peligro inmediato pero debe ser destruido."
+    ],
+    "correcta": "Un blanco que si el enemigo lo perdiera, contribuiría de forma significativa al éxito de los aliados."
+  },
+  {
+    "pregunta": "¿Cómo se define el \"Área de Interés\" (AOI)?",
+    "opciones": [
+      "El área operacional definida exclusivamente para fuerzas marítimas.",
+      "El área de preocupación del comandante, incluyendo el área de influencia, áreas adyacentes y que se extienden dentro de territorio enemigo.",
+      "Las aguas territororiales de un país neutral que no debe ser invadido."
+    ],
+    "correcta": "El área de preocupación del comandante, incluyendo el área de influencia, áreas adyacentes y que se extienden dentro de territorio enemigo."
+  },
+  {
+    "pregunta": "¿Qué es la \"Capacidad Crítica\"?",
+    "opciones": [
+      "Una debilidad del adversario que puede ser atacada.",
+      "Un medio que es considerado como un facilitador crucial para que el centro de gravedad funcione como tal.",
+      "El número total de municiones que puede disparar un buque."
+    ],
+    "correcta": "Un medio que es considerado como un facilitador crucial para que el centro de gravedad funcione como tal."
+  },
+  {
+    "pregunta": "¿Qué es el \"Control Operacional\" (OPCON)?",
+    "opciones": [
+      "La autoridad limitada a la dirección y control de movimientos detallados.",
+      "La autoridad de mando que representa las funciones de mando sobre las fuerzas subordinadas involucrando organizar y emplear las fuerzas.",
+      "El permiso administrativo para realizar reparaciones en puerto."
+    ],
+    "correcta": "La autoridad de mando que representa las funciones de mando sobre las fuerzas subordinadas involucrando organizar y emplear las fuerzas."
+  },
+  {
+    "pregunta": "¿Qué es el \"Control Táctico\" (TACON)?",
+    "opciones": [
+      "La autoridad de mando total que incluye logística y administración.",
+      "Mando que tiene autoridad sobre fuerzas asignadas que está limitado a la dirección, control de movimientos o maniobras detalladas.",
+      "El sistema electrónico para disparar misiles."
+    ],
+    "correcta": "Mando que tiene autoridad sobre fuerzas asignadas que está limitado a la dirección, control de movimientos o maniobras detalladas."
+  },
+  {
+    "pregunta": "¿Cómo define el manual el \"Centro de Gravedad\" (COG)?",
+    "opciones": [
+      "El punto geográfico más alto en el área operacional.",
+      "La fuente de poder que proporciona fortaleza física o moral, libertad de acción o el deseo de actuar.",
+      "La unidad logística que abastece a la flota."
+    ],
+    "correcta": "La fuente de poder que proporciona fortaleza física o moral, libertad de acción o el deseo de actuar."
+  },
+  {
+    "pregunta": "¿Cuándo debe comenzar la construcción de la Matriz de Sincronización?",
+    "opciones": [
+      "Durante el análisis de la misión.",
+      "Durante el juego de la guerra (Paso 3 del NPP).",
+      "Después de que la orden ha sido firmada."
+    ],
+    "correcta": "Durante el juego de la guerra (Paso 3 del NPP)."
+  },
+  {
+    "pregunta": "¿Qué representa la línea superior de la matriz de sincronización?",
+    "opciones": [
+      "La lista de unidades subordinadas.",
+      "El periodo de tiempo o eventos a ser sincronizados (fases).",
+      "Las raciones de combate necesarias."
+    ],
+    "correcta": "El periodo de tiempo o eventos a ser sincronizados (fases)."
+  },
+  {
+    "pregunta": "¿Qué símbolo se usa en la fila de puntos de decisión de la matriz para dar significado a su importancia?",
+    "opciones": [
+      "Un círculo rojo.",
+      "Una estrella.",
+      "Un triángulo."
+    ],
+    "correcta": "Una estrella."
+  },
+  {
+    "pregunta": "¿Cuál es el requisito mínimo en la columna izquierda de la matriz de sincronización?",
+    "opciones": [
+      "Relacionar los costos de combustible.",
+      "Relacionar todos los mandos que realizarán tareas.",
+      "Poner los nombres de los capitanes de los buques."
+    ],
+    "correcta": "Relacionar todos los mandos que realizarán tareas."
+  },
+  {
+    "pregunta": "¿Qué tipo de planeamiento se basa en identificar la misión y realizar el trabajo hacia atrás a través de objetivos intermedios?",
+    "opciones": [
+      "Basado en la amenaza.",
+      "Basado en la misión.",
+      "Basado en las capacidades."
+    ],
+    "correcta": "Basado en la misión."
+  },
+  {
+    "pregunta": "¿En qué consistía la autodefensa durante el periodo 1960-1980 en la Armada de EE.UU.?",
+    "opciones": [
+      "En seleccionar el mejor curso de acción ante un enemigo desconocido.",
+      "Estaba mucho más enfocada en identificar la amenaza que en seleccionar y ejecutar un curso de acción.",
+      "En realizar asaltos anfibios a gran escala."
+    ],
+    "correcta": "Estaba mucho más enfocada en identificar la amenaza que en seleccionar y ejecutar un curso de acción."
+  },
+  {
+    "pregunta": "¿Cuál es el producto principal que los comandantes utilizan para comunicar las decisiones del proceso de planeamiento?",
+    "opciones": [
+      "Las minutas de las reuniones.",
+      "Las directivas militares, incluyendo los planes y órdenes.",
+      "Las gráficas de consumo de combustible."
+    ],
+    "correcta": "Las directivas militares, incluyendo los planes y órdenes."
+  },
+  {
+    "pregunta": "¿A qué nivel de la guerra se enfoca principalmente el NPP?",
+    "opciones": [
+      "Estratégico Nacional.",
+      "Táctico (en el cual se enfoca el NPP).",
+      "Político-Militar."
+    ],
+    "correcta": "Táctico (en el cual se enfoca el NPP)."
+  },
+  {
+    "pregunta": "¿Qué es el \"Ritmo de Batalla\" (Battle Rhythm)?",
+    "opciones": [
+      "La velocidad a la que disparan los cañones de proa.",
+      "Un proceso donde el comandante y el estado mayor sincronizan el tiempo operacional diario dentro del ciclo de planeamiento, decisión, ejecución y evaluación.",
+      "El horario de descanso de la tripulación."
+    ],
+    "correcta": "Un proceso donde el comandante y el estado mayor sincronizan el tiempo operacional diario dentro del ciclo de planeamiento, decisión, ejecución y evaluación."
+  },
+  {
+    "pregunta": "¿Qué sistema se emplea para el proceso de planeamiento en crisis (sensible al tiempo)?",
+    "opciones": [
+      "SIPRNET.",
+      "JOPES (Joint Operation Planning and Execution System).",
+      "CWC Manual."
+    ],
+    "correcta": "JOPES (Joint Operation Planning and Execution System)."
+  },
+  {
+    "pregunta": "¿Qué es un \"Plan de Contingencia\" (BRANCH)?",
+    "opciones": [
+      "Una orden para celebrar una ceremonia naval imprevista.",
+      "Una opción de planeamiento que proporciona una manera de superar las dificultades, o de explotar las oportunidades que surjan durante la ejecución de una operación.",
+      "El documento que detalla el retiro de las fuerzas una vez terminada la guerra."
+    ],
+    "correcta": "Una opción de planeamiento que proporciona una manera de superar las dificultades, o de explotar las oportunidades que surjan durante la ejecución de una operación."
+  },
+  {
+    "pregunta": "¿Qué es una \"Secuela\" (SEQUEL)?",
+    "opciones": [
+      "La repetición de una operación que falló previamente.",
+      "Operaciones subsecuentes que se basan en el resultado de la operación actual.",
+      "El informe final de bajas y daños."
+    ],
+    "correcta": "Operaciones subsecuentes que se basan en el resultado de la operación actual."
+  },
+  {
+    "pregunta": "¿Qué información se encuentra en el \"Anexo A\" de una OPORD?",
+    "opciones": [
+      "Inteligencia.",
+      "Organización de la Fuerza.",
+      "Logística."
+    ],
+    "correcta": "Organización de la Fuerza."
+  },
+  {
+    "pregunta": "¿Cuál es el propósito del \"Anexo C\" en la estructura estándar?",
+    "opciones": [
+      "Comunicaciones.",
+      "Operaciones.",
+      "Reglas de Enfrentamiento."
+    ],
+    "correcta": "Operaciones."
+  },
+  {
+    "pregunta": "¿Qué anexo detalla el apoyo de los servicios de salud y evacuación médica?",
+    "opciones": [
+      "Anexo B.",
+      "Anexo Q.",
+      "Anexo L."
+    ],
+    "correcta": "Anexo Q."
+  },
+  {
+    "pregunta": "¿Cuál es la característica de la \"Claridad\" en una directiva?",
+    "opciones": [
+      "Que se use un lenguaje poético para motivar a las tropas.",
+      "Que el plan sea exacto y no permita interpretaciones erróneas, usando terminología doctrinaria estandarizada.",
+      "Que la orden se escriba con letras de gran tamaño."
+    ],
+    "correcta": "Que el plan sea exacto y no permita interpretaciones erróneas, usando terminología doctrinaria estandarizada."
+  },
+  {
+    "pregunta": "¿Qué significa que una orden tenga \"Oportunidad\"?",
+    "opciones": [
+      "Que se emita exactamente al iniciar el combate.",
+      "Que se entregue con suficiente antelación para permitir a los comandantes subordinados realizar su propio planeamiento y preparación.",
+      "Que solo se entregue si hay oportunidad de ganar."
+    ],
+    "correcta": "Que se entregue con suficiente antelación para permitir a los comandantes subordinados realizar su propio planeamiento y preparación."
+  },
+  {
+    "pregunta": "¿Qué es el \"Párrafo IV: Administración y Logística\"?",
+    "opciones": [
+      "Donde se detallan las bajas enemigas capturadas.",
+      "Donde se establecen los conceptos de apoyo logístico, servicios, personal y asuntos civiles necesarios para la operación.",
+      "El lugar para listar los nombres de los oficiales de estado mayor."
+    ],
+    "correcta": "Donde se establecen los conceptos de apoyo logístico, servicios, personal y asuntos civiles necesarios para la operación."
+  },
+  {
+    "pregunta": "¿Cómo se denominan los cambios a una orden que ya ha sido emitida?",
+    "opciones": [
+      "Erratas.",
+      "Modificaciones o Fragmentos (FRAGO).",
+      "Post scriptum."
+    ],
+    "correcta": "Modificaciones o Fragmentos (FRAGO)."
+  },
+  {
+    "pregunta": "¿Qué es una \"Instrucción de Coordinación\"?",
+    "opciones": [
+      "Una orden para que los barcos naveguen en formación.",
+      "Tareas comunes a dos o más unidades que no se encuentran en los párrafos de tareas específicas.",
+      "La agenda de la reunión de planeamiento."
+    ],
+    "correcta": "Tareas comunes a dos o más unidades que no se encuentran en los párrafos de tareas específicas."
+  },
+  {
+    "pregunta": "¿Qué es la \"Conciliación del Plan\"?",
+    "opciones": [
+      "Una reunión para pedir disculpas por errores de planeamiento.",
+      "Un proceso donde el estado mayor asegura que la orden básica sea congruente con todos sus anexos y apéndices.",
+      "La firma de un tratado de paz con el enemigo."
+    ],
+    "correcta": "Un proceso donde el estado mayor asegura que la orden básica sea congruente con todos sus anexos y apéndices."
+  },
+  {
+    "pregunta": "¿Cuál es la principal herramienta para la transición del conocimiento del equipo de planeamiento al de ejecución?",
+    "opciones": [
+      "El envío del archivo por correo electrónico.",
+      "La reunión informativa de transición (Transition Brief).",
+      "El discurso de despedida del Comandante."
+    ],
+    "correcta": "La reunión informativa de transición (Transition Brief)."
+  },
+  {
+    "pregunta": "Durante la transición, ¿qué permite un \"Ejercicio de Confirmación\" (Rehearsal)?",
+    "opciones": [
+      "Que las tropas descansen antes de la batalla.",
+      "Identificar problemas de coordinación, sincronización y posibles fallas en el plan antes de la ejecución.",
+      "Probar el sistema de sonido del puesto de mando."
+    ],
+    "correcta": "Identificar problemas de coordinación, sincronización y posibles fallas en el plan antes de la ejecución."
+  },
+  {
+    "pregunta": "¿Qué es la \"Aprobación del Plan\"?",
+    "opciones": [
+      "El visto bueno de la prensa nacional.",
+      "El acto formal mediante el cual el comandante sanciona el plan u orden después de revisar que cumple su intención.",
+      "La recepción del plan por las unidades subordinadas."
+    ],
+    "correcta": "El acto formal mediante el cual el comandante sanciona el plan u orden después de revisar que cumple su intención."
+  },
+  {
+    "pregunta": "¿Cuál es la regla de oro del tiempo en el planeamiento militar?",
+    "opciones": [
+      "Gastar el 90% del tiempo en el análisis de la misión.",
+      "El Comandante debe usar un tercio del tiempo disponible para su planeamiento, dejando dos tercios para sus subordinados.",
+      "No planear nada y actuar por instinto."
+    ],
+    "correcta": "El Comandante debe usar un tercio del tiempo disponible para su planeamiento, dejando dos tercios para sus subordinados."
+  },
+  {
+    "pregunta": "¿Qué paso del NPP NO se puede omitir, incluso en situaciones de tiempo crítico?",
+    "opciones": [
+      "El juego de la guerra detallado.",
+      "El Análisis de la Misión.",
+      "La comparación numérica de COAs."
+    ],
+    "correcta": "El Análisis de la Misión."
+  },
+  {
+    "pregunta": "¿Cómo puede el comandante acelerar el desarrollo de los COAs?",
+    "opciones": [
+      "Pidiendo al estado mayor que no use el manual.",
+      "Proporcionando una guía mucho más detallada y limitando el número de COAs a desarrollar (incluso solo uno).",
+      "Dejando que cada sección trabaje por separado sin supervisión."
+    ],
+    "correcta": "Proporcionando una guía mucho más detallada y limitando el número de COAs a desarrollar (incluso solo uno)."
+  },
+  {
+    "pregunta": "En un proceso abreviado, ¿qué técnica de juego de la guerra se suele emplear?",
+    "opciones": [
+      "El método de \"Cinturones\" exhaustivo.",
+      "El método de \"Caja\" o cuadros, enfocándose solo en el evento más crítico.",
+      "Jugar todos los cursos de acción posibles del enemigo."
+    ],
+    "correcta": "El método de \"Caja\" o cuadros, enfocándose solo en el evento más crítico."
+  },
+  {
+    "pregunta": "¿Qué riesgo principal conlleva el planeamiento abreviado?",
+    "opciones": [
+      "Que el plan sea demasiado corto.",
+      "Que el comandante asuma una mayor carga de trabajo y se pierda la profundidad del análisis del estado mayor.",
+      "Que se use demasiado papel."
+    ],
+    "correcta": "Que el comandante asuma una mayor carga de trabajo y se pierda la profundidad del análisis del estado mayor."
+  },
+  {
+    "pregunta": "¿Qué es un \"Ensayo de Red de Comunicaciones\"?",
+    "opciones": [
+      "Una charla por radio para probar quién tiene la voz más clara.",
+      "Un ejercicio donde se verifican los flujos de información y la conectividad entre los nodos de mando.",
+      "La instalación física de los cables de antena."
+    ],
+    "correcta": "Un ejercicio donde se verifican los flujos de información y la conectividad entre los nodos de mando."
+  },
+  {
+    "pregunta": "¿Qué es un \"Ensayo de Mesa de Arena\" (Terrain Model)?",
+    "opciones": [
+      "Un juego de niños en la playa.",
+      "Un ensayo que utiliza una representación a escala del terreno o área operacional para visualizar los movimientos.",
+      "La construcción de castillos de arena para defensa costera."
+    ],
+    "correcta": "Un ensayo que utiliza una representación a escala del terreno o área operacional para visualizar los movimientos."
+  },
+  {
+    "pregunta": "¿Cuál es el ensayo más costoso y que requiere más tiempo?",
+    "opciones": [
+      "Ensayo en mapa.",
+      "Ensayo con fuerzas completas (Full Dress).",
+      "Ensayo de puntos de decisión."
+    ],
+    "correcta": "Ensayo con fuerzas completas (Full Dress)."
+  },
+  {
+    "pregunta": "¿Quién dirige normalmente el ensayo?",
+    "opciones": [
+      "El oficial más joven.",
+      "El Jefe de Estado Mayor o el Oficial de Operaciones.",
+      "El Capellán de la unidad."
+    ],
+    "correcta": "El Jefe de Estado Mayor o el Oficial de Operaciones."
+  },
+  {
+    "pregunta": "¿Qué es la \"Maniobra Operacional\"?",
+    "opciones": [
+      "El movimiento de un solo buque en puerto.",
+      "La disposición de fuerzas en el área operacional para lograr una ventaja posicional sobre el enemigo.",
+      "La marcha administrativa de tropas en un desfile."
+    ],
+    "correcta": "La disposición de fuerzas en el área operacional para lograr una ventaja posicional sobre el enemigo."
+  },
+  {
+    "pregunta": "¿Cómo se define \"Logística Operacional\"?",
+    "opciones": [
+      "La compra de víveres en el mercado local.",
+      "La función de estado mayor que vincula la logística estratégica con la táctica, asegurando el sostenimiento en el teatro de operaciones.",
+      "El inventario de papelería de la oficina."
+    ],
+    "correcta": "La función de estado mayor que vincula la logística estratégica con la táctica, asegurando el sostenimiento en el teatro de operaciones."
+  },
+  {
+    "pregunta": "¿Qué es un \"Área de Influencia\"?",
+    "opciones": [
+      "Un grupo de redes sociales con muchos seguidores.",
+      "Un área geográfica en la que un comandante puede influir directamente en las operaciones mediante el empleo de sus capacidades orgánicas.",
+      "El territorio extranjero donde se permite el libre comercio."
+    ],
+    "correcta": "Un área geográfica en la que un comandante puede influir directamente en las operaciones mediante el empleo de sus capacidades orgánicas."
+  },
+  {
+    "pregunta": "¿Qué es el \"Poder de Combate Relativo\"?",
+    "opciones": [
+      "La cantidad de familiares militares que tiene un oficial.",
+      "El resultado de comparar las capacidades propias contra las del enemigo en un momento dado.",
+      "La potencia de los motores de un buque."
+    ],
+    "correcta": "El resultado de comparar las capacidades propias contra las del enemigo en un momento dado."
+  },
+  {
+    "pregunta": "¿Qué es un \"Factor Crítico\"?",
+    "opciones": [
+      "Un error grave cometido durante el planeamiento.",
+      "Atributos (fortalezas o debilidades) que tienen una influencia determinante en el cumplimiento de la misión.",
+      "La falta de café durante la guardia nocturna."
+    ],
+    "correcta": "Atributos (fortalezas o debilidades) que tienen una influencia determinante en el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "¿Qué es la \"Decepción Militar\" (MILDEC)?",
+    "opciones": [
+      "El sentimiento de tristeza tras perder una batalla.",
+      "Acciones ejecutadas para engañar deliberadamente a los tomadores de decisiones del enemigo sobre las capacidades e intenciones propias.",
+      "La mentira a un superior sobre el estado de la fuerza."
+    ],
+    "correcta": "Acciones ejecutadas para engañar deliberadamente a los tomadores de decisiones del enemigo sobre las capacidades e intenciones propias."
+  },
+  {
+    "pregunta": "¿Qué es la \"Sincronización\"?",
+    "opciones": [
+      "Poner todos los relojes en la misma zona horaria.",
+      "El arreglo de acciones militares en tiempo, espacio y propósito para maximizar el poder de combate en el punto decisivo.",
+      "Que todos los barcos pinten su casco al mismo tiempo."
+    ],
+    "correcta": "El arreglo de acciones militares en tiempo, espacio y propósito para maximizar el poder de combate en el punto decisivo."
+  },
+  {
+    "pregunta": "¿Qué es la \"Interoperabilidad\"?",
+    "opciones": [
+      "La capacidad de hablar varios idiomas.",
+      "La habilidad de los sistemas, unidades o fuerzas para proporcionar y aceptar servicios de otras unidades o fuerzas.",
+      "El uso de la misma marca de computadoras en toda la Armada."
+    ],
+    "correcta": "La habilidad de los sistemas, unidades o fuerzas para proporcionar y aceptar servicios de otras unidades o fuerzas."
+  },
+  {
+    "pregunta": "¿Qué es el \"Derecho en Operaciones Marítimas\"?",
+    "opciones": [
+      "El derecho a pescar en cualquier lugar.",
+      "El marco jurídico nacional e internacional que rige el empleo de la fuerza y las operaciones en el mar.",
+      "Las leyes que regulan el sueldo de los marinos."
+    ],
+    "correcta": "El marco jurídico nacional e internacional que rige el empleo de la fuerza y las operaciones en el mar."
+  },
+  {
+    "pregunta": "¿Qué es la \"Conciencia del Dominio Marítimo\" (MDA)?",
+    "opciones": [
+      "Saber nadar perfectamente en mar abierto.",
+      "El entendimiento efectivo de cualquier actividad asociada con el dominio marítimo que podría impactar la seguridad o el entorno.",
+      "El mapa de las corrientes marinas del Golfo de México."
+    ],
+    "correcta": "El entendimiento efectivo de cualquier actividad asociada con el dominio marítimo que podría impactar la seguridad o el entorno."
+  },
+  {
+    "pregunta": "¿Qué es un \"Componente Naval\"?",
+    "opciones": [
+      "Una pieza de repuesto para un radar.",
+      "La fuerza organizada de unidades navales asignada a un comandante de fuerza de tarea conjunta.",
+      "Un oficial que integra el estado mayor."
+    ],
+    "correcta": "La fuerza organizada de unidades navales asignada a un comandante de fuerza de tarea conjunta."
+  },
+  {
+    "pregunta": "¿Qué es el \"Sostenimiento\"?",
+    "opciones": [
+      "Mantenerse de pie durante una ceremonia larga.",
+      "La provisión de logística y personal necesaria para mantener las operaciones hasta el cumplimiento de la misión.",
+      "El apoyo moral a las familias de los marinos."
+    ],
+    "correcta": "La provisión de logística y personal necesaria para mantener las operaciones hasta el cumplimiento de la misión."
+  },
+  {
+    "pregunta": "¿Qué es una \"Línea de Fase\"?",
+    "opciones": [
+      "Una conexión eléctrica en el cuarto de máquinas.",
+      "Una medida de control gráfico que se extiende a través de la zona de acción de una unidad para controlar y coordinar operaciones.",
+      "El horario de actividades de la tripulación."
+    ],
+    "correcta": "Una medida de control gráfico que se extiende a través de la zona de acción de una unidad para controlar y coordinar operaciones."
+  },
+  {
+    "pregunta": "¿Qué es el \"Punto de Culminación\"?",
+    "opciones": [
+      "El final del manual DAM 1.5.",
+      "El punto en el tiempo y el espacio en el que una fuerza ya no puede continuar con su forma de operación actual.",
+      "El momento en que un oficial se jubila."
+    ],
+    "correcta": "El punto en el tiempo y el espacio en el que una fuerza ya no puede continuar con su forma de operación actual."
+  },
+  {
+    "pregunta": "¿Qué es una \"Operación de Información\"?",
+    "opciones": [
+      "Leer las noticias en el periódico.",
+      "El empleo integrado de capacidades para influir, interrumpir o usurpar la toma de decisiones del enemigo mientras se protegen las propias.",
+      "Repartir volantes en la calle."
+    ],
+    "correcta": "El empleo integrado de capacidades para influir, interrumpir o usurpar la toma de decisiones del enemigo mientras se protegen las propias."
+  },
+  {
+    "pregunta": "¿Qué es el \"Mando Delegado\"?",
+    "opciones": [
+      "Dejar que un subordinado haga todo el trabajo sin supervisión.",
+      "La autoridad otorgada a un subordinado para tomar decisiones dentro de un marco de intención definido por el superior.",
+      "El mando de una unidad que no tiene comandante."
+    ],
+    "correcta": "La autoridad otorgada a un subordinado para tomar decisiones dentro de un marco de intención definido por el superior."
+  },
+  {
+    "pregunta": "¿Qué es la \"Unidad de Mando\"?",
+    "opciones": [
+      "Que solo un oficial dé órdenes en toda la Armada.",
+      "El principio que asegura que todas las fuerzas operen bajo un solo comandante responsable con autoridad para dirigir las fuerzas hacia un objetivo común.",
+      "El nombre de la unidad de élite de la Infantería de Marina."
+    ],
+    "correcta": "El principio que asegura que todas las fuerzas operen bajo un solo comandante responsable con autoridad para dirigir las fuerzas hacia un objetivo común."
+  },
+  {
+    "pregunta": "¿Qué es el \"Tempo\"?",
+    "opciones": [
+      "El clima meteorológico en el área operacional.",
+      "El ritmo de las operaciones militares en relación con la capacidad del enemigo para reaccionar.",
+      "La duración total de un contrato de servicio."
+    ],
+    "correcta": "El ritmo de las operaciones militares en relación con la capacidad del enemigo para reaccionar."
+  },
+  {
+    "pregunta": "¿Qué es una \"Vulnerabilidad Crítica\" (CV)?",
+    "opciones": [
+      "Un aspecto de la propia fuerza que el enemigo no conoce.",
+      "Un requerimiento crítico que es deficiente o vulnerable al ataque, que creará efectos decisivos si se explota.",
+      "Una enfermedad que afecta a la tripulación."
+    ],
+    "correcta": "Un requerimiento crítico que es deficiente o vulnerable al ataque, que creará efectos decisivos si se explota."
+  },
+  {
+    "pregunta": "¿Qué es la \"Flexibilidad\" en el planeamiento?",
+    "opciones": [
+      "La capacidad de los marinos para hacer ejercicio físico.",
+      "La habilidad de adaptar los planes a situaciones cambiantes sin perder de vista el objetivo.",
+      "El uso de materiales elásticos en la construcción naval."
+    ],
+    "correcta": "La habilidad de adaptar los planes a situaciones cambiantes sin perder de vista el objetivo."
+  },
+  {
+    "pregunta": "¿Qué es el \"Análisis de Riesgos\"?",
+    "opciones": [
+      "El estudio de las posibilidades de ganar la lotería.",
+      "El proceso de identificar, evaluar y controlar los riesgos derivados de factores operacionales.",
+      "La revisión de los seguros de vida del personal."
+    ],
+    "correcta": "El proceso de identificar, evaluar y controlar los riesgos derivados de factores operacionales."
+  },
+  {
+    "pregunta": "¿Qué es una \"Tarea Esencial de la Misión\" (MET)?",
+    "opciones": [
+      "Limpiar la cubierta del buque diariamente.",
+      "Una tarea que es crítica para el cumplimiento de la misión y debe ser realizada con éxito.",
+      "Cualquier tarea que el Comandante ordene de forma verbal."
+    ],
+    "correcta": "Una tarea que es crítica para el cumplimiento de la misión y debe ser realizada con éxito."
+  },
+  {
+    "pregunta": "¿Qué es el \"Concepto de Fuegos\"?",
+    "opciones": [
+      "El plan para realizar una fogata en la playa.",
+      "La descripción de cómo se emplearán los sistemas de armas para apoyar la maniobra y lograr efectos sobre el enemigo.",
+      "El manual de prevención de incendios a bordo."
+    ],
+    "correcta": "La descripción de cómo se emplearán los sistemas de armas para apoyar la maniobra y lograr efectos sobre el enemigo."
+  },
+  {
+    "pregunta": "¿Qué es una \"Medida de Control de Fuegos\"?",
+    "opciones": [
+      "Un extintor de incendios.",
+      "Directivas para agilizar el ataque a blancos y proporcionar seguridad a las fuerzas amigas.",
+      "El límite de municiones que se pueden disparar por minuto."
+    ],
+    "correcta": "Directivas para agilizar el ataque a blancos y proporcionar seguridad a las fuerzas amigas."
+  },
+  {
+    "pregunta": "¿Qué es el \"Estado de Alerta\" (Readiness)?",
+    "opciones": [
+      "Estar despierto durante la guardia.",
+      "La capacidad de las unidades para ser desplegadas y empleadas de manera inmediata.",
+      "El color del uniforme de faena."
+    ],
+    "correcta": "La capacidad de las unidades para ser desplegadas y empleadas de manera inmediata."
+  },
+  {
+    "pregunta": "¿Qué es el \"Planeamiento Paralelo\"?",
+    "opciones": [
+      "Planear dos misiones diferentes al mismo tiempo.",
+      "El planeamiento que realizan los mandos subordinados simultáneamente con el mando superior, basándose en órdenes preparatorias.",
+      "El uso de dos computadoras para redactar la misma orden."
+    ],
+    "correcta": "El planeamiento que realizan los mandos subordinados simultáneamente con el mando superior, basándose en órdenes preparatorias."
+  },
+  {
+    "pregunta": "¿Cuál es la finalidad última de todo el Proceso de Planeamiento Naval (NPP)?",
+    "opciones": [
+      "Llenar los archivos de la oficina con documentos.",
+      "Proporcionar al Comandante una base sólida para la toma de decisiones y la dirección exitosa de las operaciones navales.",
+      "Justificar el tiempo de estudio en el CESNAV."
+    ],
+    "correcta": "Proporcionar al Comandante una base sólida para la toma de decisiones y la dirección exitosa de las operaciones navales."
+  }
+]

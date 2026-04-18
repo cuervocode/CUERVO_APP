@@ -1,0 +1,502 @@
+[
+    {
+        "pregunta": "¿Qué condiciones debe reunir la Doctrina según la introducción del manual?",
+        "opciones": ["Ser flexible, interoperable y de aplicación conjunta en el mar.", "Ser completa, coordinada y sistemática; impersonal, propia y realista.", "Ser dogmática, estática y de difusión restringida al Estado Mayor."],
+        "respuesta_correcta": "Ser completa, coordinada y sistemática; impersonal, propia y realista."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo principal del manual DAM 1.3.3.1.2?",
+        "opciones": ["Proporcionar a los Comandantes de Brigada de IM una guía para la conducción de las operaciones.", "Establecer las bases logísticas para el despliegue de batallones en zonas urbanas.", "Definir la organización administrativa de la Coordinadora General de Infantería de Marina."],
+        "respuesta_correcta": "Proporcionar a los Comandantes de Brigada de IM una guía para la conducción de las operaciones."
+    },
+    {
+        "pregunta": "Históricamente, ¿dónde se dice que nació por primera vez el concepto \"armas combinadas\"?",
+        "opciones": ["Durante la Segunda Guerra Mundial, en el desembarco de Normandía.", "Durante la Guerra del Yom Kipur, entre Israel y las fuerzas Árabes.", "Durante la Guerra de Vietnam, en operaciones helitransportadas."],
+        "respuesta_correcta": "Durante la Guerra del Yom Kipur, entre Israel y las fuerzas Árabes."
+    },
+    {
+        "pregunta": "¿Cuál es la definición técnica de \"Armas Combinadas\" según el manual?",
+        "opciones": ["El uso secuencial de Infantería de Marina y Artillería para capturar objetivos.", "La aplicación sincronizada o simultanea de varias armas para lograr un efecto mayor que en secuencia.", "La integración de medios logísticos y de combate bajo un mando único."],
+        "respuesta_correcta": "La aplicación sincronizada o simultanea de varias armas para lograr un efecto mayor que en secuencia."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo de \"Armas Combinadas\"?",
+        "opciones": ["Apoyar al elemento de maniobra en su acercamiento con el enemigo y su destrucción.", "Infringir la máxima cantidad de daño y destrucción al enemigo en el menor tiempo posible.", "Lograr la superioridad aérea y terrestre mediante el uso de tecnología CAM."],
+        "respuesta_correcta": "Infringir la máxima cantidad de daño y destrucción al enemigo en el menor tiempo posible."
+    },
+    {
+        "pregunta": "¿Qué es una Brigada de IM (BRIGIM) de tipo regimental?",
+        "opciones": ["Una gran unidad elemental de tipo Brigada Independiente con apoyos orgánicos.", "Una pequeña unidad regimental de tipo Brigada Divisionaria, compuesta por dos o más batallones.", "Una organización temporal aero-marítima bajo un mando de superficie."],
+        "respuesta_correcta": "Una pequeña unidad regimental de tipo Brigada Divisionaria, compuesta por dos o más batallones."
+    },
+    {
+        "pregunta": "¿Qué capacidad distingue a la BRIGAIM de la BRIGIM?",
+        "opciones": ["La capacidad de realizar operaciones de paz en entornos internacionales.", "La capacidad de llevar a cabo operaciones terrestres y anfibias en forma independiente.", "La posesión exclusiva de medios de defensa antiaérea y misiles CAM."],
+        "respuesta_correcta": "La capacidad de llevar a cabo operaciones terrestres y anfibias en forma independiente."
+    },
+    {
+        "pregunta": "¿Qué organización temporal emplea la Armada de México para llevar a cabo operaciones de combate?",
+        "opciones": ["El Equipo Regimental de Desembarco (RIM-D).", "La Fuerza De Tarea (FT).", "El Grupo de Tarea Aeronaval (GTA)."],
+        "respuesta_correcta": "La Fuerza De Tarea (FT)."
+    },
+    {
+        "pregunta": "¿Qué elementos básicos componen una FTAT?",
+        "opciones": ["El MEM, el GTT y el GTA.", "El GTT, el GTS y el Grupo de Servicios.", "El Mando, la Infantería y la Artillería de Campaña."],
+        "respuesta_correcta": "El MEM, el GTT y el GTA."
+    },
+    {
+        "pregunta": "¿Cuál es la tarea principal del Grupo de Tarea Terrestre (GTT)?",
+        "opciones": ["Proporcionar transporte y reconocimiento a los grupos de superficie.", "La captura, neutralización o destrucción de objetivos en tierra.", "Establecer la logística y los servicios de apoyo en la zona de retaguardia."],
+        "respuesta_correcta": "La captura, neutralización o destrucción de objetivos en tierra."
+    },
+    {
+        "pregunta": "¿Cuál es el único medio para ganar una decisión sobre el enemigo?",
+        "opciones": ["La superioridad numérica en el punto decisivo del área de batalla.", "La acción ofensiva, acompañada por fuego, maniobra y acción de choque.", "El establecimiento de una defensa de área en posición de batalla."],
+        "respuesta_correcta": "La acción ofensiva, acompañada por fuego, maniobra y acción de choque."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de la acción ofensiva?",
+        "opciones": ["Mantener el contacto visual con las fuerzas de seguridad enemigas.", "Destruir al enemigo y su deseo de luchar.", "Capturar terreno clave para economizar fuerzas."],
+        "respuesta_correcta": "Destruir al enemigo y su deseo de luchar."
+    },
+    {
+        "pregunta": "¿Cuáles son los cuatro tipos generales de operaciones ofensivas?",
+        "opciones": ["Incursión, Finta, Demostración y Contraataque.", "Movimiento al contacto, Ataque, Explotación y Persecución.", "Ataque improvisado, Deliberado, De desarticulación y Finta."],
+        "respuesta_correcta": "Movimiento al contacto, Ataque, Explotación y Persecución."
+    },
+    {
+        "pregunta": "¿Cómo se define el \"Movimiento al contacto\"?",
+        "opciones": ["Operación diseñada para alcanzar y capturar a una fuerza hostil que escapa.", "Tipo de operación ofensiva conducido para desarrollar la situación y establecer contacto.", "Acción de asalto avasallador para destruir la voluntad del enemigo."],
+        "respuesta_correcta": "Tipo de operación ofensiva conducido para desarrollar la situación y establecer contacto."
+    },
+    {
+        "pregunta": "¿Qué fuerzas organizan normalmente un movimiento al contacto?",
+        "opciones": ["Cuerpo principal, vanguardia, guarda-flancos y fuerzas de retaguardia.", "Esfuerzo principal, esfuerzo de apoyo y reserva operativa.", "Grupo de tarea terrestre y grupo de tarea aeronaval de reconocimiento."],
+        "respuesta_correcta": "Cuerpo principal, vanguardia, guarda-flancos y fuerzas de retaguardia."
+    },
+    {
+        "pregunta": "¿Cuáles son las cuatro principales tareas del ataque?",
+        "opciones": ["Romper la posición, ensanchar el hueco, capturar el objetivo y fijar.", "Evitar contra-acción, maniobrar para ventaja, asalto avasallador y explotar ventajas.", "Concentración, economía de fuerzas, sorpresa y sencillez operativa."],
+        "respuesta_correcta": "Evitar contra-acción, maniobrar para ventaja, asalto avasallador y explotar ventajas."
+    },
+    {
+        "pregunta": "¿Qué tipo de ataque se realiza para engañar al enemigo y forzarlo a comprometer sus reservas?",
+        "opciones": ["Demostración.", "Finta.", "Ataque de desarticulación."],
+        "respuesta_correcta": "Finta."
+    },
+    {
+        "pregunta": "¿Cuál es el principio de la guerra que sirve de fundamento para la aplicación de todos los demás?",
+        "opciones": ["Acción ofensiva.", "Unidad de objetivo y continuidad en la acción.", "Unidad de Mando."],
+        "respuesta_correcta": "Unidad de objetivo y continuidad en la acción."
+    },
+    {
+        "pregunta": "¿Qué significa el principio de \"Concentración y economía de fuerzas\"?",
+        "opciones": ["Emplear todas las armas disponibles en secuencia contra el centro de gravedad.", "Concentrar el poder de combate en lugar/momento decisivos y emplear lo mínimo en otros.", "Mantener una reserva balanceada y un plan sencillo para reducir la confusión."],
+        "respuesta_correcta": "Concentrar el poder de combate en lugar/momento decisivos y emplear lo mínimo en otros."
+    },
+    {
+        "pregunta": "¿Cuál es la definición de \"Maniobra\" según los principios de la guerra?",
+        "opciones": ["El conjunto de medidas para evitar la sorpresa y negar información al enemigo.", "Colocar al enemigo en posición desventajosa mediante aplicación flexible de poder de combate.", "Actuar de la forma menos esperada por el adversario variando métodos y medios."],
+        "respuesta_correcta": "Colocar al enemigo en posición desventajosa mediante aplicación flexible de poder de combate."
+    },
+    {
+        "pregunta": "¿En qué consiste el principio de \"Sencillez\"?",
+        "opciones": ["En que los planes y órdenes sean concisos, directos, claros y fáciles de comprender.", "En amoldarse a las diversas condiciones que la situación impone en el desarrollo naval.", "En articular en tiempo y espacio las acciones de los organismos ejecutantes."],
+        "respuesta_correcta": "En que los planes y órdenes sean concisos, directos, claros y fáciles de comprender."
+    },
+    {
+        "pregunta": "¿Cuál es el primer fundamento de las tácticas ofensivas?",
+        "opciones": ["Desarrollo de la situación.", "Ganar y mantener el contacto.", "Explotación de las debilidades enemigas."],
+        "respuesta_correcta": "Ganar y mantener el contacto."
+    },
+    {
+        "pregunta": "¿Qué implica \"Neutralizar las capacidades de reacción enemigas\" como fundamento ofensivo?",
+        "opciones": ["Capturar terreno clave antes de que el enemigo pueda posicionar sus armas AT.", "Interrumpir o neutralizar capacidades tácticas, de maniobra, apoyo y refuerzo.", "Mantener el momento del ataque hasta que el objetivo sea alcanzado por la reserva."],
+        "respuesta_correcta": "Interrumpir o neutralizar capacidades tácticas, de maniobra, apoyo y refuerzo."
+    },
+    {
+        "pregunta": "¿En cuántas fases se planea y ejecuta generalmente el ataque?",
+        "opciones": ["Dos: Preparatoria y Conducción.", "Tres: Preparatoria, Conducción y Consolidación/Reorganización.", "Cuatro: Movimiento, Ataque, Explotación y Persecución."],
+        "respuesta_correcta": "Tres: Preparatoria, Conducción y Consolidación/Reorganización."
+    },
+    {
+        "pregunta": "En la fase preparatoria, ¿cuándo se considera que el contacto es \"Probable\"?",
+        "opciones": ["Cuando la probabilidad es leve y las consideraciones administrativas pesan más.", "Cuando la probabilidad causa despliegue de la unidad y rigen consideraciones tácticas.", "Cuando la unidad debe estar lista para un empleo táctico de importancia inminente."],
+        "respuesta_correcta": "Cuando la probabilidad causa despliegue de la unidad y rigen consideraciones tácticas."
+    },
+    {
+        "pregunta": "¿Qué comprende la etapa de \"Consolidación\"?",
+        "opciones": ["La redistribución del personal y la evacuación de bajas del área de batalla.", "Medidas para organizar y fortalecer una posición capturada contra contra-ataques.", "Restaurar el orden en la unidad y recuperar el control de las comunicaciones."],
+        "respuesta_correcta": "Medidas para organizar y fortalecer una posición capturada contra contra-ataques."
+    },
+    {
+        "pregunta": "¿Cuál es la forma de maniobra ofensiva menos preferida?",
+        "opciones": ["Envolvimiento.", "Ataque frontal.", "Infiltración."],
+        "respuesta_correcta": "Ataque frontal."
+    },
+    {
+        "pregunta": "¿Qué caracteriza al \"Envolvimiento\"?",
+        "opciones": ["Pasar alrededor o sobre la posición enemiga para atacar desde la retaguardia.", "Quebrar la defensa enemiga en un frente angosto para romper su sistema.", "Moverse encubiertamente a través de brechas en el sistema defensivo enemigo."],
+        "respuesta_correcta": "Pasar alrededor o sobre la posición enemiga para atacar desde la retaguardia."
+    },
+    {
+        "pregunta": "¿En qué difiere un \"Movimiento de rodeo\" de un \"Envolvimiento\"?",
+        "opciones": ["En que el rodeo busca la destrucción física y el envolvimiento solo el engaño.", "En que la fuerza de rodeo opera a tal distancia que el apoyo mutuo no es posible.", "En que el rodeo solo lo realizan unidades de talla menor al batallón."],
+        "respuesta_correcta": "En que la fuerza de rodeo opera a tal distancia que el apoyo mutuo no es posible."
+    },
+    {
+        "pregunta": "¿Cuáles son las tres etapas de la \"Penetración\"?",
+        "opciones": ["Preparar, conducir y consolidar.", "Ruptura de la posición, ensanchamiento del hueco y captura del objetivo.", "Observar, identificar y reportar información de retaguardia."],
+        "respuesta_correcta": "Ruptura de la posición, ensanchamiento del hueco y captura del objetivo."
+    },
+    {
+        "pregunta": "¿Qué es la \"Situación Táctica\"?",
+        "opciones": ["El plan del comandante para el empleo de unidades orgánicas.", "La actitud que guarda una tropa respecto al enemigo.", "La organización temporal de una FTAT para el combate."],
+        "respuesta_correcta": "La actitud que guarda una tropa respecto al enemigo."
+    },
+    {
+        "pregunta": "¿Cuáles son los tres grupos de situaciones tácticas?",
+        "opciones": ["Ofensiva, Defensiva y Retrograda.", "Desplazamiento, Estacionamiento y Combate.", "Marchas, Transportes y Acantonamientos."],
+        "respuesta_correcta": "Desplazamiento, Estacionamiento y Combate."
+    },
+    {
+        "pregunta": "¿Qué factores analiza la estimación de la situación (METT-TL)?",
+        "opciones": ["Misión, Enemigo, Terreno/Meteorología, Tropas/Apoyo, Tiempo/Espacio y Logística.", "Maniobra, Economía de fuerzas, Táctica, Tiempo y Localización.", "Medios, Esfuerzo, Talla, Unidad y Tiempo de ejecución."],
+        "respuesta_correcta": "Misión, Enemigo, Terreno/Meteorología, Tropas/Apoyo, Tiempo/Espacio y Logística."
+    },
+    {
+        "pregunta": "En la distribución de fuerzas, ¿cuál es la misión de un \"Esfuerzo de Apoyo\" (EA)?",
+        "opciones": ["Asegurar el cumplimiento de la misión mediante la mayor movilidad disponible.", "Facilitar la misión del esfuerzo principal operando simultáneamente.", "Constituirse como la fuerza decisiva para explotar el éxito o bloquear contra-ataques."],
+        "respuesta_correcta": "Facilitar la misión del esfuerzo principal operando simultáneamente."
+    },
+    {
+        "pregunta": "¿Qué agencia coordina el fuego de apoyo que soporta el esquema de maniobras de la BRIGIM?",
+        "opciones": ["El COC (Centro de Operaciones de Combate).", "El CCFA (Centro Coordinador de Fuegos de Apoyo).", "El DCAT (Destacamento de Control Aerotáctico)."],
+        "respuesta_correcta": "El CCFA (Centro Coordinador de Fuegos de Apoyo)."
+    },
+    {
+        "pregunta": "¿Quién desempeña normalmente las funciones de Coordinador de Fuegos de Apoyo (CFA) en la Brigada?",
+        "opciones": ["El Comandante del batallón de artillería de la BRIGIM.", "El S-3 de la Brigada auxiliado por el equipo de enlace de morteros.", "El Comandante de la unidad aeronaval de ala fija asignada."],
+        "respuesta_correcta": "El Comandante del batallón de artillería de la BRIGIM."
+    },
+    {
+        "pregunta": "¿Qué tipo de fuegos se ejecutan a un determinado horario?",
+        "opciones": ["Fuegos a solicitud.", "Fuegos programados.", "Fuegos inmediatos."],
+        "respuesta_correcta": "Fuegos programados."
+    },
+    {
+        "pregunta": "¿Qué sistema de morteros es normalmente orgánico de los batallones de IM?",
+        "opciones": ["Morteros de 120 mm.", "Morteros de 81 mm.", "Morteros de 60 mm de largo alcance."],
+        "respuesta_correcta": "Morteros de 81 mm."
+    },
+    {
+        "pregunta": "¿Qué indicador guía al comandante para emplear la reserva en la ofensiva?",
+        "opciones": ["Captura o deserción de oficiales enemigos de alto rango.", "Establecimiento de una línea de protección final (FPF) por el enemigo.", "Incremento de la precisión del fuego indirecto enemigo sobre el área de seguridad."],
+        "respuesta_correcta": "Captura o deserción de oficiales enemigos de alto rango."
+    },
+    {
+        "pregunta": "¿Cuál es la primera misión de la reserva?",
+        "opciones": ["Proteger las instalaciones de logística en el área de retaguardia.", "Entrar en acción en lugar/momento adecuados para completar misión o explotar éxito.", "Reemplazar a las fuerzas de seguridad en el límite delantero del área de batalla."],
+        "respuesta_correcta": "Entrar en acción en lugar/momento adecuados para completar misión o explotar éxito."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito de la acción defensiva?",
+        "opciones": ["Arrebatar la iniciativa mediante el uso de fintas y demostraciones.", "Retener terreno, ganar tiempo, crear condiciones para ofensiva o economizar fuerzas.", "Destruir las fuerzas de vanguardia enemigas antes de que toquen la playa."],
+        "respuesta_correcta": "Retener terreno, ganar tiempo, crear condiciones para ofensiva o economizar fuerzas."
+    },
+    {
+        "pregunta": "¿Qué caracteriza a las operaciones defensivas?",
+        "opciones": ["El movimiento constante para evitar el contacto físico con el cuerpo principal enemigo.", "Concentración de poder de combate en el lugar y momento decisivos.", "El uso exclusivo de fuerzas helitransportadas para ataques de desarticulación."],
+        "respuesta_correcta": "Concentración de poder de combate en el lugar y momento decisivos."
+    },
+    {
+        "pregunta": "¿Qué tipo de defensa solo pueden llevar a cabo unidades de talla de división y mayores?",
+        "opciones": ["Defensa de área.", "Defensa móvil.", "Defensa de sector."],
+        "respuesta_correcta": "Defensa móvil."
+    },
+    {
+        "pregunta": "En la organización defensiva del Espacio de Batalla, ¿qué área se organiza para que ocurra la acción decisiva?",
+        "opciones": ["Área de Seguridad.", "Área de Batalla Principal.", "Área de Retaguardia."],
+        "respuesta_correcta": "Área de Batalla Principal."
+    },
+    {
+        "pregunta": "¿Qué fuerza opera normalmente en el Área de Seguridad?",
+        "opciones": ["Fuerzas móviles con el propósito de observar, proteger y dar seguridad.", "El grueso de las fuerzas de infantería mecanizada y artillería.", "Las instalaciones de logística y los servicios de apoyo al combate."],
+        "respuesta_correcta": "Fuerzas móviles con el propósito de observar, proteger y dar seguridad."
+    },
+    {
+        "pregunta": "¿Cuál es el \"Paso 1\" en el planeamiento defensivo de la Brigada?",
+        "opciones": ["Determinar áreas de enfrentamiento.", "Determinar avenidas de aproximación.", "Posicionar la infantería y armas colectivas."],
+        "respuesta_correcta": "Determinar avenidas de aproximación."
+    },
+    {
+        "pregunta": "¿Qué son los \"Fuegos de Protección Final\" (FPF)?",
+        "opciones": ["Ataques aéreos de ala fija sobre blancos de alta prioridad en la retaguardia.", "Barrera de fuego preplaneada para impedir movimiento enemigo a través de líneas defensivas.", "Fuegos de artillería empleados únicamente durante la fase preparatoria del ataque."],
+        "respuesta_correcta": "Barrera de fuego preplaneada para impedir movimiento enemigo a través de líneas defensivas."
+    },
+    {
+        "pregunta": "¿Qué función tiene la \"Línea Coordinada de Fuegos de Apoyo\" (LCFA)?",
+        "opciones": ["Delimitar el área donde los tanques pueden disparar sin apoyo de infantería.", "Permitir que unidades ataquen blancos delante de la línea sin previa coordinación terrestre.", "Establecer el límite de avance de las patrullas de reconocimiento en el área de seguridad."],
+        "respuesta_correcta": "Permitir que unidades ataquen blancos delante de la línea sin previa coordinación terrestre."
+    },
+    {
+        "pregunta": "¿Qué técnica de defensa de área se asigna normalmente a unidades de nivel compañía y mayores?",
+        "opciones": ["Defensa en posición de batalla.", "Defensa de sector.", "Defensa de punto fortificado."],
+        "respuesta_correcta": "Defensa de sector."
+    },
+    {
+        "pregunta": "En la defensa, ¿qué se busca al \"Economizar fuerzas\"?",
+        "opciones": ["Reducir el gasto de munición especial como humo e iluminación.", "Permitir la concentración de fuerzas en otro lugar.", "Evitar el uso de la reserva durante el contacto inicial en el área de seguridad."],
+        "respuesta_correcta": "Permitir la concentración de fuerzas en otro lugar."
+    },
+    {
+        "pregunta": "¿Qué es una Operación Retrograda?",
+        "opciones": ["Un asalto helitransportado sobre el flanco expuesto del enemigo.", "Un movimiento hacia retaguardia o lejos del enemigo.", "Una incursión nocturna para capturar prisioneros de alto rango."],
+        "respuesta_correcta": "Un movimiento hacia retaguardia o lejos del enemigo."
+    },
+    {
+        "pregunta": "¿Cuáles son los tres tipos de operaciones retrogradas?",
+        "opciones": ["Pantalla, Guardia y Cobertura.", "Retirada, retiro y Acción retardatriz.", "Ruptura, Apertura y Fijación."],
+        "respuesta_correcta": "Retirada, retiro y Acción retardatriz."
+    },
+    {
+        "pregunta": "¿Cuál es la diferencia entre \"Retirada\" y \"Retiro/Repliegue\"?",
+        "opciones": ["La retirada es bajo presión del enemigo; el retiro es de una fuerza que no está en contacto.", "La retirada es forzada por el mando superior; el retiro es una decisión del comandante local.", "No hay diferencia; ambos términos se refieren a la pérdida de terreno clave."],
+        "respuesta_correcta": "La retirada es bajo presión del enemigo; el retiro es de una fuerza que no está en contacto."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo de una \"Acción Retardatriz\"?",
+        "opciones": ["Abandonar el área de batalla sin que el enemigo se percate.", "Ceder espacio para ganar tiempo infringiendo daño sin comprometerse decisivamente.", "Fijar al enemigo mediante obstáculos protectivos para lanzar un contraataque frontal."],
+        "respuesta_correcta": "Ceder espacio para ganar tiempo infringiendo daño sin comprometerse decisivamente."
+    },
+    {
+        "pregunta": "¿Qué categoría de fuerza de seguridad tiene como tarea observar y reportar, pero solo combate para protegerse?",
+        "opciones": ["Fuerza de Protección (Guard).", "Fuerza de Alerta Temprana (Screening).", "Fuerza de Cobertura (Cover)."],
+        "respuesta_correcta": "Fuerza de Alerta Temprana (Screening)."
+    },
+    {
+        "pregunta": "¿Qué caracteriza a una \"Fuerza de Cobertura\" (Cover)?",
+        "opciones": ["Opera separada del cuerpo principal para interceptar, enfrentar y retardar al enemigo.", "Se compone exclusivamente de equipos sniper asignados a las compañías de fusileros.", "Su misión principal es la evacuación de bajas y el reabastecimiento en el área de seguridad."],
+        "respuesta_correcta": "Opera separada del cuerpo principal para interceptar, enfrentar y retardar al enemigo."
+    },
+    {
+        "pregunta": "¿Qué es un \"Relevo en posición\"?",
+        "opciones": ["El paso de una unidad a través de la posición de otra para entrar en contacto.", "Operación en la cual una unidad es reemplazada en un área por otra que llega.", "El cambio de un comandante de batallón durante la conducción del ataque."],
+        "respuesta_correcta": "Operación en la cual una unidad es reemplazada en un área por otra que llega."
+    },
+    {
+        "pregunta": "En un \"Pasaje de líneas\", ¿cómo se denomina a la fuerza que se queda?",
+        "opciones": ["Fuerza Móvil.", "Fuerza Estacionaria.", "Fuerza de Cabeza de Puente."],
+        "respuesta_correcta": "Fuerza Estacionaria."
+    },
+    {
+        "pregunta": "¿Qué es el \"Traspaso de Batalla\" (BHO)?",
+        "opciones": ["El punto o línea donde cambia la responsabilidad entre fuerza estacionaria y móvil.", "El momento en que la reserva asume la misión del esfuerzo principal.", "La entrega de los planes de fuego del CFA al comandante del GTT."],
+        "respuesta_correcta": "El punto o línea donde cambia la responsabilidad entre fuerza estacionaria y móvil."
+    },
+    {
+        "pregunta": "¿Cómo se define un \"Cerco\"?",
+        "opciones": ["La pérdida de libertad de maniobra por control enemigo de rutas de egreso o refuerzo.", "Una formación de defensa en todas direcciones empleando obstáculos tácticos.", "El aislamiento de un objetivo urbano mediante el uso de artillería de 155 mm."],
+        "respuesta_correcta": "La pérdida de libertad de maniobra por control enemigo de rutas de egreso o refuerzo."
+    },
+    {
+        "pregunta": "¿Qué se logra a través de la planificación del Fuego de Apoyo?",
+        "opciones": ["La economía de fuerzas en el área de retaguardia.", "Armas Combinadas.", "La neutralización de las avenidas de aproximación desmontadas."],
+        "respuesta_correcta": "Armas Combinadas."
+    },
+    {
+        "pregunta": "En el ejemplo de Armas Combinadas, ¿qué anillo de amenaza forman los BMP-2 con AT-5?",
+        "opciones": ["1000 metros.", "4000 metros.", "1700 metros."],
+        "respuesta_correcta": "4000 metros."
+    },
+    {
+        "pregunta": "¿Cuál es el \"Paso 2\" en la ejecución de armas combinadas según el ejemplo?",
+        "opciones": ["Ejecutar el asalto desmontado.", "Conducir la evaluación de riesgo de fratricidio.", "Establecer la posición de apoyo por fuego final."],
+        "respuesta_correcta": "Conducir la evaluación de riesgo de fratricidio."
+    },
+    {
+        "pregunta": "¿Qué distancia mínima de seguridad (MDS) en ejercicios se usa para bombas MK82 de 500 lb?",
+        "opciones": ["400 m.", "1300 m.", "1000 m."],
+        "respuesta_correcta": "1300 m."
+    },
+    {
+        "pregunta": "¿Qué MDS de combate (riesgo .10) se acepta para artillería de 155 mm HE?",
+        "opciones": ["175-275 m.", "85-90 m.", "60-65 m."],
+        "respuesta_correcta": "85-90 m."
+    },
+    {
+        "pregunta": "¿Qué MDS en ejercicios se usa para morteros de 81 mm HE?",
+        "opciones": ["250 m.", "400 m.", "100 m."],
+        "respuesta_correcta": "400 m."
+    },
+    {
+        "pregunta": "En el \"Paso 6\" del ejemplo, ¿cuándo cesa el fuego de morteros?",
+        "opciones": ["Cuando la infantería alcanza el anillo de los 1000 m.", "Cuando la infantería alcanza el anillo de los 400 m.", "Cuando los tanques inician el fuego de ametralladora cal .50."],
+        "respuesta_correcta": "Cuando la infantería alcanza el anillo de los 400 m."
+    },
+    {
+        "pregunta": "¿Qué sucede cuando los VAA se mueven hasta los 50 m de los impactos de ametralladora coaxial 7.62 de los tanques?",
+        "opciones": ["Los tanques inician el fuego de cañón principal sobre el objetivo.", "Los tanques transportan o cesan el fuego.", "El jefe del EFA solicita fuego de apoyo aéreo cercano de ala fija."],
+        "respuesta_correcta": "Los tanques transportan o cesan el fuego."
+    },
+    {
+        "pregunta": "¿Cuál es la lección aprendida del ejemplo de armas combinadas?",
+        "opciones": ["Que la infantería debe asaltar siempre sin apoyo de fuego para evitar el fratricidio.", "El fuego de apoyo cercano enviado junto con la maniobra evita la ruptura del asalto.", "La artillería es el único medio capaz de destruir fortificaciones en un cerco."],
+        "respuesta_correcta": "El fuego de apoyo cercano enviado junto con la maniobra evita la ruptura del asalto."
+    },
+    {
+        "pregunta": "¿Quién decide el nivel de riesgo de fratricidio que se acepta en el cumplimiento de la misión?",
+        "opciones": ["El Coordinador de Fuegos de Apoyo (CFA).", "El Comandante.", "El Oficial de Seguridad del Campo de Tiro."],
+        "respuesta_correcta": "El Comandante."
+    },
+    {
+        "pregunta": "¿Qué significa el acrónimo \"CDAE\"?",
+        "opciones": ["Control de Daños en el Área de Estacionamiento.", "Contención de Defensas Aéreas Enemigas.", "Centro de Despliegue de Artillería Especializada."],
+        "respuesta_correcta": "Contención de Defensas Aéreas Enemigas."
+    },
+    {
+        "pregunta": "¿Qué significa \"CCFA\"?",
+        "opciones": ["Comando Conjunto de Fuerzas Aeronavales.", "Centro Coordinador de Fuegos de Apoyo.", "Cuartel de Combate de la Fuerza Anfibia."],
+        "respuesta_correcta": "Centro Coordinador de Fuegos de Apoyo."
+    },
+    {
+        "pregunta": "¿Qué significa \"MCFAS\"?",
+        "opciones": ["Misión de Combate para Fuerzas de Apoyo y Servicios.", "Medidas de Coordinación de Fuego de Apoyo.", "Manual de Combate para la Fuerza Aeroterrestre de Superficie."],
+        "respuesta_correcta": "Medidas de Coordinación de Fuego de Apoyo."
+    },
+    {
+        "pregunta": "¿Qué significa \"TALUTE\"?",
+        "opciones": ["Táctica de Asalto Liniar para Unidades de Tanques del Enemigo.", "Características del enemigo (Talla, Actividad, Localización, Unidad, Tiempo, Equipo).", "Técnica de Apoyo Logístico Uniforme para Tropas en Entrenamiento."],
+        "respuesta_correcta": "Características del enemigo (Talla, Actividad, Localización, Unidad, Tiempo, Equipo)."
+    },
+    {
+        "pregunta": "¿Qué significa el símbolo \"(-)\" después del nombre de una unidad?",
+        "opciones": ["Que la unidad ha sido reforzada con medios externos.", "Disminuido / sin una o más de sus sub-unidades.", "Que la unidad se encuentra en situación de estacionamiento bajo techo."],
+        "respuesta_correcta": "Disminuido / sin una o más de sus sub-unidades."
+    },
+    {
+        "pregunta": "¿Qué significa \"FPF\"?",
+        "opciones": ["Fuego de Preparación Final.", "Fuegos de Protección Final.", "Fuerza de Penetración de Flanco."],
+        "respuesta_correcta": "Fuegos de Protección Final."
+    },
+    {
+        "pregunta": "¿Qué significa \"OA Art.\"?",
+        "opciones": ["Oficial de Armamento de Artillería.", "Observador Avanzado de Artillería.", "Orden de Ataque de Artillería."],
+        "respuesta_correcta": "Observador Avanzado de Artillería."
+    },
+    {
+        "pregunta": "¿Qué significa \"VAA\"?",
+        "opciones": ["Vehículo de Apoyo Aéreo.", "Vehículo de Asalto Anfibio.", "Vanguardia de Alerta Avanzada."],
+        "respuesta_correcta": "Vehículo de Asalto Anfibio."
+    },
+    {
+        "pregunta": "¿Qué significa \"APF\"?",
+        "opciones": ["Área de Persecución de Flanco.", "Apoyo Por Fuego.", "Artillería de Preparación Frontal."],
+        "respuesta_correcta": "Apoyo Por Fuego."
+    },
+    {
+        "pregunta": "¿Qué significa \"AE\"?",
+        "opciones": ["Alerta Estructural.", "Área de Enfrentamiento.", "Escalón de Asalto."],
+        "respuesta_correcta": "Área de Enfrentamiento."
+    },
+    {
+        "pregunta": "¿Qué consideración es clave para la \"Efectiva Combinación de Armas\"?",
+        "opciones": ["El uso de munición de humo e iluminación en todas las fases.", "Las distancias de Ordenanza mínimas de seguridad / Riesgos de Fratricidio.", "La asignación de un batallón de comandos para la captura de puentes."],
+        "respuesta_correcta": "Las distancias de Ordenanza mínimas de seguridad / Riesgos de Fratricidio."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del \"Plan de fuego de Armas Combinadas\"?",
+        "opciones": ["Establecer las prioridades de reabastecimiento de la artillería.", "Apoyar al elemento de maniobra en su acercamiento con el enemigo y su destrucción.", "Coordinar los aterrizajes de la FTA en la playa de desembarco."],
+        "respuesta_correcta": "Apoyar al elemento de maniobra en su acercamiento con el enemigo y su destrucción."
+    },
+    {
+        "pregunta": "En la defensa, ¿qué paso sigue a \"Posicionar la Infantería\"?",
+        "opciones": ["Integrar el Comando, Control, Comunicaciones e Inteligencia.", "Integrar el Plan de Fuego de Apoyo.", "Determinar áreas de enfrentamiento desmontado."],
+        "respuesta_correcta": "Integrar el Plan de Fuego de Apoyo."
+    },
+    {
+        "pregunta": "¿Cuál es la misión de un \"EqFA\" (Equipo de Fuego de Apoyo)?",
+        "opciones": ["Operar los morteros de 120 mm desde la zona de retaguardia.", "Solicitar y reglar el fuego de los morteros en las compañías de maniobra.", "Coordinar el aterrizaje de los helicópteros en la zona de extracción (ZE)."],
+        "respuesta_correcta": "Solicitar y reglar el fuego de los morteros en las compañías de maniobra."
+    },
+    {
+        "pregunta": "¿Qué es el \"Acantoamiento\"?",
+        "opciones": ["Estacionamiento bajo tiendas de campaña o barracas.", "Estacionamiento en poblado y bajo techo.", "Estacionamiento a campo raso utilizando medios orgánicos."],
+        "respuesta_correcta": "Estacionamiento en poblado y bajo techo."
+    },
+    {
+        "pregunta": "¿Qué diferencia a la \"Finta\" de la \"Demostración\"?",
+        "opciones": ["La finta implica contacto físico con el enemigo; la demostración no.", "La finta es un ataque aéreo; la demostración es terrestre.", "La finta solo la realiza la reserva; la demostración el esfuerzo principal."],
+        "respuesta_correcta": "La finta implica contacto físico con el enemigo; la demostración no."
+    },
+    {
+        "pregunta": "¿Qué operación ofensiva sigue usualmente a un ataque exitoso para desorganizar al enemigo en profundidad?",
+        "opciones": ["Persecución.", "Explotación.", "Movimiento al contacto."],
+        "respuesta_correcta": "Explotación."
+    },
+    {
+        "pregunta": "¿Qué principio de la guerra consiste en actuar de la forma menos esperada negando información o engañando?",
+        "opciones": ["Seguridad.", "Sorpresa.", "Maniobra."],
+        "respuesta_correcta": "Sorpresa."
+    },
+    {
+        "pregunta": "¿Qué es la \"Vulnerabilidad Crítica\" (CV)?",
+        "opciones": ["El centro de gravedad del enemigo que debe ser destruido en el nivel estratégico.", "Una deficiencia en las fuerzas amigas que el enemigo puede explotar.", "Concepto no definido explícitamente en el texto, pero mencionado como camino al Centro de Gravedad."],
+        "respuesta_correcta": "Concepto no definido explícitamente en el texto, pero mencionado como camino al Centro de Gravedad."
+    },
+    {
+        "pregunta": "¿Cómo se organizan las unidades en un \"Contacto Inminente\"?",
+        "opciones": ["En formaciones administrativas de marcha rápida.", "Completamente desplegados en sus formaciones de combate.", "Tácticamente agrupadas pero no completamente desplegadas."],
+        "respuesta_correcta": "Completamente desplegados en sus formaciones de combate."
+    },
+    {
+        "pregunta": "¿Qué es la \"Acción de choque\"?",
+        "opciones": ["El impacto psicológico de la artillería de 155 mm.", "Factor que junto con fuego y maniobra permite ganar la decisión sobre el enemigo.", "La contención de la defensa antiaérea mediante el uso de aeronaves de ala fija."],
+        "respuesta_correcta": "Factor que junto con fuego y maniobra permite ganar la decisión sobre el enemigo."
+    },
+    {
+        "pregunta": "¿Qué tipo de defensa de área se puede emplear en casi todos los niveles de pequeñas unidades?",
+        "opciones": ["Defensa de sector.", "Defensa en posición.", "Defensa móvil coordinada."],
+        "respuesta_correcta": "Defensa en posición."
+    },
+    {
+        "pregunta": "¿Cuál es la prioridad de trabajo en la defensa según el manual?",
+        "opciones": ["Reabastecer, descansar y entrenar.", "Preparar posiciones, colocar obstáculos, camuflar y ensayar.", "Establecer contacto visual con el oficial de enlace de la FTA."],
+        "respuesta_correcta": "Preparar posiciones, colocar obstáculos, camuflar y ensayar."
+    },
+    {
+        "pregunta": "¿Qué es un \"Brecheo\"?",
+        "opciones": ["Una operación para cruzar un obstáculo de agua de forma controlada.", "Operación táctica para romper a través de defensa, obstáculos o minas.", "El paso de la reserva a través del esfuerzo principal comprometido."],
+        "respuesta_correcta": "Operación táctica para romper a través de defensa, obstáculos o minas."
+    },
+    {
+        "pregunta": "¿Qué fuerza se dedica a la seguridad de la \"Cabeza de Puente\"?",
+        "opciones": ["Una fuerza de brecheo integrada por ingenieros.", "Una fuerza dedicada específicamente durante el cruce de un río.", "La vanguardia de la fuerza de tarea aeroterrestre."],
+        "respuesta_correcta": "Una fuerza dedicada específicamente durante el cruce de un río."
+    },
+    {
+        "pregunta": "En el nivel compañía de fusileros, ¿cómo se dan las operaciones de seguridad?",
+        "opciones": ["Con vehículos blindados ligeros de reconocimiento.", "Con patrullas de nivel pelotón.", "Con equipos combinados anti-blindados (ECAB)."],
+        "respuesta_correcta": "Con patrullas de nivel pelotón."
+    },
+    {
+        "pregunta": "¿Qué compone un \"ECAB\"?",
+        "opciones": ["Dos secciones de infantería y una de tanques agregada.", "4 vehículos todo terreno con ametralladoras y armas anti-tanque.", "Una batería de artillería de 105 mm y un equipo de espoteo naval."],
+        "respuesta_correcta": "4 vehículos todo terreno con ametralladoras y armas anti-tanque."
+    },
+    {
+        "pregunta": "¿Cuál es el propósito del plan de fuegos en el área de retaguardia?",
+        "opciones": ["Destruir las fuerzas de reconocimiento enemigas en el área de seguridad.", "Proteger las instalaciones de logística y servicios de apoyo.", "Facilitar la persecución del enemigo más allá del objetivo final."],
+        "respuesta_correcta": "Proteger las instalaciones de logística y servicios de apoyo."
+    },
+    {
+        "pregunta": "¿Qué debe saber el Ingeniero de Combate para su empleo táctico?",
+        "opciones": ["El nombre del Coordinador de Fuegos de Apoyo.", "Cuál es su prioridad de trabajo y de cuánto tiempo dispone.", "La ubicación exacta de la línea avanzada de tropas enemigas."],
+        "respuesta_correcta": "Cuál es su prioridad de trabajo y de cuánto tiempo dispone."
+    },
+    {
+        "pregunta": "¿Cuál es la misión de la infantería en la defensa?",
+        "opciones": ["Abandonar las posiciones ante el contacto inminente del cuerpo principal enemigo.", "Detener con fuego al enemigo mientras se aproxima y repeler su asalto.", "Realizar operaciones retrogradas de repliegue hacia la zona de aterrizaje."],
+        "respuesta_correcta": "Detener con fuego al enemigo mientras se aproxima y repeler su asalto."
+    }
+]

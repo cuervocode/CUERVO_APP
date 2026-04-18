@@ -1,0 +1,502 @@
+[
+    {
+        "pregunta": "¿Según Clausewitz, cómo se define la guerra?",
+        "opciones": ["Un uso de la fuerza armada contra otro país más débil para dirimir diferencias.", "Un acto de fuerza para obligar al contrario al cumplimiento de nuestra voluntad.", "Una condición de confrontación armada entre dos países que rige la concepción militar."],
+        "respuesta_correcta": "Un acto de fuerza para obligar al contrario al cumplimiento de nuestra voluntad."
+    },
+    {
+        "pregunta": "¿Cuál es el límite que divide la Zona del Interior (ZI) de la Zona de Operaciones (ZO)?",
+        "opciones": ["Área Objetivo (AO).", "Área Táctica de Responsabilidad (ATR).", "Línea de Demarcación (LD)."],
+        "respuesta_correcta": "Línea de Demarcación (LD)."
+    },
+    {
+        "pregunta": "¿Qué zona contempla todas las actividades políticas, civiles y comerciales que contribuyen al esfuerzo de guerra mediante la explotación de los instrumentos del poder nacional (DIME)?",
+        "opciones": ["Zona de Operaciones (ZO).", "Zona del Interior (ZI).", "Teatro de Guerra (TOW)."],
+        "respuesta_correcta": "Zona del Interior (ZI)."
+    },
+    {
+        "pregunta": "¿Quién designa a los comandantes de los Teatros de Operaciones (TO) a propuesta del Alto Mando?",
+        "opciones": ["El Jefe del Estado Mayor Conjunto (CJCS).", "El Secretario de Marina.", "El Mando Supremo."],
+        "respuesta_correcta": "El Mando Supremo."
+    },
+    {
+        "pregunta": "¿Cómo se denomina a la Fuerza de Tarea Componente de la Armada dentro de un Teatro de Operaciones?",
+        "opciones": ["Unidad Marítima de Teatro.", "Fuerza de Tarea Anfibia.", "Grupo de Tarea de Superficie."],
+        "respuesta_correcta": "Unidad Marítima de Teatro."
+    },
+    {
+        "pregunta": "¿Qué estilo de guerra busca la victoria por medio de causar al enemigo la pérdida de personal y material hasta que se rinda?",
+        "opciones": ["Guerra de Maniobras.", "Guerra de Desgaste.", "Guerra de Movimiento."],
+        "respuesta_correcta": "Guerra de Desgaste."
+    },
+    {
+        "pregunta": "¿Qué tipo de guerra emplea a las unidades regulares de sus fuerzas armadas terrestres, aéreas, de superficie y del ciberespacio?",
+        "opciones": ["Guerra Irregular.", "Guerra Híbrida.", "Guerra Regular."],
+        "respuesta_correcta": "Guerra Regular."
+    },
+    {
+        "pregunta": "¿Quién ejerce el Nivel Político de la conducción de la guerra?",
+        "opciones": ["El Alto Mando de la Armada.", "El Presidente de la República.", "El Jefe del Estado Mayor Conjunto."],
+        "respuesta_correcta": "El Presidente de la República."
+    },
+    {
+        "pregunta": "¿Qué nivel de conducción enlaza el empleo táctico de las fuerzas a los objetivos estratégicos militares y nacionales?",
+        "opciones": ["Nivel Estratégico.", "Nivel Operacional.", "Nivel Táctico."],
+        "respuesta_correcta": "Nivel Operacional."
+    },
+    {
+        "pregunta": "¿Cómo se define el Nivel Táctico?",
+        "opciones": ["El uso de resultados tácticos para lograr objetivos estratégicos.", "El arte de ganar guerras y asegurar la paz.", "El nivel más bajo de conducción de la guerra, prácticamente la aplicación de la táctica."],
+        "respuesta_correcta": "El nivel más bajo de conducción de la guerra, prácticamente la aplicación de la táctica."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo final de la guerra según la doctrina?",
+        "opciones": ["La destrucción de las vulnerabilidades críticas del enemigo.", "Derrotar a las fuerzas enemigas y su voluntad de combatir.", "La captura de centros de gravedad estratégicos."],
+        "respuesta_correcta": "Derrotar a las fuerzas enemigas y su voluntad de combatir."
+    },
+    {
+        "pregunta": "¿A qué principio de la guerra corresponde la definición \"arrebatar, retener y explotar la iniciativa\"?",
+        "opciones": ["Maniobra.", "Sorpresa.", "Ofensiva."],
+        "respuesta_correcta": "Ofensiva."
+    },
+    {
+        "pregunta": "¿Qué principio de la guerra significa concentrar los efectos del poder de combate en el lugar y momento decisivos?",
+        "opciones": ["Economía de Fuerza.", "Concentración.", "Masa."],
+        "respuesta_correcta": "Concentración."
+    },
+    {
+        "pregunta": "¿Qué principio busca colocar al enemigo en una posición desventajosa por medio de la aplicación flexible de poder de combate?",
+        "opciones": ["Sorpresa.", "Maniobra.", "Simplicidad."],
+        "respuesta_correcta": "Maniobra."
+    },
+    {
+        "pregunta": "¿Qué principio de la guerra se aplica principalmente a los planes y órdenes para reducir el riesgo de mal entendimiento?",
+        "opciones": ["Unidad de Mando.", "Coordinación.", "Simplicidad."],
+        "respuesta_correcta": "Simplicidad."
+    },
+    {
+        "pregunta": "¿Qué principio asegura la unidad de esfuerzo para cada objetivo a través de la designación de un comandante único responsable?",
+        "opciones": ["Coordinación y Cooperación.", "Unidad de Mando.", "Esfuerzo Principal."],
+        "respuesta_correcta": "Unidad de Mando."
+    },
+    {
+        "pregunta": "¿Qué principio significa atacar al enemigo en el lugar, momento o forma en que menos lo espere?",
+        "opciones": ["Ofensiva.", "Flexibilidad.", "Sorpresa."],
+        "respuesta_correcta": "Sorpresa."
+    },
+    {
+        "pregunta": "¿Cómo se describe la \"Intención del Mando\"?",
+        "opciones": ["La aplicación sincronizada de varias armas.", "La expresión personal del comandante del propósito de la operación.", "El método para atacar el centro de gravedad enemigo."],
+        "respuesta_correcta": "La expresión personal del comandante del propósito de la operación."
+    },
+    {
+        "pregunta": "¿Qué son el Centro de Gravedad (COG)?",
+        "opciones": ["Rutas para atacar una capacidad crítica enemiga.", "Puntos de mira para la aplicación de fortalezas propias.", "Características, capacidades o ubicaciones desde las cuales una fuerza deriva su libertad de acción."],
+        "respuesta_correcta": "Características, capacidades o ubicaciones desde las cuales una fuerza deriva su libertad de acción."
+    },
+    {
+        "pregunta": "¿Qué control ejerce un mando sobre todas las unidades operativas/tácticas de su área de responsabilidad para el desarrollo de operaciones?",
+        "opciones": ["Control Táctico (TACON).", "Control Operacional (OPCON).", "Control Administrativo (ADCON)."],
+        "respuesta_correcta": "Control Operacional (OPCON)."
+    },
+    {
+        "pregunta": "¿Qué autoridad de mando se enfoca en la dirección y control de movimientos y maniobras para el logro de una misión?",
+        "opciones": ["Control Operacional (OPCON).", "Control Administrativo (ADCON).", "Control Táctico (TACON)."],
+        "respuesta_correcta": "Control Táctico (TACON)."
+    },
+    {
+        "pregunta": "¿Cuál es el control que ejerce un mando para efectos administrativos y logísticos?",
+        "opciones": ["Control de Mando.", "Control Administrativo (ADCON).", "Apoyo General."],
+        "respuesta_correcta": "Control Administrativo (ADCON)."
+    },
+    {
+        "pregunta": "¿Qué mando proporciona al mando en apoyo qué tipo de apoyo requiere, cuándo y dónde?",
+        "opciones": ["Mando en apoyo.", "Mando apoyado.", "Mando coordinador."],
+        "respuesta_correcta": "Mando apoyado."
+    },
+    {
+        "pregunta": "¿Qué es el Esfuerzo Principal (ME)?",
+        "opciones": ["Actividades que coadyuvan al logro del objetivo general.", "La parte de la fuerza que se deja como \"As bajo la manga\".", "Aquella actividad u operación que es vital para el logro del objetivo general de la fuerza."],
+        "respuesta_correcta": "Aquella actividad u operación que es vital para el logro del objetivo general de la fuerza."
+    },
+    {
+        "pregunta": "¿Cómo se define \"Armas Combinadas\"?",
+        "opciones": ["La aplicación de tácticas y técnicas de rutina contra el enemigo.", "La aplicación sincronizada o simultánea de varias armas para lograr un efecto mucho mayor.", "El uso de fuerzas irregulares en apoyo a las fuerzas regulares."],
+        "respuesta_correcta": "La aplicación sincronizada o simultánea de varias armas para lograr un efecto mucho mayor."
+    },
+    {
+        "pregunta": "¿A quién corresponde el Mando Supremo de las Fuerzas Armadas Mexicanas?",
+        "opciones": ["Al Secretario de Marina.", "Al Presidente de la República.", "Al Jefe del Estado Mayor Conjunto."],
+        "respuesta_correcta": "Al Presidente de la República."
+    },
+    {
+        "pregunta": "¿Qué organismo coordina las acciones militares en el nivel estratégico cuando lo ordena el Mando Supremo?",
+        "opciones": ["El Estado Mayor General de la Armada.", "El Consejo de Seguridad Nacional (NSC).", "El Estado Mayor Conjunto (JCS)."],
+        "respuesta_correcta": "El Estado Mayor Conjunto (JCS)."
+    },
+    {
+        "pregunta": "¿Qué unidades son consideradas \"Grandes Unidades Elementales\" en la organización de la Armada?",
+        "opciones": ["Flotillas, Brigadas Divisionarias y Grupos Aeronavales.", "Flotas, Alas Aeronavales, Brigadas Anfibias y Divisiones de IM.", "Fuerzas Navales, Cuerpo de IM y Cuerpo de Aviación Naval."],
+        "respuesta_correcta": "Flotas, Alas Aeronavales, Brigadas Anfibias y Divisiones de IM."
+    },
+    {
+        "pregunta": "¿Cómo se define una \"Escuadrilla de Buques\"?",
+        "opciones": ["Unidad naval compuesta de dos o más Flotillas.", "Organización que consta de dos o más buques que tienen las mismas características o cumplen las mismas funciones.", "Buque de guerra integrante de una Flota."],
+        "respuesta_correcta": "Organización que consta de dos o más buques que tienen las mismas características o cumplen las mismas funciones."
+    },
+    {
+        "pregunta": "¿Cuál es la unidad táctica básica de maniobra o de apoyo de una Brigada de Infantería de Marina?",
+        "opciones": ["Compañía.", "Sección.", "Batallón."],
+        "respuesta_correcta": "Batallón."
+    },
+    {
+        "pregunta": "¿Cuáles son las seis clases de operaciones de guerra que reconoce la Armada de México?",
+        "opciones": ["Marítima, Terrestre, Aeronaval, Anfibia, Ciberespacio y Especiales.", "Ofensivas, Defensivas, De Apoyo, Conjuntas, Combinadas y Especiales.", "De Desgaste, De Maniobra, Regulares, Irregular, Híbridas y De Ciberespacio."],
+        "respuesta_correcta": "Marítima, Terrestre, Aeronaval, Anfibia, Ciberespacio y Especiales."
+    },
+    {
+        "pregunta": "¿Cómo se logra el control del mar?",
+        "opciones": ["Mediante la entrega aérea de abastecimientos en bases avanzadas.", "Mediante la destrucción o neutralización de buques, submarinos, aeronaves o minas enemigos.", "Mediante la aplicación de medidas de contra-contramedidas electrónicas."],
+        "respuesta_correcta": "Mediante la destrucción o neutralización de buques, submarinos, aeronaves o minas enemigos."
+    },
+    {
+        "pregunta": "¿A qué se orientan las Operaciones de Guerra Marítima?",
+        "opciones": ["Hacia el mantenimiento del orden interno y seguridad nacional.", "Hacia el control del mar y a la proyección de fuerza.", "Hacia la búsqueda y rescate de personal en peligro."],
+        "respuesta_correcta": "Hacia el control del mar y a la proyección de fuerza."
+    },
+    {
+        "pregunta": "¿En las operaciones anfibias, cómo se le denomina al Grupo de Tarea de Superficie (STG)?",
+        "opciones": ["Fuerza de Tarea Aeromarítima (AMTF).", "Unidad Marítima de Teatro.", "Fuerza de Superficie (SF)."],
+        "respuesta_correcta": "Fuerza de Superficie (SF)."
+    },
+    {
+        "pregunta": "¿Qué comprenden las maniobras de batalla en la guerra marítima?",
+        "opciones": ["La protección de una fuerza contra ataques submarinos.", "Evoluciones desde una formación de crucero a la fase de \"aproximación\" y durante la batalla.", "Recorrido sistemático de un área en el que se sospecha sembrado de minas."],
+        "respuesta_correcta": "Evoluciones desde una formación de crucero a la fase de \"aproximación\" y durante la batalla."
+    },
+    {
+        "pregunta": "¿Cómo se clasifican las operaciones antisubmarinas?",
+        "opciones": ["En preventivas y reactivas.", "En de superficie y aéreas.", "En ofensivas o de protección."],
+        "respuesta_correcta": "En ofensivas o de protección."
+    },
+    {
+        "pregunta": "¿Cuál es la secuencia de una operación de barrido de minas?",
+        "opciones": ["Localización, Identificación y Operación (Eliminación).", "Búsqueda, Traqueo y Destrucción.", "Reconocimiento, Marcación y Neutralización."],
+        "respuesta_correcta": "Localización, Identificación y Operación (Eliminación)."
+    },
+    {
+        "pregunta": "¿Qué son las \"cortinas\" en las operaciones marítimas defensivas?",
+        "opciones": ["Buques mercantes reunidos para navegar juntos.", "Arreglos periféricos de unidades cuya función es proteger un cuerpo principal.", "Medidas para degradar la capacidad de combate del enemigo."],
+        "respuesta_correcta": "Arreglos periféricos de unidades cuya función es proteger un cuerpo principal."
+    },
+    {
+        "pregunta": "¿Qué tipos de minado existen según su método de sembrado?",
+        "opciones": ["Por aeronaves, por submarinos y por unidades de superficie.", "De contacto, acústicas y de presión.", "Ofensivas, defensivas y de barrera."],
+        "respuesta_correcta": "Por aeronaves, por submarinos y por unidades de superficie."
+    },
+    {
+        "pregunta": "¿Cuáles son los tres tipos de Guerra Electrónica (EW)?",
+        "opciones": ["Inteligencia, Contrainteligencia y Ciberseguridad.", "ESM (Medidas de Apoyo), ECM (Contramedidas) y ECCM (Contra-Contramedidas).", "Ataque, Defensa y Explotación."],
+        "respuesta_correcta": "ESM (Medidas de Apoyo), ECM (Contramedidas) y ECCM (Contra-Contramedidas)."
+    },
+    {
+        "pregunta": "¿Cómo se denomina a la combinación de unidades terrestres y un Grupo de Tarea Aéreo cuando no es posible la actuación del STG?",
+        "opciones": ["Fuerza de Tarea Anfibia (ANTF).", "Fuerza de Tarea Aeroterrestre (ALTF).", "Fuerza de Desembarco (FD)."],
+        "respuesta_correcta": "Fuerza de Tarea Aeroterrestre (ALTF)."
+    },
+    {
+        "pregunta": "¿Cuáles son los cuatro tipos generales de tareas terrestres ofensivas?",
+        "opciones": ["Ataque frontal, penetración, infiltración y rodeo.", "Movimiento al contacto, ataque, explotación y persecución.", "Improvisado, deliberado, contraataque e incursión."],
+        "respuesta_correcta": "Movimiento al contacto, ataque, explotación y persecución."
+    },
+    {
+        "pregunta": "¿Qué tipo de operación ofensiva se conduce para desarrollar la situación y establecer contacto con el enemigo?",
+        "opciones": ["Reconocimiento en fuerza.", "Movimiento al contacto.", "Búsqueda y patrulla."],
+        "respuesta_correcta": "Movimiento al contacto."
+    },
+    {
+        "pregunta": "¿Qué operación ofensiva usualmente sigue a un ataque exitoso y es diseñada para desorganizar al enemigo en profundidad?",
+        "opciones": ["Persecución.", "Explotación.", "Incursión."],
+        "respuesta_correcta": "Explotación."
+    },
+    {
+        "pregunta": "¿Qué operación busca capturar o atajar a una fuerza hostil intentando escapar para destruirla?",
+        "opciones": ["Explotación.", "Cerco.", "Persecución."],
+        "respuesta_correcta": "Persecución."
+    },
+    {
+        "pregunta": "¿Cuáles son las seis formas de maniobra ofensiva básica?",
+        "opciones": ["Movimiento al contacto, ataque, explotación, persecución, infiltración y rodeo.", "Ataque frontal, de flanco, penetración, envolvimiento, movimiento de rodeo e infiltración.", "Seguridad, cuerpo principal, reserva, sostenimiento, protección y maniobra."],
+        "respuesta_correcta": "Ataque frontal, de flanco, penetración, envolvimiento, movimiento de rodeo e infiltración."
+    },
+    {
+        "pregunta": "¿Cómo se organiza el espacio de batalla ofensivo?",
+        "opciones": ["Área de Seguridad, de Batalla Principal y de Retaguardia.", "Lo profundo, lo cercano y la retaguardia.", "Mar, aire y tierra."],
+        "respuesta_correcta": "Lo profundo, lo cercano y la retaguardia."
+    },
+    {
+        "pregunta": "¿Cuáles son los tres tipos de tareas defensivas terrestres?",
+        "opciones": ["Defensa de Sector, de Posición de Batalla y de Punto Fortificado.", "Defensa de Área, Defensa Móvil y Operación Retrógrada.", "Repliegue, Retirada y Retardo."],
+        "respuesta_correcta": "Defensa de Área, Defensa Móvil y Operación Retrógrada."
+    },
+    {
+        "pregunta": "¿Qué tipo de defensa solo pueden llevarla a cabo unidades de talla de División y mayores?",
+        "opciones": ["Defensa de Área.", "Operación Retrógrada.", "Defensa Móvil."],
+        "respuesta_correcta": "Defensa Móvil."
+    },
+    {
+        "pregunta": "¿Cómo se clasifican las operaciones retrógradas?",
+        "opciones": ["Repliegue, retirada y retardo o retardatriz.", "Defensa de área, móvil y de sector.", "Movimiento al contacto, explotación y persecución."],
+        "respuesta_correcta": "Repliegue, retirada y retardo o retardatriz."
+    },
+    {
+        "pregunta": "¿En qué operación retrógrada planeada una fuerza en combate rompe el contacto con el enemigo?",
+        "opciones": ["La retirada.", "El repliegue.", "El retardo."],
+        "respuesta_correcta": "El repliegue."
+    },
+    {
+        "pregunta": "¿Qué es una acción retardatriz?",
+        "opciones": ["Un movimiento hacia retaguardia de una fuerza que no está en contacto.", "Operación en la cual una fuerza bajo presión cede espacio para ganar tiempo sin comprometerse decisivamente.", "El reemplazo de una unidad por otra que llega."],
+        "respuesta_correcta": "Operación en la cual una fuerza bajo presión cede espacio para ganar tiempo sin comprometerse decisivamente."
+    },
+    {
+        "pregunta": "¿Cómo se organiza el espacio de batalla defensivo?",
+        "opciones": ["Área de Seguridad, Área de Batalla Principal y Área de Retaguardia.", "Lo profundo, lo cercano y la retaguardia.", "Zona del Interior y Zona de Operaciones."],
+        "respuesta_correcta": "Área de Seguridad, Área de Batalla Principal y Área de Retaguardia."
+    },
+    {
+        "pregunta": "¿Qué es una operación de \"Paso de Líneas\"?",
+        "opciones": ["Punto en el terreno donde cambia la responsabilidad de una fuerza estacionaria a una móvil.", "Operación en la cual una fuerza se mueve a través de posiciones de combate de otra fuerza para entrar o salir del contacto.", "Reemplazo de toda o parte de una unidad por otra unidad entrante."],
+        "respuesta_correcta": "Operación en la cual una fuerza se mueve a través de posiciones de combate de otra fuerza para entrar o salir del contacto."
+    },
+    {
+        "pregunta": "¿Cómo se clasifica el Apoyo Aéreo Ofensivo (OAS)?",
+        "opciones": ["Profundo, Cercano, de Transporte, Antisubmarinos y de Ataque Electrónico.", "Ofensivo, Defensivo, Complementario, Especial y De Rescate.", "Interdicción, Reconocimiento, Escolta, Intercepción y Control."],
+        "respuesta_correcta": "Profundo, Cercano, de Transporte, Antisubmarinos y de Ataque Electrónico."
+    },
+    {
+        "pregunta": "¿Qué es el Apoyo Aéreo Profundo (DAS)?",
+        "opciones": ["Acción en la proximidad de fuerzas amigas que requiere integración detallada.", "Acción contra blancos a tal distancia de fuerzas amigas que no requiere integración detallada en fuego y movimiento.", "El uso de armas electromagnéticas para degradar al enemigo."],
+        "respuesta_correcta": "Acción contra blancos a tal distancia de fuerzas amigas que no requiere integración detallada en fuego y movimiento."
+    },
+    {
+        "pregunta": "¿Qué misiones se clasifican dentro del Apoyo Aéreo Profundo (DAS)?",
+        "opciones": ["Ataque improvisado y deliberado.", "Interdicción Aérea y Reconocimiento Armado.", "Defensa antiaérea y escolta de vuelo."],
+        "respuesta_correcta": "Interdicción Aérea y Reconocimiento Armado."
+    },
+    {
+        "pregunta": "¿Qué documento estándar se utiliza para solicitar Apoyo Aéreo Cercano (CAS)?",
+        "opciones": ["Plan de Fuego de Armas Combinadas.", "Orden de operaciones de la TF.", "Orden de nueve líneas."],
+        "respuesta_correcta": "Orden de nueve líneas."
+    },
+    {
+        "pregunta": "¿Cuáles son los tipos de Apoyo Aéreo Cercano (CAS)?",
+        "opciones": ["Estratégico y Operacional.", "Pre planeado (programado o a solicitud) e Inmediato.", "De superficie y submarino."],
+        "respuesta_correcta": "Pre planeado (programado o a solicitud) e Inmediato."
+    },
+    {
+        "pregunta": "¿Qué misiones de CAS se ejecutan sobre blancos de oportunidad no planeados?",
+        "opciones": ["CAS Programado.", "CAS Inmediato.", "CAS a solicitud."],
+        "respuesta_correcta": "CAS Inmediato."
+    },
+    {
+        "pregunta": "¿Diferencia entre una operación TRAP y una de búsqueda y rescate?",
+        "opciones": ["Las TRAP se llevan a cabo mediante helicópteros de ala móvil exclusivamente.", "Las TRAP generalmente se llevan a cabo en un ambiente hostil.", "La búsqueda y rescate es solo para personal de aviación."],
+        "respuesta_correcta": "Las TRAP generalmente se llevan a cabo en un ambiente hostil."
+    },
+    {
+        "pregunta": "¿En qué consisten las operaciones de intercepción aérea?",
+        "opciones": ["En proporcionar seguridad durante el vuelo a aeronaves de defensa limitada.", "Acciones activas y pasivas para defender el espacio aéreo y proteger fuerzas amigas de ataques desde aeronaves y misiles.", "Operaciones para salvaguardar la integridad de personal propio que envía llamadas de auxilio."],
+        "respuesta_correcta": "Acciones activas y pasivas para defender el espacio aéreo y proteger fuerzas amigas de ataques desde aeronaves y misiles."
+    },
+    {
+        "pregunta": "¿Qué es una Operación Anfibia?",
+        "opciones": ["Un movimiento de tropas helitransportadas tierra adentro.", "Operación militar lanzada desde el mar por una Fuerza de Tarea Anfibia con el propósito de introducir a una Fuerza de Desembarco (FD).", "Una operación de interdicción marítima para capturar buques enemigos."],
+        "respuesta_correcta": "Operación militar lanzada desde el mar por una Fuerza de Tarea Anfibia con el propósito de introducir a una Fuerza de Desembarco (FD)."
+    },
+    {
+        "pregunta": "¿Cuáles son las cinco fases de una operación anfibia?",
+        "opciones": ["Búsqueda, Traqueo, Identificación, Neutralización y Retirada.", "Planeamiento, Embarque, Ensayo, Movimiento al Área Objetivo y Acción Anfibia (asalto).", "Infiltración, Penetración, Envolvimiento, Explotación y Persecución."],
+        "respuesta_correcta": "Planeamiento, Embarque, Ensayo, Movimiento al Área Objetivo y Acción Anfibia (asalto)."
+    },
+    {
+        "pregunta": "¿Qué es el Movimiento Buque Playa (MBP)?",
+        "opciones": ["El traslado de la reserva a la zona del interior.", "La parte más crítica de la operación anfibia durante la fase de acción.", "El sembrado de minas defensivas en la costa hostil."],
+        "respuesta_correcta": "La parte más crítica de la operación anfibia durante la fase de acción."
+    },
+    {
+        "pregunta": "¿Cuál es el tipo principal de operación anfibia?",
+        "opciones": ["Incursión anfibia.", "Demostración anfibia.", "Asalto anfibio."],
+        "respuesta_correcta": "Asalto anfibio."
+    },
+    {
+        "pregunta": "¿Qué operación anfibia busca engañar al enemigo mediante una demostración de fuerza?",
+        "opciones": ["Incursión anfibia.", "Retirada anfibia.", "Demostración anfibia."],
+        "respuesta_correcta": "Demostración anfibia."
+    },
+    {
+        "pregunta": "¿Cómo se integran los componentes de una ANTF si la operación es de menor escala?",
+        "opciones": ["Como Grupos de Tarea (STG, LTG y ATG).", "Como Fuerzas Navales Superiores.", "Como Unidades Marítimas de Teatro."],
+        "respuesta_correcta": "Como Grupos de Tarea (STG, LTG y ATG)."
+    },
+    {
+        "pregunta": "¿Cómo se definen las Operaciones Especiales?",
+        "opciones": ["Operaciones convencionales de gran escala en teatros de guerra.", "Aquellas conducidas por unidades especialmente organizadas para obtener éxito por medios militares no convencionales.", "Misiones de patrulla de rutina en el mar territorial."],
+        "respuesta_correcta": "Aquellas conducidas por unidades especialmente organizadas para obtener éxito por medios militares no convencionales."
+    },
+    {
+        "pregunta": "¿Qué misiones se consideran de Acción Directa en operaciones especiales?",
+        "opciones": ["Reconocimiento del terreno y localización de blancos.", "Patrullas de combate (emboscadas), operaciones de recuperación y ataques lejanos.", "Evaluación de daños de batalla post-ataque."],
+        "respuesta_correcta": "Patrullas de combate (emboscadas), operaciones de recuperación y ataques lejanos."
+    },
+    {
+        "pregunta": "¿Qué tipo de operaciones especiales involucran técnicas de Combate Cercano en Interiores (CCI)?",
+        "opciones": ["Operaciones de Interdicción Marítima (MIO).", "Operaciones contra terrorismo (CT).", "Reconocimiento especial."],
+        "respuesta_correcta": "Operaciones contra terrorismo (CT)."
+    },
+    {
+        "pregunta": "¿Cómo se define el ciberespacio según la doctrina?",
+        "opciones": ["Espacio físico donde se ubican los servidores institucionales.", "Espacio virtual creado por la interconexión global de computadoras a través de Internet.", "Conjunto de ondas electromagnéticas utilizadas por la radiofrecuencia."],
+        "respuesta_correcta": "Espacio virtual creado por la interconexión global de computadoras a través de Internet."
+    },
+    {
+        "pregunta": "¿Cuál es el quinto dominio de las operaciones militares reconocido por la OTAN?",
+        "opciones": ["Espacio exterior.", "Espectro electromagnético.", "Ciberespacio."],
+        "respuesta_correcta": "Ciberespacio."
+    },
+    {
+        "pregunta": "¿Qué son las Ciberoperaciones Ofensivas (OCO)?",
+        "opciones": ["Acciones destinadas a preservar la capacidad de utilizar el ciberespacio institucional.", "Ciberoperaciones destinadas a proyectar poder en y a través del ciberespacio enemigo.", "Medidas preventivas de ciberseguridad en la red interna."],
+        "respuesta_correcta": "Ciberoperaciones destinadas a proyectar poder en y a través del ciberespacio enemigo."
+    },
+    {
+        "pregunta": "¿Qué niveles de negación pueden lograr las OCO?",
+        "opciones": ["Infiltración, exfiltración y explotación.", "Degradación, interrupción y destrucción.", "Monitoreo, alerta y respuesta."],
+        "respuesta_correcta": "Degradación, interrupción y destrucción."
+    },
+    {
+        "pregunta": "¿Qué acción de las OCO permite controlar o cambiar información del enemigo para crear efectos en el mundo físico?",
+        "opciones": ["Manipulación.", "Destrucción.", "Interrupción."],
+        "respuesta_correcta": "Manipulación."
+    },
+    {
+        "pregunta": "¿Cuál es el objetivo de las Ciberoperaciones Defensivas (DCO)?",
+        "opciones": ["Negar el acceso a los sistemas de información del enemigo.", "Derrotar la amenaza de un adversario específico y/o devolver una red comprometida a un estado seguro y funcional.", "Destruir físicamente los nodos logísticos enemigos."],
+        "respuesta_correcta": "Derrotar la amenaza de un adversario específico y/o devolver una red comprometida a un estado seguro y funcional."
+    },
+    {
+        "pregunta": "¿Cuáles son los componentes de las DCO?",
+        "opciones": ["Ofensivo y defensivo.", "Medidas de Defensa Interna (DCO-IDM) y Defensa Activa (DCO-DA).", "Security de red y seguridad de datos."],
+        "respuesta_correcta": "Medidas de Defensa Interna (DCO-IDM) y Defensa Activa (DCO-DA)."
+    },
+    {
+        "pregunta": "¿Dónde ocurren las acciones de las DCO-IDM?",
+        "opciones": ["Fuera de la red institucional.", "Dentro de la red institucional y/o amiga.", "Exclusivamente en el ciberespacio enemigo."],
+        "respuesta_correcta": "Dentro de la red institucional y/o amiga."
+    },
+    {
+        "pregunta": "¿Qué se requiere para la ejecución de operaciones DCO-DA?",
+        "opciones": ["Un reporte de vulnerabilidades.", "Una Orden de Operaciones.", "Una auditoría de seguridad externa."],
+        "respuesta_correcta": "Una Orden de Operaciones."
+    },
+    {
+        "pregunta": "¿A qué están enfocadas las OMDG?",
+        "opciones": ["A pelear y ganar las guerras contra fuerzas invasoras.", "A la disuasión, solución de conflictos, promoción de la paz y aplicación del Estado de Derecho.", "A la destrucción del centro de gravedad estratégico del enemigo."],
+        "respuesta_correcta": "A la disuasión, solución de conflictos, promoción de la paz y aplicación del Estado de Derecho."
+    },
+    {
+        "pregunta": "¿Cuáles son los principios de las OMDG?",
+        "opciones": ["Ofensiva, masa, maniobra, sorpresa, seguridad y simplicidad.", "Objetivo, unidad de esfuerzo, seguridad, restricción, perseverancia y legitimidad.", "Coordinación, cooperación, flexibilidad, mando, control e inteligencia."],
+        "respuesta_correcta": "Objetivo, unidad de esfuerzo, seguridad, restricción, perseverancia y legitimidad."
+    },
+    {
+        "pregunta": "¿Qué significa el principio de \"Restricción\" en OMDG?",
+        "opciones": ["Aplicar de manera prudente la capacidad militar apropiada.", "Limitar el movimiento de las fuerzas amigas para evitar detección.", "Negar al enemigo el acceso a información clasificada."],
+        "respuesta_correcta": "Aplicar de manera prudente la capacidad militar apropiada."
+    },
+    {
+        "pregunta": "¿Qué principio permite la aplicación de la capacidad militar en forma mesurada y prolongada para lograr objetivos estratégicos?",
+        "opciones": ["Legitimidad.", "Perseverancia.", "Seguridad."],
+        "respuesta_correcta": "Perseverancia."
+    },
+    {
+        "pregunta": "¿Qué principio de OMDG significa legalizar las acciones militares?",
+        "opciones": ["Objetivo.", "Legitimidad.", "Restricción."],
+        "respuesta_correcta": "Legitimidad."
+    },
+    {
+        "pregunta": "¿Qué son las operaciones para el mantenimiento del Estado de Derecho?",
+        "opciones": ["Operaciones en tiempo de guerra para capturar el litoral hostil.", "Aquellas que se llevan a cabo en tiempo de paz para coadyuvar con el orden interno en apoyo a autoridades civiles.", "Misiones clandestinas de acción directa en territorio extranjero."],
+        "respuesta_correcta": "Aquellas que se llevan a cabo en tiempo de paz para coadyuvar con el orden interno en apoyo a autoridades civiles."
+    },
+    {
+        "pregunta": "¿Qué tipo de OMDG tiene como fin frenar el tráfico de personas en apoyo al Instituto Nacional de Migración?",
+        "opciones": ["Operaciones contra el crimen organizado.", "Operaciones contra el tráfico ilegal de personas.", "Operaciones de restauración del orden."],
+        "respuesta_correcta": "Operaciones contra el tráfico ilegal de personas."
+    },
+    {
+        "pregunta": "¿Qué operaciones realizan las unidades de superficie para proteger el tráfico marítimo y actividades pesqueras contra actos ilícitos en el mar?",
+        "opciones": ["Operaciones contra la piratería en el mar.", "Operaciones de escota y defensa de convoy.", "Operaciones de barrera."],
+        "respuesta_correcta": "Operaciones contra la piratería en el mar."
+    },
+    {
+        "pregunta": "¿Qué operación de seguridad tiene como propósito la protección física de instalaciones que tienen un valor estratégico para la Nación?",
+        "opciones": ["Operaciones de inteligencia.", "Operaciones de seguridad a instalaciones estratégicas.", "Operaciones de defensa de punto fortificado."],
+        "respuesta_correcta": "Operaciones de seguridad a instalaciones estratégicas."
+    },
+    {
+        "pregunta": "¿Qué tareas básicas se llevan a cabo en operaciones de ayuda humanitaria?",
+        "opciones": ["Interdicción, captura y destrucción.", "Búsqueda y rescate, evacuación, apoyo médico, alimentación, albergue y control.", "Inteligencia, vigilancia y reconocimiento."],
+        "respuesta_correcta": "Búsqueda y rescate, evacuación, apoyo médico, alimentación, albergue y control."
+    },
+    {
+        "pregunta": "¿Qué se requiere para que la Armada realice Operaciones de Paz (mantenimiento de la paz)?",
+        "opciones": ["Orden directa del Alto Mando únicamente.", "Solicitud de la ONU y aprobación del Congreso de la Unión.", "Declaración de estado de emergencia nacional."],
+        "respuesta_correcta": "Solicitud de la ONU y aprobación del Congreso de la Unión."
+    },
+    {
+        "pregunta": "¿Cuántos niveles de adiestramiento se clasifican en la Armada?",
+        "opciones": ["3 niveles.", "4 niveles.", "5 niveles."],
+        "respuesta_correcta": "5 niveles."
+    },
+    {
+        "pregunta": "¿Qué nivel de adiestramiento se refiere al \"adiestramiento de conjunto\"?",
+        "opciones": ["Nivel III.", "Nivel IV.", "Nivel V."],
+        "respuesta_correcta": "Nivel V."
+    },
+    {
+        "pregunta": "¿Cómo se denominan las medidas ofensivas para combatir al terrorismo?",
+        "opciones": ["Antiterrorismo.", "Contraterrorismo.", "Anti-insurgencia."],
+        "respuesta_correcta": "Contraterrorismo."
+    },
+    {
+        "pregunta": "¿Qué son las Operaciones de Ciberseguridad (CSO)?",
+        "opciones": ["Ciberoperaciones destinadas a proyectar poder en el ciberespacio enemigo.", "Acciones operativas para asegurar, operar y mantener el ciberespacio institucional de forma preventiva.", "Operaciones para destruir irreparablemente la información del enemigo."],
+        "respuesta_correcta": "Acciones operativas para asegurar, operar y mantener el ciberespacio institucional de forma preventiva."
+    },
+    {
+        "pregunta": "¿A qué se refiere el término \"Agnóstico en cuanto a las amenazas\" en las CSO?",
+        "opciones": ["Que solo se enfocan en un adversario específico previamente identificado.", "Que las fuerzas se esfuerzan por evitar que todas las amenazas afecten negativamente a la red.", "Que no requieren inteligencia previa para su ejecución."],
+        "respuesta_correcta": "Que las fuerzas se esfuerzan por evitar que todas las amenazas afecten negativamente a la red."
+    },
+    {
+        "pregunta": "¿Cómo se define \"Amenaza Híbrida\"?",
+        "opciones": ["El empleo de fuerzas regulares contra guerrillas.", "Fenómeno resultante de la convergencia e interconexión de diferentes elementos que constituyen una amenaza compleja.", "El uso de armas nucleares y convencionales simultáneamente."],
+        "respuesta_correcta": "Fenómeno resultante de la convergencia e interconexión de diferentes elementos que constituyen una amenaza compleja."
+    },
+    {
+        "pregunta": "¿Qué es el \"Conflicto Híbrido\"?",
+        "opciones": ["Una situación de guerra total declarada por el Mando Supremo.", "Situación en la cual las partes se abstienen del uso abierto de la fuerza y actúan combinando intimidación militar y explotación de vulnerabilidades.", "Operaciones que combinan los seis ámbitos de la guerra marítima."],
+        "respuesta_correcta": "Situación en la cual las partes se abstienen del uso abierto de la fuerza y actúan combinando intimidación militar y explotación de vulnerabilidades."
+    },
+    {
+        "pregunta": "¿Qué acrónimo corresponde a \"Chairman of Joint Chief Staff\" (Jefe del Estado Mayor Conjunto)?",
+        "opciones": ["JCS.", "JFC.", "CJCS."],
+        "respuesta_correcta": "CJCS."
+    },
+    {
+        "pregunta": "¿Qué significa el acrónimo TRAP?",
+        "opciones": ["Tácticas de Respuesta de Aeronaves y Personal.", "Recuperación Táctica de Aeronave y Personal (Tactical Recovery of Aircraft and Personal).", "Tareas de Reconocimiento Aéreo y Patrullaje."],
+        "respuesta_correcta": "Recuperación Táctica de Aeronave y Personal (Tactical Recovery of Aircraft and Personal)."
+    }
+]
